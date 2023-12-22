@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66e54a9657731578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "不要说话1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,8 +125,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "122be8d56ae8649f",
+  "active": "66e54a9657731578",
   "lastOpenFiles": [
+    "不要说话.md",
+    "不要说话1.md",
     "不知不觉爱上你.md",
     "不该用情.md",
     "the apl song.md",
@@ -137,7 +152,6 @@
     "情到浓时.md",
     "t-音乐人的事怎么能叫抄呢.md",
     "Storm in Lover.md",
-    "smooth criminal.md",
-    "on my girl.md"
+    "smooth criminal.md"
   ]
 }
