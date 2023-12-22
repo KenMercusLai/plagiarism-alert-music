@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "71f95b73eb948125",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f0e50f2e6ed7ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88920ef01845a267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8487b365f16b4c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cac5f9ff980cc67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b5bee881a3e8c3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17051909f47caf3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e6bc6820c81cdaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c230b09ab0d8d398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070bb1b02d9659eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "88920ef01845a267",
+  "lastOpenFiles": [
+    "README.md",
+    "Prisoner of Love.md",
+    "Quang Hung Master D.md",
+    "情到浓时.md",
+    "一生无悔.md",
+    "一笑倾城.md",
+    "一拍两散.md",
+    "一个人挺好.md",
+    "Солнышко.md",
+    "Why Me.md",
+    "the apl song.md",
+    "the apl song.md",
+    "t-音乐人的事怎么能叫抄呢.md",
+    "Storm in Lover.md",
+    "signal.md",
+    "smooth criminal.md",
+    "on my girl.md",
+    "my child.md",
+    "My all.md",
+    "Melody.md",
+    "Lollipop.md",
+    "I live my life for you.md",
+    "I Don't Want to Miss a Thing.md",
+    "I Don't Wanna Fight.md",
+    "Hurricane 2000.md"
+  ]
+}

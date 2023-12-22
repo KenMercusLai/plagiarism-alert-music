@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "发行": "date",
+    "演唱": "multitext",
+    "抄袭": "multitext",
+    "作词": "multitext",
+    "作曲": "multitext",
+    "编曲": "multitext"
+  }
+}
