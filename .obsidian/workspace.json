@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乐游记.md",
+                "file": "逆流成河.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乐游记1.md",
+                "file": "t-音乐人的事怎么能叫抄呢.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,9 +112,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04453ad30f50348a",
+  "active": "0dcf282bde9bb4ef",
   "lastOpenFiles": [
-    "乐游记1.md",
     "乐游记.md",
     "逆流成河.md",
     "逆战.md",
