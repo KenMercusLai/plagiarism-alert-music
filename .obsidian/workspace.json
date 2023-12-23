@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04453ad30f50348a",
+            "id": "527f6e3788065f10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "孤岛星愿.md",
+                "file": "借酒浇愁.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "527f6e3788065f10",
+            "id": "2d0bf76f9c6ea50c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中国菜.md",
+                "file": "借酒浇愁1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,6 +35,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "4bdb401fe96a7eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1baed49d2e62c1fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "倔强.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +132,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "527f6e3788065f10",
+  "active": "2d0bf76f9c6ea50c",
   "lastOpenFiles": [
+    "借酒浇愁.md",
+    "借酒浇愁1.md",
+    "你还要我怎样.md",
+    "倔强.md",
+    "修炼爱情.md",
+    "信仰之名.md",
+    "依然在一起.md",
+    "你若成风.md",
+    "你是人间四月天.md",
+    "你把爱情给了谁.md",
+    "你怎么舍得我难过.md",
+    "伤心的人别听慢歌.md",
+    "仙才叹.md",
+    "他不懂.md",
+    "今朝有酒今朝醉.md",
+    "乐游记.md",
+    "临时演员.md",
+    "中国话.md",
+    "中国菜.md",
     "东京不太热.md",
     "与犯罪相关的战争.md",
     "不该用情.md",
@@ -122,25 +160,6 @@
     "不知不觉爱上你.md",
     "不浪漫罪名.md",
     "不想再见面.md",
-    "下辈子不一定还能遇见你.md",
-    "三生三世.md",
-    "signal.md",
-    "Prisoner of Love.md",
-    "on my girl.md",
-    "Quang Hung Master D.md",
-    "my child.md",
-    "Melody.md",
-    "Lollipop.md",
-    "I Don't Want to Miss a Thing.md",
-    "I Don't Wanna Fight.md",
-    "Hurricane 2000.md",
-    "goodbye 青春.md",
-    "Champagne Ocean.md",
-    "Call Your Name.md",
-    "Bo Peep Bo Peep.md",
-    "9277.md",
-    "9420.md",
-    "今朝有酒今朝醉.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
