@@ -4,160 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "96f0e50f2e6ed7ed",
+        "id": "023c1b1f098cf3d5",
         "type": "tabs",
         "children": [
           {
-            "id": "66e54a9657731578",
+            "id": "1e19440d6896e0ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "时间镜头.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "228347fe653b716d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b134b6b8b160c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "青鸟-许巍.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "839f56a963f22418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "孤牢.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ab57c295511e8b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "对方正在输入.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54e1facc310e4fe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "幸福等待.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c342517adc5a977f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "幻听.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "639e56ef7980dee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "庐州月.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "684d2d3ab5528077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "情到浓时.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9fff7a941206e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "所有.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b06bd97c28c01187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "掏空.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "223c97faf6ca52a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "无价之姐.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -236,20 +94,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "223c97faf6ca52a0",
+  "active": "1e19440d6896e0ed",
   "lastOpenFiles": [
-    "时间镜头.md",
     "I Don't Wanna Fight.md",
-    "无价之姐.md",
-    "掏空.md",
-    "所有.md",
-    "情到浓时.md",
-    "庐州月.md",
-    "幻听.md",
-    "幸福等待.md",
-    "对方正在输入.md",
-    "孤牢.md",
     "青鸟-许巍.md",
+    "孤牢.md",
+    "对方正在输入.md",
+    "幸福等待.md",
+    "幻听.md",
+    "庐州月.md",
+    "情到浓时.md",
+    "所有.md",
+    "掏空.md",
+    "无价之姐.md",
+    "时间镜头.md",
+    "暗里着迷.md",
     "修炼爱情.md",
     "假笑.md",
     "再度重相逢.md",
@@ -262,8 +121,6 @@
     "多余的解释.md",
     "大海.md",
     "如果当时.md",
-    "[[赵雷]].md",
-    "你若成风.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
