@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "爱你三千遍.md",
+                "file": "殇雪.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,7 +84,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "爱你三千遍1.md",
+                "file": "爱你三千遍.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46481f070c6553c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "演员.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87f30dd8ce9e42dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "殇雪1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -173,10 +199,12 @@
   },
   "active": "66e54a9657731578",
   "lastOpenFiles": [
-    "爱你三千遍1.md",
+    "殇雪1.md",
+    "殇雪.md",
+    "演员.md",
+    "I Don't Wanna Fight.md",
     "爱你三千遍.md",
     "爱难忘情难断.md",
-    "I Don't Wanna Fight.md",
     "爸爸妈妈.md",
     "你若成风.md",
     "青鸟-许巍.md",
@@ -197,8 +225,6 @@
     "[[伍佰]].md",
     "[[黄磊]].md",
     "有何不可.md",
-    "突然的自我.md",
-    "Untitled.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
