@@ -1,4 +1,5 @@
 ---
+歌名: Champagne Ocean
 作词: 
 作曲:
   - "[[Ehrling]]"
