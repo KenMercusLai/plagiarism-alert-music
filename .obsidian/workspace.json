@@ -11,8 +11,13 @@
             "id": "1e19440d6896e0ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "15楼窗外.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -57,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -96,6 +100,9 @@
   },
   "active": "1e19440d6896e0ed",
   "lastOpenFiles": [
+    "t-音乐人的事怎么能叫抄呢.md",
+    "README.md",
+    "123我爱你.md",
     "I Don't Wanna Fight.md",
     "青鸟-许巍.md",
     "孤牢.md",
@@ -119,8 +126,6 @@
     "南方姑娘.md",
     "去年夏天.md",
     "多余的解释.md",
-    "大海.md",
-    "如果当时.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
