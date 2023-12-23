@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I Don't Wanna Fight.md",
+                "file": "如果当时.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,9 +155,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac81d38ea6def0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "多余的解释.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db7a3ed18a2eca71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大海1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57d06b633a1c7560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如果当时1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -236,10 +275,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66e54a9657731578",
+  "active": "57d06b633a1c7560",
   "lastOpenFiles": [
-    "去年夏天.md",
+    "大海1.md",
+    "如果当时1.md",
+    "如果当时.md",
     "I Don't Wanna Fight.md",
+    "大海.md",
+    "多余的解释.md",
+    "去年夏天.md",
     "南方姑娘.md",
     "[[赵雷]].md",
     "有何不可.md",
@@ -259,10 +303,6 @@
     "桥边姑娘.md",
     "你还要我怎样.md",
     "信仰之名.md",
-    "他不懂.md",
-    "青鸟.md",
-    "逆流成河.md",
-    "逆战.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
