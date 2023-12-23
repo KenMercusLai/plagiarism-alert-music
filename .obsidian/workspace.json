@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "527f6e3788065f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "今朝有酒今朝醉.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,8 +113,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04453ad30f50348a",
+  "active": "527f6e3788065f10",
   "lastOpenFiles": [
+    "孤岛星愿.md",
+    "今朝有酒今朝醉.md",
+    "今朝有酒今朝醉.md",
     "足够.md",
     "t-音乐人的事怎么能叫抄呢.md",
     "超级喜欢你.md",
@@ -124,9 +141,6 @@
     "粉红情歌.md",
     "简单的幸福.md",
     "乐游记.md",
-    "要抱抱.md",
-    "借酒浇愁.md",
-    "双截龙2.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
