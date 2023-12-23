@@ -15,62 +15,7 @@
     "description": "Published: 2017"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "S",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "i",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "n",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "g",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "女",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "团",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "Sing女团",
     "type": "Person",
     "description": ""
   },
@@ -4182,118 +4127,13 @@
     "type": "抄袭"
   },
   {
-    "from": "",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "S",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "i",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "n",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "g",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "女",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "团",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "123木头人",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "Sing女团",
     "to": "123木头人",
     "type": "演唱"
   },
   {
     "from": "123木头人",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "客",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "官",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "不",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "可",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "以",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "123木头人",
-    "to": "",
+    "to": "客官不可以",
     "type": "抄袭"
   },
   {
