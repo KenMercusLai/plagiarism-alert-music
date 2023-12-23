@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "南方姑娘.md",
+                "file": "I Don't Wanna Fight.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,7 +136,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "南方姑娘1.md",
+                "file": "南方姑娘.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e92cd4d5f9b8212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "去年夏天.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -223,12 +236,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4149db2ac9ad6fff",
+  "active": "66e54a9657731578",
   "lastOpenFiles": [
-    "有何不可.md",
-    "南方姑娘1.md",
-    "南方姑娘.md",
+    "去年夏天.md",
     "I Don't Wanna Fight.md",
+    "南方姑娘.md",
+    "[[赵雷]].md",
+    "有何不可.md",
     "千千万万.md",
     "分手就分手.md",
     "冬眠.md",
@@ -249,8 +263,6 @@
     "青鸟.md",
     "逆流成河.md",
     "逆战.md",
-    "跟我出发.md",
-    "简单的幸福.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
