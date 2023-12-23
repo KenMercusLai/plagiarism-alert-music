@@ -5,9 +5,19 @@
     "description": "Published: 2017-12-25"
   },
   {
+    "from": "123我爱你",
+    "to": "my child",
+    "type": "抄袭"
+  },
+  {
     "label": "123木头人",
     "type": "Song",
     "description": "Published: 2017"
+  },
+  {
+    "from": "123木头人",
+    "to": "客官不可以",
+    "type": "抄袭"
   },
   {
     "label": "15楼窗外",
@@ -20,6 +30,11 @@
     "description": "Published: 2018-05-08"
   },
   {
+    "from": "9277",
+    "to": "Champagne Ocean",
+    "type": "抄袭"
+  },
+  {
     "label": "宋孟君",
     "type": "Person"
   },
@@ -27,6 +42,11 @@
     "label": "9420",
     "type": "Song",
     "description": "Published: 2017-10-24"
+  },
+  {
+    "from": "9420",
+    "to": "悼念爱",
+    "type": "抄袭"
   },
   {
     "label": "Bo Peep Bo Peep",
@@ -99,6 +119,11 @@
     "description": "Published: 2009-02-26"
   },
   {
+    "from": "Why Me",
+    "to": "Lollipop",
+    "type": "抄袭"
+  },
+  {
     "label": "goodbye 青春",
     "type": "Song",
     "description": "Published: 1983-02-04"
@@ -112,6 +137,11 @@
     "label": "on my girl",
     "type": "Song",
     "description": "Published: 2018-01-01"
+  },
+  {
+    "from": "on my girl",
+    "to": "通天大道宽又阔",
+    "type": "抄袭"
   },
   {
     "label": "signal",
@@ -169,6 +199,11 @@
     "description": "Published: 2012-12-18"
   },
   {
+    "from": "三寸天堂",
+    "to": "梦的点滴",
+    "type": "抄袭"
+  },
+  {
     "label": "三生三世",
     "type": "Song",
     "description": "Published: 2017-01-12"
@@ -219,6 +254,11 @@
     "description": "Published: 2021-02-27"
   },
   {
+    "from": "中国菜",
+    "to": "偶像万万岁",
+    "type": "抄袭"
+  },
+  {
     "label": "中国话",
     "type": "Song",
     "description": "Published: 2007-05-11"
@@ -247,6 +287,11 @@
     "label": "仙才叹",
     "type": "Song",
     "description": "Published: 2018-01-09"
+  },
+  {
+    "from": "仙才叹",
+    "to": "千百度",
+    "type": "抄袭"
   },
   {
     "label": "伤心的人别听慢歌",
@@ -314,6 +359,11 @@
     "description": "Published: 2017-04-05"
   },
   {
+    "from": "做一个女人实在太难",
+    "to": "有多少爱可以重来",
+    "type": "抄袭"
+  },
+  {
     "label": "做我老婆好不好",
     "type": "Song",
     "description": "Published: 2007-10-22"
@@ -332,6 +382,11 @@
     "label": "再也不会遇见第二个她",
     "type": "Song",
     "description": "Published: 2018-07-03"
+  },
+  {
+    "from": "再也不会遇见第二个她",
+    "to": "全球变冷",
+    "type": "抄袭"
   },
   {
     "label": "再度重相逢",
@@ -414,9 +469,19 @@
     "description": "Published: 2018-05-03"
   },
   {
+    "from": "可不可以",
+    "to": "不想再见面",
+    "type": "抄袭"
+  },
+  {
     "label": "吉他初恋",
     "type": "Song",
     "description": "Published: 2021-04-30"
+  },
+  {
+    "from": "吉他初恋",
+    "to": "大风吹",
+    "type": "抄袭"
   },
   {
     "label": "吻痕",
@@ -514,6 +579,11 @@
     "description": "Published: 2021-03-13"
   },
   {
+    "from": "孤岛星愿",
+    "to": "对望",
+    "type": "抄袭"
+  },
+  {
     "label": "孤牢",
     "type": "Song",
     "description": "Published: 2019-04-28"
@@ -557,6 +627,11 @@
     "label": "小鸡小鸡",
     "type": "Song",
     "description": "Published: 2014-10-23"
+  },
+  {
+    "from": "小鸡小鸡",
+    "to": "Bo Peep Bo Peep",
+    "type": "抄袭"
   },
   {
     "label": "尘埃",
@@ -634,6 +709,11 @@
     "description": "Published: 2017-10-30"
   },
   {
+    "from": "思念的牢",
+    "to": "有个爱你的人不容易",
+    "type": "抄袭"
+  },
+  {
     "label": "悼念爱",
     "type": "Song",
     "description": "Published: 2012-07-02"
@@ -674,6 +754,11 @@
     "description": "Published: 2020-01-10"
   },
   {
+    "from": "我热情如火 你冰冷成河",
+    "to": "言不由衷",
+    "type": "抄袭"
+  },
+  {
     "label": "我爱你",
     "type": "Song",
     "description": "Published: 2020-02-18"
@@ -707,6 +792,11 @@
     "label": "摩天轮",
     "type": "Song",
     "description": "Published: 2005-12-06"
+  },
+  {
+    "from": "摩天轮",
+    "to": "说声珍重",
+    "type": "抄袭"
   },
   {
     "label": "攻城",
@@ -849,6 +939,11 @@
     "description": "Published: 2009-01-16"
   },
   {
+    "from": "没有如果",
+    "to": "留在我身边",
+    "type": "抄袭"
+  },
+  {
     "label": "法苏Lighting",
     "type": "Song",
     "description": "Published: 2016-05-01"
@@ -862,6 +957,11 @@
     "label": "满月",
     "type": "Song",
     "description": "Published: 2014-02-17"
+  },
+  {
+    "from": "满月",
+    "to": "智慧树",
+    "type": "抄袭"
   },
   {
     "label": "演员",
@@ -904,6 +1004,11 @@
     "description": "Published: 2018-11-28"
   },
   {
+    "from": "爱过的故事",
+    "to": "灰色轨迹",
+    "type": "抄袭"
+  },
+  {
     "label": "爱难忘情难断",
     "type": "Song",
     "description": "Published: 2020-09-19"
@@ -932,6 +1037,11 @@
     "label": "生死竞赛 Race",
     "type": "Song",
     "description": "Published: 2008-01-01"
+  },
+  {
+    "from": "生死竞赛 Race",
+    "to": "竹林深处",
+    "type": "抄袭"
   },
   {
     "label": "用心爱你",
@@ -1044,6 +1154,11 @@
     "description": "Published: 2020-12-17"
   },
   {
+    "from": "约定",
+    "to": "双人舞",
+    "type": "抄袭"
+  },
+  {
     "label": "缘分让我爱上了你",
     "type": "Song",
     "description": "Published: 2019-11-09"
@@ -1069,9 +1184,19 @@
     "description": "Published: 2018-10-25"
   },
   {
+    "from": "荣耀之路",
+    "to": "杀手",
+    "type": "抄袭"
+  },
+  {
     "label": "药神之歌",
     "type": "Song",
     "description": "Published: 2018-06-06"
+  },
+  {
+    "from": "药神之歌",
+    "to": "与犯罪相关的战争",
+    "type": "抄袭"
   },
   {
     "label": "蓝色风暴",
@@ -1082,6 +1207,11 @@
     "label": "虎虎虎",
     "type": "Song",
     "description": "Published: 2021-02-05"
+  },
+  {
+    "from": "虎虎虎",
+    "to": "伤心的人别听慢歌",
+    "type": "抄袭"
   },
   {
     "label": "血战唐人街 - GTA",
@@ -1114,6 +1244,11 @@
     "description": "Published: 2018-05-21"
   },
   {
+    "from": "讲真的",
+    "to": "心痛2009",
+    "type": "抄袭"
+  },
+  {
     "label": "说声珍重",
     "type": "Song",
     "description": "Published: 1987-12-19"
@@ -1127,6 +1262,11 @@
     "label": "足够",
     "type": "Song",
     "description": "Published: 2017-05-12"
+  },
+  {
+    "from": "足够",
+    "to": "反方向的钟",
+    "type": "抄袭"
   },
   {
     "label": "跟我出发",
@@ -1144,9 +1284,19 @@
     "description": "Published: 2019-11-18"
   },
   {
+    "from": "这条街最靓的仔",
+    "to": "西游记配乐",
+    "type": "抄袭"
+  },
+  {
     "label": "远走高飞",
     "type": "Song",
     "description": "Published: 2017-05-02"
+  },
+  {
+    "from": "远走高飞",
+    "to": "早晨",
+    "type": "抄袭"
   },
   {
     "label": "退守",
@@ -1157,6 +1307,11 @@
     "label": "逆战",
     "type": "Song",
     "description": "Published: 2012-03-21"
+  },
+  {
+    "from": "逆战",
+    "to": "",
+    "type": "抄袭"
   },
   {
     "label": "逆流成河",
@@ -1199,6 +1354,11 @@
     "description": "Published: 2006-01-01"
   },
   {
+    "from": "飞舞",
+    "to": "",
+    "type": "抄袭"
+  },
+  {
     "label": "高冷的爱情",
     "type": "Song",
     "description": "Published: 2016-10-18"
@@ -1208,5 +1368,6 @@
     "type": "Song",
     "description": "Published: 2001-01-01"
   }
-]
+],
+"connections": []
 }
