@@ -39,10 +39,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "白月光与朱砂痣.md",
+                "file": "今朝有酒今朝醉.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -127,8 +127,9 @@
   },
   "active": "43caca74f5df12be",
   "lastOpenFiles": [
-    "---.md",
+    "乐游记.md",
     "白月光与朱砂痣.md",
+    "---.md",
     "红尘笑.md",
     "超级喜欢你.md",
     "说声珍重.md",
@@ -161,7 +162,6 @@
     "t-音乐人的事怎么能叫抄呢.md",
     "my child.md",
     "conflict-files-obsidian-git.md",
-    "Lollipop.md",
-    "Champagne Ocean.md"
+    "Lollipop.md"
   ]
 }
