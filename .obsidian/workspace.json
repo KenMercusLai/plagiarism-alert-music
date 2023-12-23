@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "孤牢.md",
+                "file": "幸福等待.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -45,7 +45,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "孤牢1.md",
+                "file": "孤牢.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ab57c295511e8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "对方正在输入.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54e1facc310e4fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "幸福等待1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,12 +158,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66e54a9657731578",
+  "active": "54e1facc310e4fe4",
   "lastOpenFiles": [
-    "孤牢1.md",
+    "幸福等待.md",
+    "幸福等待1.md",
+    "对方正在输入.md",
+    "I Don't Wanna Fight.md",
     "孤牢.md",
     "青鸟-许巍.md",
-    "I Don't Wanna Fight.md",
     "修炼爱情.md",
     "假笑.md",
     "再度重相逢.md",
@@ -158,8 +186,6 @@
     "演员.md",
     "殇雪.md",
     "桥边姑娘.md",
-    "你还要我怎样.md",
-    "信仰之名.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
