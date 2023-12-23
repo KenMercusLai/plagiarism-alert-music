@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "独上西楼.md",
+                "file": "你若成风.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,168 +40,12 @@
             }
           },
           {
-            "id": "2ea55a55bd1d2b7f",
+            "id": "8d37d23ef5d305e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "青鸟.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c942450befe031a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "逆流成河.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fea4d350a54db0cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "逆战.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "032dd0d03c85cb59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "跟我出发.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ddc48e3c51b7ffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "简单的幸福.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80048f32eb9b3df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我想我是海.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a69677fbc3de7a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离开.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa0c28aef0831b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离不开你.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f15fc8d1fad0fd54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "盗心贼.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7488d7888448cf01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "痛苦的人.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fbf868521cee00c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "留住这时光.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f9409170f92fc39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "用心爱你.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2fa9c4343cd8c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "独上西楼1.md",
+                "file": "你若成风1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -209,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,34 +132,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2fa9c4343cd8c96",
+  "active": "8d37d23ef5d305e4",
   "lastOpenFiles": [
-    "用心爱你.md",
-    "独上西楼1.md",
-    "独上西楼.md",
-    "I Don't Wanna Fight.md",
-    "留住这时光.md",
-    "痛苦的人.md",
-    "[[伍佰]].md",
-    "盗心贼.md",
-    "离不开你.md",
-    "离开.md",
-    "我想我是海.md",
-    "[[黄磊]].md",
-    "简单的幸福.md",
-    "有何不可.md",
-    "跟我出发.md",
-    "逆战.md",
-    "突然的自我.md",
-    "逆流成河.md",
-    "青鸟.md",
     "青鸟-许巍.md",
+    "你若成风1.md",
+    "你若成风.md",
+    "I Don't Wanna Fight.md",
+    "他不懂.md",
+    "青鸟.md",
+    "逆流成河.md",
+    "逆战.md",
+    "跟我出发.md",
+    "简单的幸福.md",
+    "我想我是海.md",
+    "离开.md",
+    "离不开你.md",
+    "盗心贼.md",
+    "痛苦的人.md",
+    "留住这时光.md",
+    "用心爱你.md",
+    "独上西楼.md",
+    "[[伍佰]].md",
+    "[[黄磊]].md",
+    "有何不可.md",
+    "突然的自我.md",
     "Untitled.md",
     "临时演员.md",
     "一般清醒一半醉.md",
     "I live my life for you.md",
-    "孤牢.md",
-    "15楼窗外.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
