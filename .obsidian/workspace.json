@@ -129,9 +129,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa0c28aef0831b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离不开你.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f15fc8d1fad0fd54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "盗心贼1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -210,10 +236,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a69677fbc3de7a2",
+  "active": "f15fc8d1fad0fd54",
   "lastOpenFiles": [
     "I Don't Wanna Fight.md",
-    "离开.md",
+    "盗心贼.md",
+    "盗心贼1.md",
+    "离不开你.md",
     "离开.md",
     "我想我是海.md",
     "[[黄磊]].md",
@@ -245,8 +273,6 @@
     "sedKUM8uZ",
     "超级喜欢你.md",
     "说声珍重.md",
-    "退守.md",
-    "通天大道宽又阔.md",
-    "逞强.md"
+    "退守.md"
   ]
 }
