@@ -90,9 +90,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e00163d5efbc2096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分手就分手.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,10 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4974370db762fc6e",
+  "active": "e00163d5efbc2096",
   "lastOpenFiles": [
     "I Don't Wanna Fight.md",
-    "冬眠.md",
+    "分手就分手.md",
+    "分手就分手.md",
     "冬眠.md",
     "再度重相逢.md",
     "假笑.md",
@@ -198,7 +212,6 @@
     "我想我是海.md",
     "离开.md",
     "离不开你.md",
-    "盗心贼.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
