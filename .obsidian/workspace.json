@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "超级喜欢你.md",
+                "file": "孤牢.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "阳",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,8 +115,8 @@
   },
   "active": "66e54a9657731578",
   "lastOpenFiles": [
-    "说声珍重.md",
     "超级喜欢你.md",
+    "说声珍重.md",
     "逆战.md",
     "退守.md",
     "逆流成河.md",
