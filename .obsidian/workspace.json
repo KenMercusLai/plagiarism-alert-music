@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "逆流成河.md",
+                "file": "乐游记.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dcf282bde9bb4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "乐游记1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,6 +113,9 @@
   },
   "active": "04453ad30f50348a",
   "lastOpenFiles": [
+    "乐游记1.md",
+    "乐游记.md",
+    "逆流成河.md",
     "逆战.md",
     "退守.md",
     "跟我出发.md",
@@ -120,12 +136,9 @@
     "Lollipop.md",
     "依然在一起.md",
     "今朝有酒今朝醉.md",
-    "乐游记.md",
     "白月光与朱砂痣.md",
     "---.md",
     "红尘笑.md",
-    "超级喜欢你.md",
-    "说声珍重.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
