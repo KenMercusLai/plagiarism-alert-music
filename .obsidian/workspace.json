@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I Don't Wanna Fight.md",
+                "file": "爱难忘情难断.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,9 +51,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05ad7c703d09eb9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "爸爸妈妈.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bb22a4f0b034bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "爱难忘情难断1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,10 +158,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d37d23ef5d305e4",
+  "active": "66e54a9657731578",
   "lastOpenFiles": [
+    "爱难忘情难断1.md",
+    "爸爸妈妈.md",
+    "爱难忘情难断.md",
     "I Don't Wanna Fight.md",
-    "你若成风.md",
     "你若成风.md",
     "青鸟-许巍.md",
     "他不懂.md",
@@ -158,8 +186,6 @@
     "突然的自我.md",
     "Untitled.md",
     "临时演员.md",
-    "一般清醒一半醉.md",
-    "I live my life for you.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
