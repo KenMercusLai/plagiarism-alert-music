@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I Don't Wanna Fight.md",
+                "file": "一般清醒一半醉.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44d161074ecebcd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一般清醒一半醉1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -112,8 +126,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66e54a9657731578",
+  "active": "44d161074ecebcd8",
   "lastOpenFiles": [
+    "一般清醒一半醉.md",
+    "一般清醒一半醉1.md",
+    "I Don't Wanna Fight.md",
     "I live my life for you.md",
     "孤牢.md",
     "15楼窗外.md",
@@ -146,9 +163,6 @@
     "Солнышко.md",
     "Storm in Lover.md",
     "三生三世.md",
-    "不要说话.md",
-    "不该用情.md",
-    "不知不觉爱上你.md",
-    "the apl song.md"
+    "不要说话.md"
   ]
 }
