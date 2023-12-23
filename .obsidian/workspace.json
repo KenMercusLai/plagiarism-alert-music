@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多余的解释.md",
+                "file": "小鸡小鸡.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,9 +51,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9da28d543e30e8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "奉献.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7808b0ff413deade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "客官不可以.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,33 +158,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d0bf76f9c6ea50c",
+  "active": "7b5bee881a3e8c3f",
   "lastOpenFiles": [
-    "处处吻.md",
+    "小眼睛.md",
+    "小幸福.md",
+    "对望.md",
+    "对方正在输入.md",
+    "对你比心.md",
+    "宠爱.md",
+    "客官不可以.md",
+    "奉献.md",
+    "宋孟君.md",
+    "孤牢.md",
+    "孤岛星愿.md",
+    "孤单的人.md",
+    "如果爱请深爱.md",
+    "如果当时.md",
+    "如果声音不记得.md",
+    "好几年.md",
+    "失控.md",
     "夕阳坂.md",
+    "大风吹.md",
+    "大笑江湖.md",
+    "大海.md",
+    "多余的解释.md",
+    "处处吻.md",
     "地铁等待.md",
     "回小仙.md",
     "借酒浇愁.md",
-    "最近比较烦.md",
-    "双截龙.md",
-    "和光同尘.md",
-    "呼儿嗨哟.md",
-    "吻痕.md",
-    "吉他初恋.md",
-    "可不可以.md",
-    "口是心非.md",
-    "反方向的钟.md",
-    "双人舞.md",
-    "双截龙2.md",
-    "去年夏天.md",
-    "卡路里.md",
-    "南方姑娘.md",
-    "单身情歌.md",
-    "半生雪.md",
-    "午夜DJ.md",
-    "千百度.md",
-    "千千万万.md",
-    "分手就分手.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
