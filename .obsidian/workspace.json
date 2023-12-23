@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "足够.md",
+                "file": "跟我出发.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,156 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "65ae93807b38427e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dbb06eb15efa4dd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "地铁等待.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eae084363dbc1c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "夕阳坂.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9da28d543e30e8b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "奉献.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7808b0ff413deade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "客官不可以.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c53492d91997e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "愿山海皆平.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a21bfebfbdbeffd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我也不知道.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb4bdb89caa5944c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我看花.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b62dfcef9300ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "有点甜.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cd558aa00c33c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "独角戏.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51a9bfb359efbcb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "白月光与朱砂痣.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "758d3b41b598b63a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "青鸟.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -251,32 +101,32 @@
   },
   "active": "2d0bf76f9c6ea50c",
   "lastOpenFiles": [
+    "地铁等待.md",
+    "夕阳坂.md",
+    "奉献.md",
+    "客官不可以.md",
+    "愿山海皆平.md",
+    "我也不知道.md",
+    "我看花.md",
+    "有点甜.md",
+    "独角戏.md",
+    "白月光与朱砂痣.md",
+    "青鸟.md",
     "跟我出发.md",
-    "足够.md",
-    "超级喜欢你.md",
-    "说声珍重.md",
-    "讲真的.md",
-    "让我为你唱首歌.md",
-    "西游记配乐.md",
-    "言不由衷.md",
-    "要抱抱.md",
-    "血战唐人街 - GTA.md",
-    "虎虎虎.md",
-    "蓝色风暴.md",
-    "药神之歌.md",
-    "荣耀之路.md",
-    "致命的甜蜜.md",
-    "羞答答的玫瑰静悄悄的开.md",
-    "美丽之物.md",
-    "缘分让我爱上了你.md",
-    "约定.md",
-    "红豆.md",
-    "红枣树.md",
-    "红尘笑.md",
-    "粉红色的回忆.md",
-    "粉红情歌.md",
-    "简单的幸福.md",
-    "笑疯癫.md",
+    "高原红.md",
+    "高冷的爱情.md",
+    "飞舞.md",
+    "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md",
+    "青鸟-许巍.md",
+    "青花.md",
+    "霍元甲.md",
+    "逞强.md",
+    "通天大道宽又阔.md",
+    "逆流成河.md",
+    "逆战.md",
+    "退守.md",
+    "远走高飞.md",
+    "这条街最靓的仔.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
