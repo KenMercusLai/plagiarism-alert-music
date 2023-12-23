@@ -95,16 +95,6 @@
     "description": ""
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
     "label": "Hurricane 2000",
     "type": "Song",
     "description": "Published: 2000-08-29"
@@ -945,47 +935,7 @@
     "description": "Published: 2017-04-05"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "张",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "怡",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "诺",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "张怡诺",
     "type": "Person",
     "description": ""
   },
@@ -1235,47 +1185,7 @@
     "description": "Published: 2009-05-01"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "潘",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "玮",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "柏",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "潘玮柏",
     "type": "Person",
     "description": ""
   },
@@ -1500,47 +1410,7 @@
     "description": "Published: 2021-03-13"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "陈",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "子",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "晴",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "陈子晴",
     "type": "Person",
     "description": ""
   },
@@ -1605,47 +1475,7 @@
     "description": "Published: 2007-03-09"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "林",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "志",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "颖",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "林志颖",
     "type": "Person",
     "description": ""
   },
@@ -2360,47 +2190,7 @@
     "description": "Published: 1994-01-01"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "黄",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "仲",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "昆",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "黄仲昆",
     "type": "Person",
     "description": ""
   },
@@ -2620,62 +2410,7 @@
     "description": "Published: 1990-06-01"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "B",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "e",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "y",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "o",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "n",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "g",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "Beyong",
     "type": "Person",
     "description": ""
   },
@@ -2735,122 +2470,17 @@
     "description": "Published: 2018-11-28"
   },
   {
-    "label": "",
+    "label": "黑雄",
     "type": "Person",
     "description": ""
   },
   {
-    "label": "",
+    "label": "黑雄",
     "type": "Person",
     "description": ""
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "黑",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "雄",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "黑",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "雄",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "黑",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "雄",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "黑雄",
     "type": "Person",
     "description": ""
   },
@@ -3200,122 +2830,17 @@
     "description": "Published: 2020-12-17"
   },
   {
-    "label": "",
+    "label": "可乐",
     "type": "Person",
     "description": ""
   },
   {
-    "label": "",
+    "label": "可乐",
     "type": "Person",
     "description": ""
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "可",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "乐",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "可",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "乐",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "可",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "乐",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "可乐",
     "type": "Person",
     "description": ""
   },
@@ -3415,57 +2940,7 @@
     "description": "Published: 2018-10-25"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "我",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "叫",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "安",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "琪",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "拉",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "我叫安琪拉",
     "type": "Person",
     "description": ""
   },
@@ -3580,42 +3055,7 @@
     "description": "Published: 2019-08-22"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "小",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "倩",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "小倩",
     "type": "Person",
     "description": ""
   },
@@ -3650,47 +3090,7 @@
     "description": "Published: 2018-05-21"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "何",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "诗",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "蒙",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "何诗蒙",
     "type": "Person",
     "description": ""
   },
@@ -3755,57 +3155,7 @@
     "description": "Published: 2019-11-18"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "优",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "秀",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "少",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "年",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "团",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "优秀少年团",
     "type": "Person",
     "description": ""
   },
@@ -3860,47 +3210,7 @@
     "description": "Published: 2018-10-27"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "杨",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "小",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "壮",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "杨小壮",
     "type": "Person",
     "description": ""
   },
@@ -3985,47 +3295,7 @@
     "description": "Published: 2016-10-18"
   },
   {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "宋",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "孟",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "君",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "]",
-    "type": "Person",
-    "description": ""
-  },
-  {
-    "label": "",
+    "label": "宋孟君",
     "type": "Person",
     "description": ""
   },
@@ -4058,72 +3328,7 @@
   },
   {
     "from": "123我爱你",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "m",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "y",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": " ",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "c",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "h",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "i",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "l",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "d",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "123我爱你",
-    "to": "",
+    "to": "my child",
     "type": "抄袭"
   },
   {
@@ -4168,107 +3373,7 @@
   },
   {
     "from": "9277",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "C",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "h",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "a",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "m",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "p",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "a",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "g",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "n",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "e",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": " ",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "O",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "c",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "e",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "a",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "n",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "9277",
-    "to": "",
+    "to": "Champagne Ocean",
     "type": "抄袭"
   },
   {
@@ -4278,47 +3383,7 @@
   },
   {
     "from": "9420",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "9420",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "9420",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "9420",
-    "to": "悼",
-    "type": "抄袭"
-  },
-  {
-    "from": "9420",
-    "to": "念",
-    "type": "抄袭"
-  },
-  {
-    "from": "9420",
-    "to": "爱",
-    "type": "抄袭"
-  },
-  {
-    "from": "9420",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "9420",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "9420",
-    "to": "",
+    "to": "悼念爱",
     "type": "抄袭"
   },
   {
@@ -4335,16 +3400,6 @@
     "from": "Ehrling",
     "to": "Champagne Ocean",
     "type": "作曲"
-  },
-  {
-    "from": "",
-    "to": "Champagne Ocean",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "Champagne Ocean",
-    "type": "演唱"
   },
   {
     "from": "蝎子乐队",
@@ -4413,72 +3468,7 @@
   },
   {
     "from": "Why Me",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "L",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "o",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "l",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "l",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "i",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "p",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "o",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "p",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "Why Me",
-    "to": "",
+    "to": "Lollipop",
     "type": "抄袭"
   },
   {
@@ -4503,67 +3493,7 @@
   },
   {
     "from": "on my girl",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "通",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "天",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "大",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "道",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "宽",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "又",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "阔",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "on my girl",
-    "to": "",
+    "to": "通天大道宽又阔",
     "type": "抄袭"
   },
   {
@@ -4638,52 +3568,7 @@
   },
   {
     "from": "三寸天堂",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "三寸天堂",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "三寸天堂",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "三寸天堂",
-    "to": "梦",
-    "type": "抄袭"
-  },
-  {
-    "from": "三寸天堂",
-    "to": "的",
-    "type": "抄袭"
-  },
-  {
-    "from": "三寸天堂",
-    "to": "点",
-    "type": "抄袭"
-  },
-  {
-    "from": "三寸天堂",
-    "to": "滴",
-    "type": "抄袭"
-  },
-  {
-    "from": "三寸天堂",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "三寸天堂",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "三寸天堂",
-    "to": "",
+    "to": "梦的点滴",
     "type": "抄袭"
   },
   {
@@ -4858,57 +3743,7 @@
   },
   {
     "from": "中国菜",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "偶",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "像",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "万",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "万",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "岁",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "中国菜",
-    "to": "",
+    "to": "偶像万万岁",
     "type": "抄袭"
   },
   {
@@ -5023,47 +3858,7 @@
   },
   {
     "from": "仙才叹",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "仙才叹",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "仙才叹",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "仙才叹",
-    "to": "千",
-    "type": "抄袭"
-  },
-  {
-    "from": "仙才叹",
-    "to": "百",
-    "type": "抄袭"
-  },
-  {
-    "from": "仙才叹",
-    "to": "度",
-    "type": "抄袭"
-  },
-  {
-    "from": "仙才叹",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "仙才叹",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "仙才叹",
-    "to": "",
+    "to": "千百度",
     "type": "抄袭"
   },
   {
@@ -5307,118 +4102,13 @@
     "type": "抄袭"
   },
   {
-    "from": "",
-    "to": "做一个女人实在太难",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "做一个女人实在太难",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "做一个女人实在太难",
-    "type": "演唱"
-  },
-  {
-    "from": "张",
-    "to": "做一个女人实在太难",
-    "type": "演唱"
-  },
-  {
-    "from": "怡",
-    "to": "做一个女人实在太难",
-    "type": "演唱"
-  },
-  {
-    "from": "诺",
-    "to": "做一个女人实在太难",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "做一个女人实在太难",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "做一个女人实在太难",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "张怡诺",
     "to": "做一个女人实在太难",
     "type": "演唱"
   },
   {
     "from": "做一个女人实在太难",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "有",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "多",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "少",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "爱",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "可",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "以",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "重",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "来",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "做一个女人实在太难",
-    "to": "",
+    "to": "有多少爱可以重来",
     "type": "抄袭"
   },
   {
@@ -5453,52 +4143,7 @@
   },
   {
     "from": "再也不会遇见第二个她",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "再也不会遇见第二个她",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "再也不会遇见第二个她",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "再也不会遇见第二个她",
-    "to": "全",
-    "type": "抄袭"
-  },
-  {
-    "from": "再也不会遇见第二个她",
-    "to": "球",
-    "type": "抄袭"
-  },
-  {
-    "from": "再也不会遇见第二个她",
-    "to": "变",
-    "type": "抄袭"
-  },
-  {
-    "from": "再也不会遇见第二个她",
-    "to": "冷",
-    "type": "抄袭"
-  },
-  {
-    "from": "再也不会遇见第二个她",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "再也不会遇见第二个她",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "再也不会遇见第二个她",
-    "to": "",
+    "to": "全球变冷",
     "type": "抄袭"
   },
   {
@@ -5677,47 +4322,7 @@
     "type": "抄袭"
   },
   {
-    "from": "",
-    "to": "双人舞",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "双人舞",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "双人舞",
-    "type": "演唱"
-  },
-  {
-    "from": "潘",
-    "to": "双人舞",
-    "type": "演唱"
-  },
-  {
-    "from": "玮",
-    "to": "双人舞",
-    "type": "演唱"
-  },
-  {
-    "from": "柏",
-    "to": "双人舞",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "双人舞",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "双人舞",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "潘玮柏",
     "to": "双人舞",
     "type": "演唱"
   },
@@ -5738,57 +4343,7 @@
   },
   {
     "from": "可不可以",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "不",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "想",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "再",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "见",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "面",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "可不可以",
-    "to": "",
+    "to": "不想再见面",
     "type": "抄袭"
   },
   {
@@ -5798,47 +4353,7 @@
   },
   {
     "from": "吉他初恋",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "吉他初恋",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "吉他初恋",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "吉他初恋",
-    "to": "大",
-    "type": "抄袭"
-  },
-  {
-    "from": "吉他初恋",
-    "to": "风",
-    "type": "抄袭"
-  },
-  {
-    "from": "吉他初恋",
-    "to": "吹",
-    "type": "抄袭"
-  },
-  {
-    "from": "吉他初恋",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "吉他初恋",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "吉他初恋",
-    "to": "",
+    "to": "大风吹",
     "type": "抄袭"
   },
   {
@@ -5957,88 +4472,13 @@
     "type": "抄袭"
   },
   {
-    "from": "",
-    "to": "孤岛星愿",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "孤岛星愿",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "孤岛星愿",
-    "type": "演唱"
-  },
-  {
-    "from": "陈",
-    "to": "孤岛星愿",
-    "type": "演唱"
-  },
-  {
-    "from": "子",
-    "to": "孤岛星愿",
-    "type": "演唱"
-  },
-  {
-    "from": "晴",
-    "to": "孤岛星愿",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "孤岛星愿",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "孤岛星愿",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "陈子晴",
     "to": "孤岛星愿",
     "type": "演唱"
   },
   {
     "from": "孤岛星愿",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "孤岛星愿",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "孤岛星愿",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "孤岛星愿",
-    "to": "对",
-    "type": "抄袭"
-  },
-  {
-    "from": "孤岛星愿",
-    "to": "望",
-    "type": "抄袭"
-  },
-  {
-    "from": "孤岛星愿",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "孤岛星愿",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "孤岛星愿",
-    "to": "",
+    "to": "对望",
     "type": "抄袭"
   },
   {
@@ -6087,47 +4527,7 @@
     "type": "抄袭"
   },
   {
-    "from": "",
-    "to": "对望",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "对望",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "对望",
-    "type": "演唱"
-  },
-  {
-    "from": "林",
-    "to": "对望",
-    "type": "演唱"
-  },
-  {
-    "from": "志",
-    "to": "对望",
-    "type": "演唱"
-  },
-  {
-    "from": "颖",
-    "to": "对望",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "对望",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "对望",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "林志颖",
     "to": "对望",
     "type": "演唱"
   },
@@ -6828,52 +5228,7 @@
   },
   {
     "from": "摩天轮",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "摩天轮",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "摩天轮",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "摩天轮",
-    "to": "说",
-    "type": "抄袭"
-  },
-  {
-    "from": "摩天轮",
-    "to": "声",
-    "type": "抄袭"
-  },
-  {
-    "from": "摩天轮",
-    "to": "珍",
-    "type": "抄袭"
-  },
-  {
-    "from": "摩天轮",
-    "to": "重",
-    "type": "抄袭"
-  },
-  {
-    "from": "摩天轮",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "摩天轮",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "摩天轮",
-    "to": "",
+    "to": "说声珍重",
     "type": "抄袭"
   },
   {
@@ -6982,47 +5337,7 @@
     "type": "演唱"
   },
   {
-    "from": "",
-    "to": "有多少爱可以重来",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "有多少爱可以重来",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "有多少爱可以重来",
-    "type": "演唱"
-  },
-  {
-    "from": "黄",
-    "to": "有多少爱可以重来",
-    "type": "演唱"
-  },
-  {
-    "from": "仲",
-    "to": "有多少爱可以重来",
-    "type": "演唱"
-  },
-  {
-    "from": "昆",
-    "to": "有多少爱可以重来",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "有多少爱可以重来",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "有多少爱可以重来",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "黄仲昆",
     "to": "有多少爱可以重来",
     "type": "演唱"
   },
@@ -7163,57 +5478,7 @@
   },
   {
     "from": "没有如果",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "留",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "在",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "我",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "身",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "边",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "没有如果",
-    "to": "",
+    "to": "留在我身边",
     "type": "抄袭"
   },
   {
@@ -7243,47 +5508,7 @@
   },
   {
     "from": "满月",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "满月",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "满月",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "满月",
-    "to": "智",
-    "type": "抄袭"
-  },
-  {
-    "from": "满月",
-    "to": "慧",
-    "type": "抄袭"
-  },
-  {
-    "from": "满月",
-    "to": "树",
-    "type": "抄袭"
-  },
-  {
-    "from": "满月",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "满月",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "满月",
-    "to": "",
+    "to": "智慧树",
     "type": "抄袭"
   },
   {
@@ -7297,62 +5522,7 @@
     "type": "演唱"
   },
   {
-    "from": "",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "B",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "e",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "y",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "o",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "n",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "g",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "灰色轨迹",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "Beyong",
     "to": "灰色轨迹",
     "type": "演唱"
   },
@@ -7397,173 +5567,23 @@
     "type": "演唱"
   },
   {
-    "from": "",
+    "from": "黑雄",
     "to": "爱过的故事",
     "type": "作词"
   },
   {
-    "from": "",
-    "to": "爱过的故事",
-    "type": "作词"
-  },
-  {
-    "from": "",
-    "to": "爱过的故事",
-    "type": "作词"
-  },
-  {
-    "from": "黑",
-    "to": "爱过的故事",
-    "type": "作词"
-  },
-  {
-    "from": "雄",
-    "to": "爱过的故事",
-    "type": "作词"
-  },
-  {
-    "from": "]",
-    "to": "爱过的故事",
-    "type": "作词"
-  },
-  {
-    "from": "]",
-    "to": "爱过的故事",
-    "type": "作词"
-  },
-  {
-    "from": "",
-    "to": "爱过的故事",
-    "type": "作词"
-  },
-  {
-    "from": "",
+    "from": "黑雄",
     "to": "爱过的故事",
     "type": "作曲"
   },
   {
-    "from": "",
-    "to": "爱过的故事",
-    "type": "作曲"
-  },
-  {
-    "from": "",
-    "to": "爱过的故事",
-    "type": "作曲"
-  },
-  {
-    "from": "黑",
-    "to": "爱过的故事",
-    "type": "作曲"
-  },
-  {
-    "from": "雄",
-    "to": "爱过的故事",
-    "type": "作曲"
-  },
-  {
-    "from": "]",
-    "to": "爱过的故事",
-    "type": "作曲"
-  },
-  {
-    "from": "]",
-    "to": "爱过的故事",
-    "type": "作曲"
-  },
-  {
-    "from": "",
-    "to": "爱过的故事",
-    "type": "作曲"
-  },
-  {
-    "from": "",
-    "to": "爱过的故事",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "爱过的故事",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "爱过的故事",
-    "type": "演唱"
-  },
-  {
-    "from": "黑",
-    "to": "爱过的故事",
-    "type": "演唱"
-  },
-  {
-    "from": "雄",
-    "to": "爱过的故事",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "爱过的故事",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "爱过的故事",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "黑雄",
     "to": "爱过的故事",
     "type": "演唱"
   },
   {
     "from": "爱过的故事",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "爱过的故事",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "爱过的故事",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "爱过的故事",
-    "to": "灰",
-    "type": "抄袭"
-  },
-  {
-    "from": "爱过的故事",
-    "to": "色",
-    "type": "抄袭"
-  },
-  {
-    "from": "爱过的故事",
-    "to": "轨",
-    "type": "抄袭"
-  },
-  {
-    "from": "爱过的故事",
-    "to": "迹",
-    "type": "抄袭"
-  },
-  {
-    "from": "爱过的故事",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "爱过的故事",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "爱过的故事",
-    "to": "",
+    "to": "灰色轨迹",
     "type": "抄袭"
   },
   {
@@ -7887,168 +5907,23 @@
     "type": "演唱"
   },
   {
-    "from": "",
+    "from": "可乐",
     "to": "约定",
     "type": "作词"
   },
   {
-    "from": "",
-    "to": "约定",
-    "type": "作词"
-  },
-  {
-    "from": "",
-    "to": "约定",
-    "type": "作词"
-  },
-  {
-    "from": "可",
-    "to": "约定",
-    "type": "作词"
-  },
-  {
-    "from": "乐",
-    "to": "约定",
-    "type": "作词"
-  },
-  {
-    "from": "]",
-    "to": "约定",
-    "type": "作词"
-  },
-  {
-    "from": "]",
-    "to": "约定",
-    "type": "作词"
-  },
-  {
-    "from": "",
-    "to": "约定",
-    "type": "作词"
-  },
-  {
-    "from": "",
+    "from": "可乐",
     "to": "约定",
     "type": "作曲"
   },
   {
-    "from": "",
-    "to": "约定",
-    "type": "作曲"
-  },
-  {
-    "from": "",
-    "to": "约定",
-    "type": "作曲"
-  },
-  {
-    "from": "可",
-    "to": "约定",
-    "type": "作曲"
-  },
-  {
-    "from": "乐",
-    "to": "约定",
-    "type": "作曲"
-  },
-  {
-    "from": "]",
-    "to": "约定",
-    "type": "作曲"
-  },
-  {
-    "from": "]",
-    "to": "约定",
-    "type": "作曲"
-  },
-  {
-    "from": "",
-    "to": "约定",
-    "type": "作曲"
-  },
-  {
-    "from": "",
-    "to": "约定",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "约定",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "约定",
-    "type": "演唱"
-  },
-  {
-    "from": "可",
-    "to": "约定",
-    "type": "演唱"
-  },
-  {
-    "from": "乐",
-    "to": "约定",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "约定",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "约定",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "可乐",
     "to": "约定",
     "type": "演唱"
   },
   {
     "from": "约定",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "约定",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "约定",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "约定",
-    "to": "双",
-    "type": "抄袭"
-  },
-  {
-    "from": "约定",
-    "to": "人",
-    "type": "抄袭"
-  },
-  {
-    "from": "约定",
-    "to": "舞",
-    "type": "抄袭"
-  },
-  {
-    "from": "约定",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "约定",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "约定",
-    "to": "",
+    "to": "双人舞",
     "type": "抄袭"
   },
   {
@@ -8132,98 +6007,13 @@
     "type": "抄袭"
   },
   {
-    "from": "",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "我",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "叫",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "安",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "琪",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "拉",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "荣耀之路",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "我叫安琪拉",
     "to": "荣耀之路",
     "type": "演唱"
   },
   {
     "from": "荣耀之路",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "荣耀之路",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "荣耀之路",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "荣耀之路",
-    "to": "杀",
-    "type": "抄袭"
-  },
-  {
-    "from": "荣耀之路",
-    "to": "手",
-    "type": "抄袭"
-  },
-  {
-    "from": "荣耀之路",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "荣耀之路",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "荣耀之路",
-    "to": "",
+    "to": "杀手",
     "type": "抄袭"
   },
   {
@@ -8442,42 +6232,7 @@
     "type": "演唱"
   },
   {
-    "from": "",
-    "to": "言不由衷",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "言不由衷",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "言不由衷",
-    "type": "演唱"
-  },
-  {
-    "from": "小",
-    "to": "言不由衷",
-    "type": "演唱"
-  },
-  {
-    "from": "倩",
-    "to": "言不由衷",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "言不由衷",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "言不由衷",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "小倩",
     "to": "言不由衷",
     "type": "演唱"
   },
@@ -8507,47 +6262,7 @@
     "type": "抄袭"
   },
   {
-    "from": "",
-    "to": "讲真的",
-    "type": "编曲"
-  },
-  {
-    "from": "",
-    "to": "讲真的",
-    "type": "编曲"
-  },
-  {
-    "from": "",
-    "to": "讲真的",
-    "type": "编曲"
-  },
-  {
-    "from": "何",
-    "to": "讲真的",
-    "type": "编曲"
-  },
-  {
-    "from": "诗",
-    "to": "讲真的",
-    "type": "编曲"
-  },
-  {
-    "from": "蒙",
-    "to": "讲真的",
-    "type": "编曲"
-  },
-  {
-    "from": "]",
-    "to": "讲真的",
-    "type": "编曲"
-  },
-  {
-    "from": "]",
-    "to": "讲真的",
-    "type": "编曲"
-  },
-  {
-    "from": "",
+    "from": "何诗蒙",
     "to": "讲真的",
     "type": "编曲"
   },
@@ -8633,57 +6348,7 @@
   },
   {
     "from": "足够",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "反",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "方",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "向",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "的",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "钟",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "足够",
-    "to": "",
+    "to": "反方向的钟",
     "type": "抄袭"
   },
   {
@@ -8707,113 +6372,13 @@
     "type": "抄袭"
   },
   {
-    "from": "",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "优",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "秀",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "少",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "年",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "团",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "]",
-    "to": "这条街最靓的仔",
-    "type": "演唱"
-  },
-  {
-    "from": "",
+    "from": "优秀少年团",
     "to": "这条街最靓的仔",
     "type": "演唱"
   },
   {
     "from": "这条街最靓的仔",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "西",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "游",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "记",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "配",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "乐",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "这条街最靓的仔",
-    "to": "",
+    "to": "西游记配乐",
     "type": "抄袭"
   },
   {
@@ -8823,42 +6388,7 @@
   },
   {
     "from": "远走高飞",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "远走高飞",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "远走高飞",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "远走高飞",
-    "to": "早",
-    "type": "抄袭"
-  },
-  {
-    "from": "远走高飞",
-    "to": "晨",
-    "type": "抄袭"
-  },
-  {
-    "from": "远走高飞",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "远走高飞",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "远走高飞",
-    "to": "",
+    "to": "早晨",
     "type": "抄袭"
   },
   {
@@ -8887,47 +6417,7 @@
     "type": "抄袭"
   },
   {
-    "from": "",
-    "to": "逞强",
-    "type": "作词"
-  },
-  {
-    "from": "",
-    "to": "逞强",
-    "type": "作词"
-  },
-  {
-    "from": "",
-    "to": "逞强",
-    "type": "作词"
-  },
-  {
-    "from": "杨",
-    "to": "逞强",
-    "type": "作词"
-  },
-  {
-    "from": "小",
-    "to": "逞强",
-    "type": "作词"
-  },
-  {
-    "from": "壮",
-    "to": "逞强",
-    "type": "作词"
-  },
-  {
-    "from": "]",
-    "to": "逞强",
-    "type": "作词"
-  },
-  {
-    "from": "]",
-    "to": "逞强",
-    "type": "作词"
-  },
-  {
-    "from": "",
+    "from": "杨小壮",
     "to": "逞强",
     "type": "作词"
   },
@@ -8997,57 +6487,7 @@
     "type": "演唱"
   },
   {
-    "from": "飞舞",
-    "to": "",
-    "type": "抄袭"
-  },
-  {
-    "from": "飞舞",
-    "to": "]",
-    "type": "抄袭"
-  },
-  {
-    "from": "",
-    "to": "高冷的爱情",
-    "type": "作词"
-  },
-  {
-    "from": "",
-    "to": "高冷的爱情",
-    "type": "作词"
-  },
-  {
-    "from": "",
-    "to": "高冷的爱情",
-    "type": "作词"
-  },
-  {
-    "from": "宋",
-    "to": "高冷的爱情",
-    "type": "作词"
-  },
-  {
-    "from": "孟",
-    "to": "高冷的爱情",
-    "type": "作词"
-  },
-  {
-    "from": "君",
-    "to": "高冷的爱情",
-    "type": "作词"
-  },
-  {
-    "from": "]",
-    "to": "高冷的爱情",
-    "type": "作词"
-  },
-  {
-    "from": "]",
-    "to": "高冷的爱情",
-    "type": "作词"
-  },
-  {
-    "from": "",
+    "from": "宋孟君",
     "to": "高冷的爱情",
     "type": "作词"
   },
