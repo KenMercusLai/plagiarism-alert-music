@@ -1,5 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
   "quickadd",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]

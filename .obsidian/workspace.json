@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "足够.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eec5ca1b5883333b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "超级喜欢你.md",
+                "file": "孤岛星愿.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,14 +95,16 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "eec5ca1b5883333b",
+  "active": "04453ad30f50348a",
   "lastOpenFiles": [
-    "说声珍重.md",
-    "超级喜欢你.md",
     "足够.md",
+    "t-音乐人的事怎么能叫抄呢.md",
+    "超级喜欢你.md",
+    "说声珍重.md",
     "跟我出发.md",
     "辣成都.md",
     "远走高飞.md",
@@ -135,7 +123,6 @@
     "高原红.md",
     "粉红情歌.md",
     "简单的幸福.md",
-    "t-音乐人的事怎么能叫抄呢.md",
     "乐游记.md",
     "要抱抱.md",
     "借酒浇愁.md",
