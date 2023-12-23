@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "借酒浇愁.md",
+                "file": "最后一次的温柔.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -100,6 +101,9 @@
   },
   "active": "04453ad30f50348a",
   "lastOpenFiles": [
+    "有点甜.md",
+    "独角戏.md",
+    "借酒浇愁.md",
     "Champagne Ocean.md",
     "Lollipop.md",
     "依然在一起.md",
@@ -124,8 +128,6 @@
     "你是人间四月天.md",
     "伤心的人别听慢歌.md",
     "临时演员.md",
-    "不知不觉爱上你.md",
-    "一生无悔.md",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
     "青鸟.md.tmp",
@@ -134,7 +136,6 @@
     "远走高飞.md.tmp",
     "这条街最靓的仔.md.tmp",
     "足够.md.tmp",
-    "超级喜欢你.md.tmp",
-    "一个人挺好.md"
+    "超级喜欢你.md.tmp"
   ]
 }
