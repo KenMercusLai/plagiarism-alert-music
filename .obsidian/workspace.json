@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I Don't Wanna Fight.md",
+                "file": "留住这时光.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "盗心贼1.md",
+                "file": "盗心贼.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7488d7888448cf01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "痛苦的人.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fbf868521cee00c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "留住这时光1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -236,11 +262,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f15fc8d1fad0fd54",
+  "active": "66e54a9657731578",
   "lastOpenFiles": [
+    "留住这时光1.md",
+    "留住这时光.md",
+    "痛苦的人.md",
     "I Don't Wanna Fight.md",
+    "[[伍佰]].md",
     "盗心贼.md",
-    "盗心贼1.md",
     "离不开你.md",
     "离开.md",
     "我想我是海.md",
@@ -270,9 +299,6 @@
     "sedoyFgml",
     "sedu5Eydo",
     "sedqrBLwc",
-    "sedKUM8uZ",
-    "超级喜欢你.md",
-    "说声珍重.md",
-    "退守.md"
+    "sedKUM8uZ"
   ]
 }
