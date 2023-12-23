@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有点甜.md",
+                "file": "白月光与朱砂痣.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有点甜1.md",
+                "file": "有点甜.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cd558aa00c33c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "独角戏.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51a9bfb359efbcb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "白月光与朱砂痣1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -210,34 +236,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d0bf76f9c6ea50c",
+  "active": "51a9bfb359efbcb5",
   "lastOpenFiles": [
-    "有点甜1.md",
-    "我看花.md",
+    "独角戏.md",
+    "白月光与朱砂痣1.md",
+    "白月光与朱砂痣.md",
+    "盗心贼.md",
+    "痛苦的人.md",
+    "留在我身边.md",
+    "留住这时光.md",
+    "用情.md",
+    "用心爱你.md",
+    "生死竞赛 Race.md",
+    "独上西楼.md",
     "有点甜.md",
-    "有多少爱可以重来.md",
-    "有何不可.md",
-    "有个爱你的人不容易.md",
-    "月牙湾.md",
-    "暗里着迷.md",
-    "智慧树.md",
-    "晚秋.md",
-    "春风醉.md",
-    "星河万里.md",
-    "时间镜头.md",
-    "早晨.md",
-    "无价之姐.md",
-    "方圆几里.md",
-    "攻城.md",
-    "摩天轮.md",
-    "掏空.md",
-    "手紙～拝啓十五の君へ.md",
-    "所有.md",
-    "我要找到你.md",
-    "我爱你.md",
-    "我也不知道.md",
-    "我热情如火 你冰冷成河.md",
-    "我想我是海.md",
+    "牵丝线.md",
+    "爸爸妈妈.md",
+    "爱难忘情难断.md",
+    "爱过的故事.md",
+    "爱江山更爱美人.md",
+    "爱死了昨天.md",
+    "爱你三千遍.md",
+    "爱不爱我.md",
+    "灰色轨迹.md",
+    "灰色头像.md",
+    "演员.md",
+    "满月.md",
+    "波罗的海.md",
+    "没有如果.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
