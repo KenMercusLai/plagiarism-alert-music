@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "留住这时光.md",
+                "file": "独上西楼.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -175,7 +175,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "留住这时光1.md",
+                "file": "留住这时光.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f9409170f92fc39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "用心爱你.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2fa9c4343cd8c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "独上西楼1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -183,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -262,12 +288,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66e54a9657731578",
+  "active": "c2fa9c4343cd8c96",
   "lastOpenFiles": [
-    "留住这时光1.md",
+    "用心爱你.md",
+    "独上西楼1.md",
+    "独上西楼.md",
+    "I Don't Wanna Fight.md",
     "留住这时光.md",
     "痛苦的人.md",
-    "I Don't Wanna Fight.md",
     "[[伍佰]].md",
     "盗心贼.md",
     "离不开你.md",
@@ -288,8 +316,6 @@
     "I live my life for you.md",
     "孤牢.md",
     "15楼窗外.md",
-    "Hurricane 2000.md",
-    "Call Your Name.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
