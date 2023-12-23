@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9277.md",
+                "file": "Champagne Ocean.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "93e0485a36c561fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lollipop.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43caca74f5df12be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一生无悔.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,29 +125,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e19440d6896e0ed",
+  "active": "43caca74f5df12be",
   "lastOpenFiles": [
-    "Bo Peep Bo Peep.md",
+    "一个人挺好.md",
+    "t-音乐人的事怎么能叫抄呢.md",
+    "my child.md",
+    "conflict-files-obsidian-git.md",
     "Lollipop.md",
+    "Champagne Ocean.md",
+    "I Don't Wanna Fight.md",
+    "Call Your Name.md",
+    "高原红.md.tmp",
+    "高冷的爱情.md.tmp",
+    "飞舞.md.tmp",
+    "青花.md.tmp",
+    "通天大道宽又阔.md.tmp",
+    "逆流成河.md.tmp",
+    "逆战.md.tmp",
+    "这条街最靓的仔.md.tmp",
+    "足够.md.tmp",
+    "超级喜欢你.md.tmp",
+    "9420.md",
+    "9277.md",
+    "Bo Peep Bo Peep.md",
     "smooth criminal.md",
     "on my girl.md",
     "My all.md",
     "I live my life for you.md",
-    "I Don't Wanna Fight.md",
-    "conflict-files-obsidian-git.md",
     "Quang Hung Master D.md",
     "15楼窗外.md",
-    "高冷的爱情.md.tmp",
-    "飞舞.md.tmp",
-    "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md.tmp",
-    "青鸟-许巍.md.tmp",
-    "逞强.md.tmp",
-    "逆战.md.tmp",
-    "这条街最靓的仔.md.tmp",
-    "足够.md.tmp",
-    "讲真的.md.tmp",
-    "让我为你唱首歌.md.tmp",
-    "t-音乐人的事怎么能叫抄呢.md",
     "README.md",
     "123我爱你.md",
     "青鸟-许巍.md",
@@ -129,12 +162,6 @@
     "幸福等待.md",
     "幻听.md",
     "庐州月.md",
-    "情到浓时.md",
-    "所有.md",
-    "掏空.md",
-    "无价之姐.md",
-    "时间镜头.md",
-    "暗里着迷.md",
-    "修炼爱情.md"
+    "情到浓时.md"
   ]
 }
