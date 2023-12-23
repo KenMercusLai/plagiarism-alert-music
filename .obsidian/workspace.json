@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "所有.md",
+                "file": "时间镜头.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "所有1.md",
+                "file": "所有.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b06bd97c28c01187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "掏空.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "223c97faf6ca52a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "无价之姐.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -210,12 +236,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66e54a9657731578",
+  "active": "223c97faf6ca52a0",
   "lastOpenFiles": [
-    "所有1.md",
+    "时间镜头.md",
+    "I Don't Wanna Fight.md",
+    "无价之姐.md",
+    "掏空.md",
     "所有.md",
     "情到浓时.md",
-    "I Don't Wanna Fight.md",
     "庐州月.md",
     "幻听.md",
     "幸福等待.md",
@@ -236,8 +264,6 @@
     "如果当时.md",
     "[[赵雷]].md",
     "你若成风.md",
-    "爸爸妈妈.md",
-    "爱难忘情难断.md",
     "sedgBII26",
     "sedHW8S1H",
     "sedhjubXX",
