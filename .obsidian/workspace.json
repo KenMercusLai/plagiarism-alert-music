@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "023c1b1f098cf3d5",
+        "id": "ea6bc4efc0958b65",
         "type": "tabs",
         "children": [
           {
-            "id": "1e19440d6896e0ed",
+            "id": "04453ad30f50348a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champagne Ocean.md",
+                "file": "借酒浇愁.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "93e0485a36c561fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lollipop.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43caca74f5df12be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "今朝有酒今朝醉.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,8 +98,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43caca74f5df12be",
+  "active": "04453ad30f50348a",
   "lastOpenFiles": [
+    "Champagne Ocean.md",
+    "Lollipop.md",
+    "依然在一起.md",
+    "今朝有酒今朝醉.md",
     "乐游记.md",
     "白月光与朱砂痣.md",
     "---.md",
@@ -158,10 +135,6 @@
     "这条街最靓的仔.md.tmp",
     "足够.md.tmp",
     "超级喜欢你.md.tmp",
-    "一个人挺好.md",
-    "t-音乐人的事怎么能叫抄呢.md",
-    "my child.md",
-    "conflict-files-obsidian-git.md",
-    "Lollipop.md"
+    "一个人挺好.md"
   ]
 }
