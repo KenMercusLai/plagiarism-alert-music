@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "青鸟.md",
+                "file": "突然的自我.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "青鸟1.md",
+                "file": "青鸟.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c942450befe031a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "逆流成河.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,12 +159,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96807d04bcf0618c",
+  "active": "c942450befe031a9",
   "lastOpenFiles": [
-    "青鸟1.md",
-    "青鸟-许巍.md",
-    "青鸟.md",
     "突然的自我.md",
+    "逆流成河.md",
+    "逆流成河.md",
+    "青鸟.md",
+    "青鸟-许巍.md",
     "Untitled.md",
     "I Don't Wanna Fight.md",
     "临时演员.md",
@@ -175,7 +189,6 @@
     "说声珍重.md",
     "逆战.md",
     "退守.md",
-    "逆流成河.md",
     "通天大道宽又阔.md",
     "逞强.md",
     "高原红.md",
