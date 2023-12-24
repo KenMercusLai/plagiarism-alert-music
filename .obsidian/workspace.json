@@ -196,9 +196,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fe2408ff1511975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一首简单的哥.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -278,10 +291,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "822d752c567d4af4",
+  "active": "2fe2408ff1511975",
   "lastOpenFiles": [
-    "只要平凡.md",
     "阿廖莎.md",
+    "一首简单的哥.md",
+    "只要平凡.md",
     "听.md",
     "秋天不回来.md",
     "Sweet Memories.md",
@@ -305,7 +319,6 @@
     "邻家美眉.md",
     "你怎么舍得我难过.md",
     "亲爱的小孩.md",
-    "骁.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
