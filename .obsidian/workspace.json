@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5f590e2285434aaa",
+        "id": "5f860fca26146dd2",
         "type": "tabs",
         "children": [
           {
-            "id": "7904bdeee12d81b3",
+            "id": "ede3377f97379f3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "思念的牢.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -95,7 +100,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7904bdeee12d81b3",
+  "active": "ede3377f97379f3c",
   "lastOpenFiles": [
     "小鸡小鸡.md",
     "思念的牢.md",
