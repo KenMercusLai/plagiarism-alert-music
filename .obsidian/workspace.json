@@ -172,6 +172,19 @@
             }
           },
           {
+            "id": "24007834178a7a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大空と大地の中で.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c7238aa66cee4faf",
             "type": "leaf",
             "state": {
@@ -185,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -266,10 +279,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "822251edfa700d02",
+  "active": "24007834178a7a9b",
   "lastOpenFiles": [
-    "真英雄.md",
     "好大一棵树.md",
+    "大空と大地の中で.md",
+    "真英雄.md",
     "诛神诀.md",
     "爱不留.md",
     "有一种爱叫做放手.md",
@@ -293,7 +307,6 @@
     "爱的供养.md",
     "舞翼烟飞.md",
     "我相信.md",
-    "说谎.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
