@@ -79,9 +79,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e88b582074a3a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bar Bar Bar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "119bafcc7716aa7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "风见鸡.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,10 +188,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67919f3ea15f70fc",
+  "active": "119bafcc7716aa7b",
   "lastOpenFiles": [
-    "心里有个谜.md",
+    "Bar Bar Bar.md",
+    "风见鸡.md",
     "Dancing lalala.md",
+    "心里有个谜.md",
     "致爱丽丝.md",
     "夜的第七章.md",
     "碎铃.md",
@@ -188,8 +216,6 @@
     "我热情如火 你冰冷成河.md",
     "杀手.md",
     "你还要我怎样.md",
-    "信仰之名.md",
-    "修炼爱情.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
