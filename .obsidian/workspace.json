@@ -133,12 +133,12 @@
             }
           },
           {
-            "id": "e9577bcd87184e23",
+            "id": "8ef86e2308e258ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有一种爱叫做放手.md",
+                "file": "爱不留.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -146,12 +146,12 @@
             }
           },
           {
-            "id": "8ef86e2308e258ee",
+            "id": "0aa30ce632ec3c6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "爱不留.md",
+                "file": "诛神诀.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -253,10 +253,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ef86e2308e258ee",
+  "active": "0aa30ce632ec3c6a",
   "lastOpenFiles": [
-    "有一种爱叫做放手.md",
     "爱不留.md",
+    "诛神诀.md",
+    "有一种爱叫做放手.md",
     "伤心太平洋.md",
     "动了情伤了心.md",
     "古老的大钟.md",
@@ -280,7 +281,6 @@
     "说谎.md",
     "天空之城.md",
     "爱的大未来.md",
-    "内秘心书.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
