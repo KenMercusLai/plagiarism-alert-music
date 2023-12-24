@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94665bd940a9ca87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "印第安老斑鸠.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,9 +123,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c49bfb8e842d45e",
+  "active": "94665bd940a9ca87",
   "lastOpenFiles": [
     "红烧狮子头.md",
+    "印第安老斑鸠.md",
     "碎铃.md",
     "夜的第七章.md",
     "心里有个谜.md",
@@ -137,7 +151,6 @@
     "虎虎虎.md",
     "伤心的人别听慢歌.md",
     "归来是故乡.md",
-    "与犯罪相关的战争.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
