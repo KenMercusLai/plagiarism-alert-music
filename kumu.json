@@ -1050,6 +1050,16 @@
     "description": ""
   },
   {
+    "label": "夜的第七章",
+    "type": "Song",
+    "description": "Published: 2006-09-05"
+  },
+  {
+    "label": "周杰伦",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "大海",
     "type": "Song",
     "description": "Published: 1992-11-30"
@@ -2186,6 +2196,26 @@
   },
   {
     "label": "郁可唯",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "碎铃",
+    "type": "Song",
+    "description": "Published: 2021-09-12"
+  },
+  {
+    "label": "心有聆兮",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "执素兮",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "MAD",
     "type": "Person",
     "description": ""
   },
@@ -3727,6 +3757,12 @@
     "type": "演唱"
   },
   {
+    "from": "周杰伦",
+    "to": "夜的第七章",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "张雨生",
     "to": "大海",
     "label": "演唱",
@@ -4803,6 +4839,30 @@
   {
     "from": "知否知否",
     "to": "飞舞",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "心有聆兮",
+    "to": "碎铃",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "执素兮",
+    "to": "碎铃",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "MAD",
+    "to": "碎铃",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "碎铃",
+    "to": "夜的第七章",
     "label": "抄袭",
     "type": "抄袭"
   },
