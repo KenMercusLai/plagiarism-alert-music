@@ -157,9 +157,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cde0a251856e025d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "听.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -239,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24ac9b55ca0a8375",
+  "active": "cde0a251856e025d",
   "lastOpenFiles": [
-    "Sweet Memories.md",
     "秋天不回来.md",
+    "听.md",
+    "Sweet Memories.md",
     "春风里.md",
     "蝴蝶泉边.md",
     "冷风吹.md",
@@ -266,7 +280,6 @@
     "骁.md",
     "缘分一道桥.md",
     "红尘梦.md",
-    "行かないで.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
