@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "When You're Gone.md",
+                "file": "独自去偷欢.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heal",
+                "query": "独自去",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -149,10 +148,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52e71c7ec20253d7",
+  "active": "17051909f47caf3f",
   "lastOpenFiles": [
-    "堂吉诃德.md",
     "When You're Gone.md",
+    "堂吉诃德.md",
     "清明雨上.md",
     "忆少年.md",
     "痴情冢.md",
