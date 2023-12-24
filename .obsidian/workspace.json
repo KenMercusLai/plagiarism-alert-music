@@ -118,6 +118,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43f5bc47d070aca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "狱中十二月.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 8
@@ -202,11 +215,12 @@
   },
   "active": "821a473cd874dc95",
   "lastOpenFiles": [
-    "You Belong to Me.md",
+    "狱中十二月.md",
     "十三不亲.md",
-    "英雄.md",
-    "to be continued.md",
     "秋天不回来.md",
+    "英雄.md",
+    "You Belong to Me.md",
+    "to be continued.md",
     "crazy.md",
     "勇敢的心.md",
     "你好吗天气好吗.md",
@@ -227,7 +241,6 @@
     "一首简单的哥.md",
     "Heal the World.md",
     "碎铃.md",
-    "夜的第七章.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
