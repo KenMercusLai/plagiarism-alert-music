@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc68f770906eda21",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +112,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92c97839e15fcf82",
+  "active": "bc68f770906eda21",
   "lastOpenFiles": [
+    "t-音乐人的事怎么能叫抄呢.md",
     "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md",
     "麦芽糖.md",
     "魂.md",
@@ -128,7 +140,6 @@
     "红烧狮子头.md",
     "红尘梦.md",
     "竹苑情歌.md",
-    "稻香.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
