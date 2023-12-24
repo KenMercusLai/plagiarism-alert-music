@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "c40870ba2a33b81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "你好吗天气好吗.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +109,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69216aee26da5807",
+  "active": "c40870ba2a33b81b",
   "lastOpenFiles": [
+    "你好吗天气好吗.md",
     "红烧狮子头.md",
     "印第安老斑鸠.md",
     "热血.md",
@@ -122,7 +137,6 @@
     "风见鸡.md",
     "心中的太阳.md",
     "邻家美眉.md",
-    "你怎么舍得我难过.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
