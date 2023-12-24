@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"抄袭\": null",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35155dfe9b26d258",
+  "active": "17051909f47caf3f",
   "lastOpenFiles": [
     "修炼爱情.md",
     "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md",
