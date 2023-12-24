@@ -131,9 +131,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f81672250d081208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "那盏茶.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -214,10 +227,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f8e7d93f5263437",
+  "active": "f81672250d081208",
   "lastOpenFiles": [
-    "祖国的花朵.md",
     "Firefly.md",
+    "那盏茶.md",
+    "祖国的花朵.md",
     "走天涯.md",
     "醒来折花.md",
     "Sexy Music.md",
@@ -241,7 +255,6 @@
     "好大一棵树.md",
     "大空と大地の中で.md",
     "诛神诀.md",
-    "有一种爱叫做放手.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
