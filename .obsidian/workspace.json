@@ -66,9 +66,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "506b59cbe27c7d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "家乡.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,10 +162,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48a4938d8f916d61",
+  "active": "506b59cbe27c7d9f",
   "lastOpenFiles": [
-    "两个人的回忆一个人过.md",
     "你到底爱谁.md",
+    "家乡.md",
+    "两个人的回忆一个人过.md",
     "竹苑情歌.md",
     "痴情冢.md",
     "Mojito.md",
@@ -176,7 +190,6 @@
     "何も言えなくて...夏.md",
     "秋天不回来.md",
     "你好吗天气好吗.md",
-    "500 Miles.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
