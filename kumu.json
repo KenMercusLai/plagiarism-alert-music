@@ -35,6 +35,16 @@
     "description": ""
   },
   {
+    "label": "500 Miles",
+    "type": "Song",
+    "description": "Published: 1961-01-01"
+  },
+  {
+    "label": "4D",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "9277",
     "type": "Song",
     "description": "Published: 2018-05-08"
@@ -651,6 +661,21 @@
   },
   {
     "label": "成龙",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "你好吗天气好吗",
+    "type": "Song",
+    "description": "Published: 2011-05-27"
+  },
+  {
+    "label": "杨子檏",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "邓福如",
     "type": "Person",
     "description": ""
   },
@@ -3138,6 +3163,12 @@
     "type": "抄袭"
   },
   {
+    "from": "4D",
+    "to": "500 Miles",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "深七",
     "to": "9277",
     "label": "作曲",
@@ -3694,6 +3725,24 @@
     "to": "但愿花常在",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "杨子檏",
+    "to": "你好吗天气好吗",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "邓福如",
+    "to": "你好吗天气好吗",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "你好吗天气好吗",
+    "to": "500 Miles",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "黄品源",
