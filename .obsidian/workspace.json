@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8392bd5d15544aec",
+        "id": "d4d7f417326c1fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "92c97839e15fcf82",
+            "id": "35155dfe9b26d258",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "B",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,13 +53,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -98,10 +94,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92c97839e15fcf82",
+  "active": "35155dfe9b26d258",
   "lastOpenFiles": [
-    "t-音乐人的事怎么能叫抄呢.md",
     "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md",
+    "t-音乐人的事怎么能叫抄呢.md",
     "麦芽糖.md",
     "魂.md",
     "骁.md",
