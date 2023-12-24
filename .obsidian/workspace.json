@@ -196,9 +196,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a452077cb9a786fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "行かないで.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -279,10 +292,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a2d69daf37abbae",
+  "active": "a452077cb9a786fe",
   "lastOpenFiles": [
-    "缘分一道桥.md",
     "红尘梦.md",
+    "行かないで.md",
+    "缘分一道桥.md",
     "骁.md",
     "亲爱的小孩.md",
     "你怎么舍得我难过.md",
@@ -306,7 +320,6 @@
     "归来是故乡.md",
     "与犯罪相关的战争.md",
     "致命的甜蜜.md",
-    "愿山海皆平.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
