@@ -120,6 +120,16 @@
     "description": ""
   },
   {
+    "label": "Heal the World",
+    "type": "Song",
+    "description": "Published: 1995-06-20"
+  },
+  {
+    "label": "Michael Jackson",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "Hurricane 2000",
     "type": "Song",
     "description": "Published: 2000-08-29"
@@ -381,6 +391,16 @@
   },
   {
     "label": "刘德华",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "一首简单的哥",
+    "type": "Song",
+    "description": "Published: 2004-12-31"
+  },
+  {
+    "label": "王力宏",
     "type": "Person",
     "description": ""
   },
@@ -1040,6 +1060,21 @@
     "description": ""
   },
   {
+    "label": "只要平凡",
+    "type": "Song",
+    "description": "Published: 2018-06-25"
+  },
+  {
+    "label": "黄超",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "张杰",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "可不可以",
     "type": "Song",
     "description": "Published: 2018-05-03"
@@ -1056,6 +1091,21 @@
   },
   {
     "label": "刘大壮",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "听",
+    "type": "Song",
+    "description": "Published: 2004-10-01"
+  },
+  {
+    "label": "黄韵玲",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "刘若英",
     "type": "Person",
     "description": ""
   },
@@ -2390,6 +2440,21 @@
     "description": ""
   },
   {
+    "label": "秋天不回来",
+    "type": "Song",
+    "description": "Published: 2006-12-26"
+  },
+  {
+    "label": "胡力",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "王强",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "突然的自我",
     "type": "Song",
     "description": "Published: 2004-02-12"
@@ -2910,6 +2975,11 @@
     "description": ""
   },
   {
+    "label": "阿廖莎",
+    "type": "Song",
+    "description": "Published: "
+  },
+  {
     "label": "霍元甲",
     "type": "Song",
     "description": "Published: 2006-01-20"
@@ -3146,6 +3216,12 @@
     "type": "抄袭"
   },
   {
+    "from": "Michael Jackson",
+    "to": "Heal the World",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "蝎子乐队",
     "to": "Hurricane 2000",
     "label": "演唱",
@@ -3348,6 +3424,18 @@
     "to": "一起走过的日子",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "王力宏",
+    "to": "一首简单的哥",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "一首简单的哥",
+    "to": "Heal the World",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "严艺丹",
@@ -4004,6 +4092,24 @@
     "type": "演唱"
   },
   {
+    "from": "黄超",
+    "to": "只要平凡",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "张杰",
+    "to": "只要平凡",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "只要平凡",
+    "to": "阿廖莎",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "张紫豪",
     "to": "可不可以",
     "label": "演唱",
@@ -4026,6 +4132,18 @@
     "to": "大风吹",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "黄韵玲",
+    "to": "听",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "刘若英",
+    "to": "听",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "大张伟",
@@ -5274,6 +5392,24 @@
     "to": "离开",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "胡力",
+    "to": "秋天不回来",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "王强",
+    "to": "秋天不回来",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "秋天不回来",
+    "to": "听",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "伍佰",
