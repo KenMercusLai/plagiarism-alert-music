@@ -131,9 +131,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "668c19ac5beed4fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open All Night.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -213,9 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "821a473cd874dc95",
+  "active": "668c19ac5beed4fa",
   "lastOpenFiles": [
     "狱中十二月.md",
+    "Open All Night.md",
     "十三不亲.md",
     "秋天不回来.md",
     "英雄.md",
@@ -240,7 +254,6 @@
     "阿廖莎.md",
     "一首简单的哥.md",
     "Heal the World.md",
-    "碎铃.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
