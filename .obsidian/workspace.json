@@ -11,27 +11,13 @@
             "id": "92c97839e15fcf82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "t-音乐人的事怎么能叫抄呢.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc68f770906eda21",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc68f770906eda21",
+  "active": "92c97839e15fcf82",
   "lastOpenFiles": [
     "t-音乐人的事怎么能叫抄呢.md",
     "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md",
