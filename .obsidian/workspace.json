@@ -185,6 +185,19 @@
             }
           },
           {
+            "id": "2bafebad9cb832d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "雪の村レーヌ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4b52493e1cbfa628",
             "type": "leaf",
             "state": {
@@ -198,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -278,10 +291,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "95eed52d286fd1f9",
+  "active": "2bafebad9cb832d3",
   "lastOpenFiles": [
-    "内秘心书.md",
     "麦芽糖.md",
+    "雪の村レーヌ.md",
+    "内秘心书.md",
     "爱的大未来.md",
     "天空之城.md",
     "说谎.md",
@@ -305,7 +319,6 @@
     "狱中十二月.md",
     "Melody.md",
     "做你的男人.md",
-    "K歌之王.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
