@@ -196,9 +196,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f5b941a0a734652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "魂.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -279,10 +292,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f0a9a3473fe5d6f",
+  "active": "6f5b941a0a734652",
   "lastOpenFiles": [
-    "再回首.md",
     "海底.md",
+    "魂.md",
+    "再回首.md",
     "修今生.md",
     "我.md",
     "如果是你.md",
@@ -306,7 +320,6 @@
     "家乡.md",
     "一首简单的歌.md",
     "古老的大钟.md",
-    "动了情伤了心.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
