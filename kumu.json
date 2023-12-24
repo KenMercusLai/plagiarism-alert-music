@@ -145,6 +145,11 @@
     "description": ""
   },
   {
+    "label": "God rest ye merry gentlemen",
+    "type": "Song",
+    "description": "Published: 1400-01-01"
+  },
+  {
     "label": "Heal the World",
     "type": "Song",
     "description": "Published: 1995-06-20"
@@ -428,6 +433,16 @@
     "label": "Солнышко",
     "type": "Song",
     "description": "Published: 2004-01-01"
+  },
+  {
+    "label": "みんなひとり",
+    "type": "Song",
+    "description": "Published: 2006-11-01"
+  },
+  {
+    "label": "松隆子",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "ウエディング・ベル",
@@ -1790,6 +1805,21 @@
     "description": ""
   },
   {
+    "label": "寓言",
+    "type": "Song",
+    "description": "Published: 2004-01-06"
+  },
+  {
+    "label": "小安",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "张韶涵",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "对你比心",
     "type": "Song",
     "description": "Published: 2018-09-11"
@@ -2655,6 +2685,16 @@
     "description": ""
   },
   {
+    "label": "滴答",
+    "type": "Song",
+    "description": "Published: 2012-08-20"
+  },
+  {
+    "label": "侃侃",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "演员",
     "type": "Song",
     "description": "Published: 2015-05-20"
@@ -2686,6 +2726,16 @@
   },
   {
     "label": "燕青",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "然我们做个了断吧",
+    "type": "Song",
+    "description": "Published: 2020-03-16"
+  },
+  {
+    "label": "马健涛",
     "type": "Person",
     "description": ""
   },
@@ -4261,6 +4311,12 @@
     "type": "演唱"
   },
   {
+    "from": "松隆子",
+    "to": "みんなひとり",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "Sugar",
     "to": "ウエディング・ベル",
     "label": "演唱",
@@ -5599,6 +5655,24 @@
     "type": "抄袭"
   },
   {
+    "from": "小安",
+    "to": "寓言",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "张韶涵",
+    "to": "寓言",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "寓言",
+    "to": "God rest ye merry gentlemen",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "阮妍霏",
     "to": "对你比心",
     "label": "演唱",
@@ -6421,6 +6495,12 @@
     "type": "抄袭"
   },
   {
+    "from": "侃侃",
+    "to": "滴答",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "演员",
     "to": "薛之谦",
     "label": "抄袭",
@@ -6431,6 +6511,12 @@
     "to": "灰色头像",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "灰色头像",
+    "to": "みんなひとり",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "Beyong",
@@ -6447,6 +6533,18 @@
   {
     "from": "热血",
     "to": "但愿花常在",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "马健涛",
+    "to": "然我们做个了断吧",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "然我们做个了断吧",
+    "to": "滴答",
     "label": "抄袭",
     "type": "抄袭"
   },
