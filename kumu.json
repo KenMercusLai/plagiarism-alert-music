@@ -605,6 +605,16 @@
     "description": ""
   },
   {
+    "label": "但愿花常在",
+    "type": "Song",
+    "description": "Published: 1991-12-01"
+  },
+  {
+    "label": "成龙",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "你怎么舍得我难过",
     "type": "Song",
     "description": "Published: 1990-04-14"
@@ -936,6 +946,16 @@
   },
   {
     "label": "火箭少女",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "印第安老斑鸠",
+    "type": "Song",
+    "description": "Published: 2000-11-07"
+  },
+  {
+    "label": "周杰伦",
     "type": "Person",
     "description": ""
   },
@@ -2025,6 +2045,16 @@
     "description": ""
   },
   {
+    "label": "热血",
+    "type": "Song",
+    "description": "Published: 2016-06-15"
+  },
+  {
+    "label": "燕青",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "爱不爱我",
     "type": "Song",
     "description": "Published: 1996-12-30"
@@ -2051,6 +2081,21 @@
   },
   {
     "label": "邓天羽",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "爱如潮水",
+    "type": "Song",
+    "description": "Published: 1993-01-01"
+  },
+  {
+    "label": "黎沸挥",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "张信哲",
     "type": "Person",
     "description": ""
   },
@@ -3495,6 +3540,12 @@
     "type": "演唱"
   },
   {
+    "from": "成龙",
+    "to": "但愿花常在",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "黄品源",
     "to": "你怎么舍得我难过",
     "label": "作曲",
@@ -3835,6 +3886,12 @@
     "to": "smooth criminal",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "周杰伦",
+    "to": "印第安老斑鸠",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "纪家盈",
@@ -4827,6 +4884,18 @@
     "type": "演唱"
   },
   {
+    "from": "燕青",
+    "to": "热血",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "热血",
+    "to": "但愿花常在",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "零点乐队",
     "to": "爱不爱我",
     "label": "作曲",
@@ -4859,6 +4928,30 @@
   {
     "from": "爱你三千遍",
     "to": "你若成风",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "黎沸挥",
+    "to": "爱如潮水",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "张信哲",
+    "to": "爱如潮水",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "爱如潮水",
+    "to": "",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "爱如潮水",
+    "to": "]",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -5215,6 +5308,12 @@
     "to": "红烧狮子头",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "红烧狮子头",
+    "to": "印第安老斑鸠",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "王菲",
