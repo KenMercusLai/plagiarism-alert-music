@@ -209,9 +209,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01c2f0411f798948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "爱情酿的酒.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -291,10 +304,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81b9c75c9588d267",
+  "active": "01c2f0411f798948",
   "lastOpenFiles": [
-    "意大利儿歌黑猫.md",
     "稻香.md",
+    "爱情酿的酒.md",
+    "意大利儿歌黑猫.md",
     "名侦探戈.md",
     "K歌之王.md",
     "做你的男人.md",
@@ -318,7 +332,6 @@
     "ウエディング・ベル.md",
     "冷风吹.md",
     "蝴蝶泉边.md",
-    "春风里.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
