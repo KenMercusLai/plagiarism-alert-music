@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一首简单的歌.md",
+                "file": "一首简单的哥.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<% tp.file.title %>",
+                "query": "heal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -190,8 +189,10 @@
   },
   "active": "735b2d7e69c5a700",
   "lastOpenFiles": [
-    "家乡.md",
     "一首简单的歌.md",
+    "一首简单的哥.md",
+    "Heal the World.md",
+    "家乡.md",
     "心中的恋人.md",
     "你到底爱谁.md",
     "两个人的回忆一个人过.md",
@@ -214,8 +215,6 @@
     "t-音乐人的事怎么能叫抄呢.md",
     "only my railgun.md",
     "雪の村レーヌ.md",
-    "独自去偷换.md",
-    "何も言えなくて...夏.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
