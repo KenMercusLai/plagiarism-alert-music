@@ -40,11 +40,6 @@
     "description": "Published: 1961-01-01"
   },
   {
-    "label": "4D",
-    "type": "Person",
-    "description": ""
-  },
-  {
     "label": "9277",
     "type": "Song",
     "description": "Published: 2018-05-08"
@@ -210,6 +205,16 @@
     "description": ""
   },
   {
+    "label": "Open All Night",
+    "type": "Song",
+    "description": "Published: 2002-10-01"
+  },
+  {
+    "label": "Bon Jovi",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "Prisoner of Love",
     "type": "Song",
     "description": "Published: 2008-05-21"
@@ -261,6 +266,26 @@
   },
   {
     "label": "李宇春",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "You Belong to Me",
+    "type": "Song",
+    "description": "Published: 1952-01-01"
+  },
+  {
+    "label": "Bob Dylan",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "crazy",
+    "type": "Song",
+    "description": "Published: 2004-01-01"
+  },
+  {
+    "label": "Simple Plan",
     "type": "Person",
     "description": ""
   },
@@ -323,6 +348,16 @@
     "label": "the apl song",
     "type": "Song",
     "description": "Published: 2003-06-24"
+  },
+  {
+    "label": "to be continued",
+    "type": "Song",
+    "description": "Published: 2001-01-01"
+  },
+  {
+    "label": "click-b",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "Солнышко",
@@ -825,6 +860,21 @@
     "description": ""
   },
   {
+    "label": "做你的男人",
+    "type": "Song",
+    "description": "Published: 2006-09-08"
+  },
+  {
+    "label": "陈台证",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "张信哲",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "做我老婆好不好",
     "type": "Song",
     "description": "Published: 2007-10-22"
@@ -931,6 +981,26 @@
   },
   {
     "label": "小山",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "勇敢的心",
+    "type": "Song",
+    "description": "Published: 2007-01-01"
+  },
+  {
+    "label": "汪峰",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "十三不亲",
+    "type": "Song",
+    "description": "Published: 1995-01-01"
+  },
+  {
+    "label": "刘牧",
     "type": "Person",
     "description": ""
   },
@@ -2310,6 +2380,16 @@
     "description": "Published: 2020-01-01"
   },
   {
+    "label": "狱中十二月",
+    "type": "Song",
+    "description": "Published: 1991-01-01"
+  },
+  {
+    "label": "迟志强",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "生死竞赛 Race",
     "type": "Song",
     "description": "Published: 2008-01-01"
@@ -2701,6 +2781,26 @@
   },
   {
     "label": "贝多芬",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "英雄",
+    "type": "Song",
+    "description": "Published: 2001-01-01"
+  },
+  {
+    "label": "汪峰",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "汪峰",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "汪峰",
     "type": "Person",
     "description": ""
   },
@@ -3163,12 +3263,6 @@
     "type": "抄袭"
   },
   {
-    "from": "4D",
-    "to": "500 Miles",
-    "label": "演唱",
-    "type": "演唱"
-  },
-  {
     "from": "深七",
     "to": "9277",
     "label": "作曲",
@@ -3295,6 +3389,18 @@
     "type": "演唱"
   },
   {
+    "from": "Bon Jovi",
+    "to": "Open All Night",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "Open All Night",
+    "to": "Melody",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "宇多田光",
     "to": "Prisoner of Love",
     "label": "演唱",
@@ -3343,6 +3449,18 @@
     "type": "抄袭"
   },
   {
+    "from": "Bob Dylan",
+    "to": "You Belong to Me",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "Simple Plan",
+    "to": "crazy",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "长渕刚",
     "to": "goodbye 青春",
     "label": "作曲",
@@ -3381,6 +3499,12 @@
   {
     "from": "Michael Jackson",
     "to": "smooth criminal",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "click-b",
+    "to": "to be continued",
     "label": "演唱",
     "type": "演唱"
   },
@@ -3895,6 +4019,24 @@
     "type": "抄袭"
   },
   {
+    "from": "陈台证",
+    "to": "做你的男人",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "张信哲",
+    "to": "做你的男人",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "做你的男人",
+    "to": "K歌之王",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "徐誉滕",
     "to": "做我老婆好不好",
     "label": "作曲",
@@ -3999,6 +4141,30 @@
   {
     "from": "分手就分手",
     "to": "留住这时光",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "汪峰",
+    "to": "勇敢的心",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "勇敢的心",
+    "to": "crazy",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "刘牧",
+    "to": "十三不亲",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "十三不亲",
+    "to": "狱中十二月",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -5299,6 +5465,12 @@
     "type": "抄袭"
   },
   {
+    "from": "迟志强",
+    "to": "狱中十二月",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "生死竞赛 Race",
     "to": "竹林深处",
     "label": "抄袭",
@@ -5457,6 +5629,12 @@
   {
     "from": "秋天不回来",
     "to": "听",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "秋天不回来",
+    "to": "to be continued",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -5675,6 +5853,30 @@
     "to": "致爱丽丝",
     "label": "作曲",
     "type": "作曲"
+  },
+  {
+    "from": "汪峰",
+    "to": "英雄",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "汪峰",
+    "to": "英雄",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "汪峰",
+    "to": "英雄",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "英雄",
+    "to": "You Belong to Me",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "我叫安琪拉",
