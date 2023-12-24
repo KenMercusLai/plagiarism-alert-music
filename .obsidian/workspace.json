@@ -86,7 +86,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一首简单的哥.md",
+                "file": "一首简单的歌.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7dfc9e84c0da7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "古老的大钟.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -187,9 +201,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "735b2d7e69c5a700",
+  "active": "e7dfc9e84c0da7fd",
   "lastOpenFiles": [
     "一首简单的歌.md",
+    "古老的大钟.md",
     "一首简单的哥.md",
     "Heal the World.md",
     "家乡.md",
@@ -214,7 +229,6 @@
     "信仰之名.md",
     "t-音乐人的事怎么能叫抄呢.md",
     "only my railgun.md",
-    "雪の村レーヌ.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
