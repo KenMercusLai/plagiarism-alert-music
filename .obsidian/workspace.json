@@ -131,9 +131,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7e7366a4e34b23b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sweet Memories.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -213,10 +226,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08a818367d6099ee",
+  "active": "e7e7366a4e34b23b",
   "lastOpenFiles": [
-    "蝴蝶泉边.md",
     "春风里.md",
+    "Sweet Memories.md",
+    "蝴蝶泉边.md",
     "冷风吹.md",
     "ウエディング・ベル.md",
     "爱如潮水.md",
@@ -240,7 +254,6 @@
     "红尘梦.md",
     "行かないで.md",
     "机车女孩.md",
-    "思念的牢.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
