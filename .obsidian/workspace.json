@@ -157,9 +157,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5c02e07d3d6ba0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "骁.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -240,10 +253,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f0af32aa2b2c7f8",
+  "active": "f5c02e07d3d6ba0a",
   "lastOpenFiles": [
-    "你怎么舍得我难过.md",
     "亲爱的小孩.md",
+    "骁.md",
+    "你怎么舍得我难过.md",
     "机车女孩.md",
     "邻家美眉.md",
     "心中的太阳.md",
@@ -267,7 +281,6 @@
     "愿山海皆平.md",
     "你是人间四月天.md",
     "相信自己.md",
-    "你把爱情给了谁.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
