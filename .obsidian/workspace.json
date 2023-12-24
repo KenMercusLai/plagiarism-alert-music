@@ -27,9 +27,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b02b1d20bc3e3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "清明雨上.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a3101ae353c08c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "堂吉诃德.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,8 +136,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1113f81d4a3745c1",
+  "active": "7a3101ae353c08c0",
   "lastOpenFiles": [
+    "清明雨上.md",
+    "堂吉诃德.md",
     "忆少年.md",
     "痴情冢.md",
     "竹苑情歌.md",
@@ -136,8 +164,6 @@
     "加入我变成空气.md",
     "独自去偷欢.md",
     "原来我是第三者.md",
-    "爱的供养.md",
-    "舞翼烟飞.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
