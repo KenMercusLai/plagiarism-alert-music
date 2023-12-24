@@ -248,9 +248,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79044b7123513124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "追虹人.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -331,10 +344,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd5f027e18fea543",
+  "active": "79044b7123513124",
   "lastOpenFiles": [
-    "ヤキモチ.md",
     "再见.md",
+    "追虹人.md",
+    "ヤキモチ.md",
     "一路生花.md",
     "魂.md",
     "海底.md",
@@ -358,7 +372,6 @@
     "痴情冢.md",
     "竹苑情歌.md",
     "两个人的回忆一个人过.md",
-    "你到底爱谁.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
