@@ -105,6 +105,16 @@
     "description": ""
   },
   {
+    "label": "Candy",
+    "type": "Song",
+    "description": "Published: 1996-01-01"
+  },
+  {
+    "label": "H.O.T",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "Champagne Ocean",
     "type": "Song",
     "description": "Published: 2016-10-15"
@@ -426,6 +436,16 @@
   },
   {
     "label": "Sugar",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "ヤキモチ",
+    "type": "Song",
+    "description": "Published: 2014-08-06"
+  },
+  {
+    "label": "高桥优",
     "type": "Person",
     "description": ""
   },
@@ -1090,6 +1110,16 @@
     "description": ""
   },
   {
+    "label": "再见",
+    "type": "Song",
+    "description": "Published: 2005-07-01"
+  },
+  {
+    "label": "张震岳",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "冬眠",
     "type": "Song",
     "description": "Published: 2019-01-01"
@@ -1465,6 +1495,16 @@
     "description": ""
   },
   {
+    "label": "因为是女子",
+    "type": "Song",
+    "description": "Published: 2002-01-01"
+  },
+  {
+    "label": "KISS",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "地铁等待",
     "type": "Song",
     "description": "Published: 2018-01-01"
@@ -1503,6 +1543,26 @@
     "label": "夕阳坂",
     "type": "Song",
     "description": "Published: 2008-01-01"
+  },
+  {
+    "label": "外滩18号",
+    "type": "Song",
+    "description": "Published: 2007-11-01"
+  },
+  {
+    "label": "秦天",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "袁成杰",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "戚薇",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "多余的解释",
@@ -3320,6 +3380,16 @@
     "description": ""
   },
   {
+    "label": "芹菜",
+    "type": "Song",
+    "description": "Published: 1998-09-01"
+  },
+  {
+    "label": "林志颖",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "英雄",
     "type": "Song",
     "description": "Published: 2001-01-01"
@@ -3591,6 +3661,16 @@
   },
   {
     "label": "金志文",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "追虹人",
+    "type": "Song",
+    "description": "Published: 1999-01-01"
+  },
+  {
+    "label": "中川砂仁",
     "type": "Person",
     "description": ""
   },
@@ -3953,6 +4033,12 @@
     "type": "演唱"
   },
   {
+    "from": "H.O.T",
+    "to": "Candy",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "Ehrling",
     "to": "Champagne Ocean",
     "label": "作曲",
@@ -4177,6 +4263,12 @@
   {
     "from": "Sugar",
     "to": "ウエディング・ベル",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "高桥优",
+    "to": "ヤキモチ",
     "label": "演唱",
     "type": "演唱"
   },
@@ -4847,6 +4939,18 @@
     "type": "演唱"
   },
   {
+    "from": "张震岳",
+    "to": "再见",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "再见",
+    "to": "追虹人",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "桃玖",
     "to": "冬眠",
     "label": "作词",
@@ -5237,6 +5341,12 @@
     "type": "抄袭"
   },
   {
+    "from": "KISS",
+    "to": "因为是女子",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "奉献",
     "to": "地铁等待",
     "label": "演唱",
@@ -5265,6 +5375,30 @@
     "to": "处处吻",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "秦天",
+    "to": "外滩18号",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "袁成杰",
+    "to": "外滩18号",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "戚薇",
+    "to": "外滩18号",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "外滩18号",
+    "to": "因为是女子",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "许嵩",
@@ -6989,6 +7123,18 @@
     "type": "演唱"
   },
   {
+    "from": "林志颖",
+    "to": "芹菜",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "芹菜",
+    "to": "Candy",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "汪峰",
     "to": "英雄",
     "label": "作词",
@@ -7257,6 +7403,12 @@
     "to": "早晨",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "中川砂仁",
+    "to": "追虹人",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "王雨桐",
