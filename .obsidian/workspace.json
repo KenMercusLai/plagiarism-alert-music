@@ -144,9 +144,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24ac9b55ca0a8375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "秋天不回来.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,10 +239,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7e7366a4e34b23b",
+  "active": "24ac9b55ca0a8375",
   "lastOpenFiles": [
-    "春风里.md",
     "Sweet Memories.md",
+    "秋天不回来.md",
+    "春风里.md",
     "蝴蝶泉边.md",
     "冷风吹.md",
     "ウエディング・ベル.md",
@@ -253,7 +267,6 @@
     "缘分一道桥.md",
     "红尘梦.md",
     "行かないで.md",
-    "机车女孩.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
