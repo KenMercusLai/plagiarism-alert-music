@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.md",
+                "file": "但愿花常在.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,10 +149,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6a603ec6dd189bf",
+  "active": "d6926bb32cba4b39",
   "lastOpenFiles": [
+    "但愿花常在.md",
     "热血.md",
-    "1.md",
     "印第安老斑鸠.md",
     "红烧狮子头.md",
     "碎铃.md",
