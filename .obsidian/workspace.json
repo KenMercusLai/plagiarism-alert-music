@@ -183,9 +183,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86d3595b00efc2f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "意大利儿歌黑猫.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -265,10 +278,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9a640dfd53c1a7b",
+  "active": "86d3595b00efc2f3",
   "lastOpenFiles": [
-    "K歌之王.md",
     "名侦探戈.md",
+    "意大利儿歌黑猫.md",
+    "K歌之王.md",
     "做你的男人.md",
     "Melody.md",
     "Open All Night.md",
@@ -292,7 +306,6 @@
     "蝴蝶泉边.md",
     "春风里.md",
     "Sweet Memories.md",
-    "听.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
