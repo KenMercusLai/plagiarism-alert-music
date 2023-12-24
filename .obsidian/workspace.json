@@ -190,7 +190,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雪の村レーヌ.md",
+                "file": "信仰之名.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b70b656e68f0ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "only my railgun.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -211,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -240,7 +253,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "only",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -249,12 +262,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -291,10 +304,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bafebad9cb832d3",
+  "active": "5b70b656e68f0ce9",
   "lastOpenFiles": [
-    "麦芽糖.md",
+    "信仰之名.md",
+    "only my railgun.md",
     "雪の村レーヌ.md",
+    "独自去偷换.md",
+    "麦芽糖.md",
     "内秘心书.md",
     "爱的大未来.md",
     "天空之城.md",
@@ -316,9 +332,6 @@
     "英雄.md",
     "You Belong to Me.md",
     "十三不亲.md",
-    "狱中十二月.md",
-    "Melody.md",
-    "做你的男人.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
