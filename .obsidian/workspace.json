@@ -14,35 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3488ffa2306c8914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "碎铃.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18d6509d2d34a1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "夜的第七章.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "B",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +96,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18d6509d2d34a1ff",
+  "active": "92c97839e15fcf82",
   "lastOpenFiles": [
     "碎铃.md",
     "夜的第七章.md",
