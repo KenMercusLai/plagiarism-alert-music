@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"抄袭\": null",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
