@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8b91564ffef1719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "竹苑情歌.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,9 +123,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1da2a1590195614f",
+  "active": "f8b91564ffef1719",
   "lastOpenFiles": [
     "痴情冢.md",
+    "竹苑情歌.md",
     "Mojito.md",
     "美少女战士.md",
     "加入我变成空气.md",
@@ -137,7 +151,6 @@
     "500 Miles.md",
     "勇敢的心.md",
     "to be continued.md",
-    "英雄.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
