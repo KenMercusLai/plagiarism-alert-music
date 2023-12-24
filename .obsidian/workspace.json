@@ -118,9 +118,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8b289a08fa0d8f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "邻家美眉.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -201,10 +214,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfb667739b5ee56b",
+  "active": "a8b289a08fa0d8f1",
   "lastOpenFiles": [
-    "风见鸡.md",
     "心中的太阳.md",
+    "邻家美眉.md",
+    "风见鸡.md",
     "Bar Bar Bar.md",
     "Dancing lalala.md",
     "心里有个谜.md",
@@ -228,7 +242,6 @@
     "千百度.md",
     "小眼睛.md",
     "我热情如火 你冰冷成河.md",
-    "杀手.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
