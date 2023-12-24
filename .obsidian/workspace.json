@@ -170,9 +170,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a77ededfe3a39956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "只要平凡.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -252,10 +265,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cde0a251856e025d",
+  "active": "a77ededfe3a39956",
   "lastOpenFiles": [
-    "秋天不回来.md",
     "听.md",
+    "只要平凡.md",
+    "秋天不回来.md",
     "Sweet Memories.md",
     "春风里.md",
     "蝴蝶泉边.md",
@@ -279,7 +293,6 @@
     "亲爱的小孩.md",
     "骁.md",
     "缘分一道桥.md",
-    "红尘梦.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
