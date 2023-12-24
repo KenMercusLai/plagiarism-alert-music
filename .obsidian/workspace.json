@@ -73,7 +73,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "秋天不回来.md",
+                "file": "原来我是第三者.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "123c1449825bd1e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "爱的供养.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -161,9 +174,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b0f58c7632954f5",
+  "active": "123c1449825bd1e5",
   "lastOpenFiles": [
     "原来我是第三者.md",
+    "爱的供养.md",
     "秋天不回来.md",
     "独自去偷欢.md",
     "加入我变成空气.md",
@@ -188,7 +202,6 @@
     "crazy.md",
     "红烧狮子头.md",
     "印第安老斑鸠.md",
-    "热血.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
