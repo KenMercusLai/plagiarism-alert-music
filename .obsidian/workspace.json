@@ -14,217 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3deea3930486d396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mojito.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7da82bf9f8a427ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "美少女战士.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a80449b03e56aad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "加入我变成空气.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e7353ff5df3bb77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "独自去偷欢.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b0f58c7632954f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "原来我是第三者.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "123c1449825bd1e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "爱的供养.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e0cd4fd5296cb62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "舞翼烟飞.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ad4fab809a288c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我相信.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac5d4c24c817c9ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "说谎.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b363a9d2236969d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天空之城.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "802b6d5979d2bb4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "爱的大未来.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fd13f0b05c851b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "内秘心书.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95eed52d286fd1f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "麦芽糖.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bafebad9cb832d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信仰之名.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b70b656e68f0ce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "only my railgun.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b52493e1cbfa628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "何も言えなくて...夏.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "only",
+                "query": "<% tp.file.title %>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -304,34 +96,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b70b656e68f0ce9",
+  "active": "69216aee26da5807",
   "lastOpenFiles": [
+    "Mojito.md",
+    "美少女战士.md",
+    "加入我变成空气.md",
+    "独自去偷欢.md",
+    "原来我是第三者.md",
+    "爱的供养.md",
+    "舞翼烟飞.md",
+    "我相信.md",
+    "说谎.md",
+    "天空之城.md",
+    "爱的大未来.md",
+    "内秘心书.md",
+    "麦芽糖.md",
     "信仰之名.md",
+    "t-音乐人的事怎么能叫抄呢.md",
     "only my railgun.md",
     "雪の村レーヌ.md",
     "独自去偷换.md",
-    "麦芽糖.md",
-    "内秘心书.md",
-    "爱的大未来.md",
-    "天空之城.md",
-    "说谎.md",
-    "我相信.md",
     "何も言えなくて...夏.md",
-    "舞翼烟飞.md",
-    "爱的供养.md",
-    "原来我是第三者.md",
     "秋天不回来.md",
-    "独自去偷欢.md",
-    "加入我变成空气.md",
-    "美少女战士.md",
-    "Mojito.md",
     "你好吗天气好吗.md",
     "500 Miles.md",
     "勇敢的心.md",
     "to be continued.md",
     "英雄.md",
     "You Belong to Me.md",
-    "十三不亲.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
