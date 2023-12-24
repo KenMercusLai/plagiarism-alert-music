@@ -146,6 +146,19 @@
             }
           },
           {
+            "id": "8ef86e2308e258ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "爱不留.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c7238aa66cee4faf",
             "type": "leaf",
             "state": {
@@ -159,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -240,10 +253,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9577bcd87184e23",
+  "active": "8ef86e2308e258ee",
   "lastOpenFiles": [
-    "伤心太平洋.md",
     "有一种爱叫做放手.md",
+    "爱不留.md",
+    "伤心太平洋.md",
     "动了情伤了心.md",
     "古老的大钟.md",
     "一首简单的歌.md",
@@ -267,7 +281,6 @@
     "天空之城.md",
     "爱的大未来.md",
     "内秘心书.md",
-    "麦芽糖.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
