@@ -465,9 +465,14 @@
     "description": ""
   },
   {
-    "label": "一首简单的哥",
+    "label": "一首简单的歌",
     "type": "Song",
     "description": "Published: 2004-12-31"
+  },
+  {
+    "label": "王力宏",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "王力宏",
@@ -590,6 +595,16 @@
     "description": ""
   },
   {
+    "label": "两个人的回忆一个人过",
+    "type": "Song",
+    "description": "Published: 2014-12-16"
+  },
+  {
+    "label": "庄心妍",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "中国菜",
     "type": "Song",
     "description": "Published: 2021-02-27"
@@ -695,6 +710,21 @@
     "description": ""
   },
   {
+    "label": "伤心太平洋",
+    "type": "Song",
+    "description": "Published: 1998-08-28"
+  },
+  {
+    "label": "中岛美雪",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "任贤齐",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "伤心的人别听慢歌",
     "type": "Song",
     "description": "Published: 2013-06-09"
@@ -731,6 +761,16 @@
   },
   {
     "label": "Jaywalk",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "你到底爱谁",
+    "type": "Song",
+    "description": "Published: 2005-01-01"
+  },
+  {
+    "label": "刘嘉亮",
     "type": "Person",
     "description": ""
   },
@@ -1040,6 +1080,21 @@
     "description": ""
   },
   {
+    "label": "动了情伤了心",
+    "type": "Song",
+    "description": "Published: 2017-10-25"
+  },
+  {
+    "label": "可乐",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "张枫",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "勇敢的心",
     "type": "Song",
     "description": "Published: 2007-01-01"
@@ -1221,6 +1276,16 @@
   },
   {
     "label": "张雨生",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "古老的大钟",
+    "type": "Song",
+    "description": "Published: 1876-01-01"
+  },
+  {
+    "label": "Henry Clay Work",
     "type": "Person",
     "description": ""
   },
@@ -1440,6 +1505,21 @@
     "description": ""
   },
   {
+    "label": "好大一棵树",
+    "type": "Song",
+    "description": "Published: 1990-01-01"
+  },
+  {
+    "label": "伍嘉冀",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "张晓梅",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "如果声音不记得",
     "type": "Song",
     "description": "Published: 2020-12-08"
@@ -1523,6 +1603,21 @@
     "label": "客官不可以",
     "type": "Song",
     "description": "Published: 2010-01-01"
+  },
+  {
+    "label": "家乡",
+    "type": "Song",
+    "description": "Published: 1998-01-01"
+  },
+  {
+    "label": "韩红",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "韩红",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "对你比心",
@@ -1726,6 +1821,21 @@
   },
   {
     "label": "赵本山",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "心中的恋人",
+    "type": "Song",
+    "description": "Published: 1991-01-01"
+  },
+  {
+    "label": "边洛",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "容中尔甲",
     "type": "Person",
     "description": ""
   },
@@ -2125,6 +2235,16 @@
     "description": ""
   },
   {
+    "label": "有一种爱叫做放手",
+    "type": "Song",
+    "description": "Published: 2007-05-28"
+  },
+  {
+    "label": "阿木",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "有个爱你的人不容易",
     "type": "Song",
     "description": "Published: 2015-09-20"
@@ -2375,6 +2495,16 @@
     "description": ""
   },
   {
+    "label": "爱不留",
+    "type": "Song",
+    "description": "Published: 2000-06-02"
+  },
+  {
+    "label": "张信哲",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "爱你三千遍",
     "type": "Song",
     "description": "Published: 2019-05-07"
@@ -2615,6 +2745,16 @@
     "description": ""
   },
   {
+    "label": "痴情冢",
+    "type": "Song",
+    "description": "Published: 2013-10-25"
+  },
+  {
+    "label": "贾青",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "白月光与朱砂痣",
     "type": "Song",
     "description": "Published: 2021-01-01"
@@ -2651,6 +2791,16 @@
   },
   {
     "label": "零点乐队",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "真英雄",
+    "type": "Song",
+    "description": "Published: 2012-12-03"
+  },
+  {
+    "label": "张卫健",
     "type": "Person",
     "description": ""
   },
@@ -2766,6 +2916,16 @@
   },
   {
     "label": "王力宏",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "竹苑情歌",
+    "type": "Song",
+    "description": "Published: 1996-01-01"
+  },
+  {
+    "label": "金庸群侠传",
     "type": "Person",
     "description": ""
   },
@@ -3141,6 +3301,16 @@
   },
   {
     "label": "曾惜",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "诛神诀",
+    "type": "Song",
+    "description": "Published: 2021-10-10"
+  },
+  {
+    "label": "叶泽浩",
     "type": "Person",
     "description": ""
   },
@@ -3825,13 +3995,25 @@
   },
   {
     "from": "王力宏",
-    "to": "一首简单的哥",
+    "to": "一首简单的歌",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "王力宏",
+    "to": "一首简单的歌",
     "label": "演唱",
     "type": "演唱"
   },
   {
-    "from": "一首简单的哥",
+    "from": "一首简单的歌",
     "to": "Heal the World",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "一首简单的歌",
+    "to": "古老的大钟",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -3962,6 +4144,18 @@
     "type": "演唱"
   },
   {
+    "from": "庄心妍",
+    "to": "两个人的回忆一个人过",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "两个人的回忆一个人过",
+    "to": "你到底爱谁",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "优秀少年团",
     "to": "中国菜",
     "label": "演唱",
@@ -4070,6 +4264,18 @@
     "type": "抄袭"
   },
   {
+    "from": "中岛美雪",
+    "to": "伤心太平洋",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "任贤齐",
+    "to": "伤心太平洋",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "阿信",
     "to": "伤心的人别听慢歌",
     "label": "作词",
@@ -4096,6 +4302,12 @@
   {
     "from": "Jaywalk",
     "to": "何も言えなくて...夏",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "刘嘉亮",
+    "to": "你到底爱谁",
     "label": "演唱",
     "type": "演唱"
   },
@@ -4412,6 +4624,24 @@
     "type": "抄袭"
   },
   {
+    "from": "可乐",
+    "to": "动了情伤了心",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "张枫",
+    "to": "动了情伤了心",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "动了情伤了心",
+    "to": "伤心太平洋",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "汪峰",
     "to": "勇敢的心",
     "label": "演唱",
@@ -4590,6 +4820,12 @@
     "to": "口是心非",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "Henry Clay Work",
+    "to": "古老的大钟",
+    "label": "作曲",
+    "type": "作曲"
   },
   {
     "from": "黄超",
@@ -4778,6 +5014,18 @@
     "type": "抄袭"
   },
   {
+    "from": "伍嘉冀",
+    "to": "好大一棵树",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "张晓梅",
+    "to": "好大一棵树",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "吴青峰",
     "to": "如果声音不记得",
     "label": "演唱",
@@ -4854,6 +5102,24 @@
     "to": "宠爱",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "韩红",
+    "to": "家乡",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "韩红",
+    "to": "家乡",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "家乡",
+    "to": "心中的恋人",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "阮妍霏",
@@ -5056,6 +5322,18 @@
   {
     "from": "赵本山",
     "to": "心中的太阳",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "边洛",
+    "to": "心中的恋人",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "容中尔甲",
+    "to": "心中的恋人",
     "label": "演唱",
     "type": "演唱"
   },
@@ -5432,6 +5710,18 @@
     "type": "演唱"
   },
   {
+    "from": "阿木",
+    "to": "有一种爱叫做放手",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "有一种爱叫做放手",
+    "to": "爱不留",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "那英",
     "to": "有个爱你的人不容易",
     "label": "演唱",
@@ -5666,6 +5956,12 @@
     "type": "抄袭"
   },
   {
+    "from": "张信哲",
+    "to": "爱不留",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "邓天羽",
     "to": "爱你三千遍",
     "label": "演唱",
@@ -5894,6 +6190,18 @@
     "type": "演唱"
   },
   {
+    "from": "贾青",
+    "to": "痴情冢",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "痴情冢",
+    "to": "竹苑情歌",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "白月光与朱砂痣",
     "to": "夕阳坂",
     "label": "抄袭",
@@ -5934,6 +6242,12 @@
     "to": "Hurricane 2000",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "张卫健",
+    "to": "真英雄",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "胡夏",
@@ -6052,6 +6366,12 @@
   {
     "from": "王力宏",
     "to": "竹林深处",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "金庸群侠传",
+    "to": "竹苑情歌",
     "label": "演唱",
     "type": "演唱"
   },
@@ -6406,6 +6726,18 @@
   {
     "from": "讲真的",
     "to": "心痛2009",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "叶泽浩",
+    "to": "诛神诀",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "诛神诀",
+    "to": "真英雄",
     "label": "抄袭",
     "type": "抄袭"
   },
