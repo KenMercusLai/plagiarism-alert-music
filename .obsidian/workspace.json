@@ -92,9 +92,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51bf659143ca5e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "You Belong to Me.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "821a473cd874dc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "十三不亲.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -174,10 +200,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb94ceb0f9f7a040",
+  "active": "821a473cd874dc95",
   "lastOpenFiles": [
-    "to be continued.md",
+    "You Belong to Me.md",
+    "十三不亲.md",
     "英雄.md",
+    "to be continued.md",
     "秋天不回来.md",
     "crazy.md",
     "勇敢的心.md",
@@ -200,8 +228,6 @@
     "Heal the World.md",
     "碎铃.md",
     "夜的第七章.md",
-    "心里有个谜.md",
-    "致爱丽丝.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
