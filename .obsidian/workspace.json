@@ -138,7 +138,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open All Night.md",
+                "file": "Melody.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "462bd79b30b47c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "做你的男人.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -146,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,10 +239,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "668c19ac5beed4fa",
+  "active": "462bd79b30b47c39",
   "lastOpenFiles": [
-    "狱中十二月.md",
+    "Melody.md",
+    "做你的男人.md",
     "Open All Night.md",
+    "狱中十二月.md",
     "十三不亲.md",
     "秋天不回来.md",
     "英雄.md",
@@ -252,8 +267,6 @@
     "听.md",
     "只要平凡.md",
     "阿廖莎.md",
-    "一首简单的哥.md",
-    "Heal the World.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
