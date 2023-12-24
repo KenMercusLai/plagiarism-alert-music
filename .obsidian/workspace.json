@@ -170,9 +170,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c142d042ac056db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "缘分一道桥.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -253,10 +266,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5c02e07d3d6ba0a",
+  "active": "c142d042ac056db5",
   "lastOpenFiles": [
-    "亲爱的小孩.md",
     "骁.md",
+    "缘分一道桥.md",
+    "亲爱的小孩.md",
     "你怎么舍得我难过.md",
     "机车女孩.md",
     "邻家美眉.md",
@@ -280,7 +294,6 @@
     "致命的甜蜜.md",
     "愿山海皆平.md",
     "你是人间四月天.md",
-    "相信自己.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
