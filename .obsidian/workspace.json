@@ -66,9 +66,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b923cbacd7b19315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sexy Music.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b2006b988f460d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "醒来折花.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,10 +175,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52e71c7ec20253d7",
+  "active": "1b2006b988f460d1",
   "lastOpenFiles": [
-    "加入我变成空气.md",
+    "Sexy Music.md",
+    "醒来折花.md",
     "独自去偷欢.md",
+    "加入我变成空气.md",
     "When You're Gone.md",
     "堂吉诃德.md",
     "清明雨上.md",
@@ -175,8 +203,6 @@
     "一首简单的哥.md",
     "Heal the World.md",
     "心中的恋人.md",
-    "Mojito.md",
-    "美少女战士.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
