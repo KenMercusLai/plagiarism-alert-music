@@ -27,9 +27,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7da82bf9f8a427ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "美少女战士.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a80449b03e56aad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "加入我变成空气.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,8 +135,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3deea3930486d396",
+  "active": "a80449b03e56aad2",
   "lastOpenFiles": [
+    "美少女战士.md",
+    "加入我变成空气.md",
     "Mojito.md",
     "你好吗天气好吗.md",
     "500 Miles.md",
@@ -135,8 +163,6 @@
     "热血.md",
     "但愿花常在.md",
     "爱如潮水.md",
-    "ウエディング・ベル.md",
-    "冷风吹.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
