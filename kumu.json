@@ -125,6 +125,16 @@
     "description": ""
   },
   {
+    "label": "Firefly",
+    "type": "Song",
+    "description": "Published: 2001-02-26"
+  },
+  {
+    "label": "A Teens",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "Heal the World",
     "type": "Song",
     "description": "Published: 1995-06-20"
@@ -251,6 +261,16 @@
   },
   {
     "label": "4D",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "Sexy Music",
+    "type": "Song",
+    "description": "Published: 1981-01-01"
+  },
+  {
+    "label": "The Nolans",
     "type": "Person",
     "description": ""
   },
@@ -1575,6 +1595,21 @@
     "description": ""
   },
   {
+    "label": "如果是你",
+    "type": "Song",
+    "description": "Published: 2019-03-19"
+  },
+  {
+    "label": "黄子健",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "布朗尼乐队",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "如果爱请深爱",
     "type": "Song",
     "description": "Published: 2012-07-09"
@@ -2570,6 +2605,16 @@
     "description": ""
   },
   {
+    "label": "爱在西元前",
+    "type": "Song",
+    "description": "Published: 2001-09-14"
+  },
+  {
+    "label": "周杰伦",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "爱如潮水",
     "type": "Song",
     "description": "Published: 1993-01-01"
@@ -2717,7 +2762,12 @@
   {
     "label": "独自去偷欢",
     "type": "Song",
-    "description": "Published: 1992-12-01"
+    "description": "Published: 1992-09-24"
+  },
+  {
+    "label": "杨振龙",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "刘德华",
@@ -2891,6 +2941,21 @@
   },
   {
     "label": "MAD",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "祖国的花朵",
+    "type": "Song",
+    "description": "Published: 2019-06-01"
+  },
+  {
+    "label": "张志远",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "优秀少年团",
     "type": "Person",
     "description": ""
   },
@@ -3395,6 +3460,16 @@
     "description": ""
   },
   {
+    "label": "走天涯",
+    "type": "Song",
+    "description": "Published: 2009-09-24"
+  },
+  {
+    "label": "降央卓玛",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "超级喜欢你",
     "type": "Song",
     "description": "Published: 2018-01-01"
@@ -3510,6 +3585,21 @@
     "description": ""
   },
   {
+    "label": "那盏茶",
+    "type": "Song",
+    "description": "Published: 2013-01-01"
+  },
+  {
+    "label": "小曾",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "金志文",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "邻家美眉",
     "type": "Song",
     "description": "Published: 2010-01-01"
@@ -3526,6 +3616,16 @@
   },
   {
     "label": "王绎龙",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "醒来折花",
+    "type": "Song",
+    "description": "Published: 2020-07-10"
+  },
+  {
+    "label": "子尧",
     "type": "Person",
     "description": ""
   },
@@ -3791,6 +3891,12 @@
     "type": "抄袭"
   },
   {
+    "from": "A Teens",
+    "to": "Firefly",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "Michael Jackson",
     "to": "Heal the World",
     "label": "演唱",
@@ -3885,6 +3991,12 @@
     "to": "处处吻",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "The Nolans",
+    "to": "Sexy Music",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "南條愛乃",
@@ -4680,7 +4792,7 @@
   },
   {
     "from": "加入我变成空气",
-    "to": "独自去偷换",
+    "to": "独自去偷欢",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -5127,6 +5239,24 @@
     "to": "如果当时",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "黄子健",
+    "to": "如果是你",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "布朗尼乐队",
+    "to": "如果是你",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "如果是你",
+    "to": "我",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "晨熙",
@@ -6083,6 +6213,12 @@
     "type": "抄袭"
   },
   {
+    "from": "周杰伦",
+    "to": "爱在西元前",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "黎沸挥",
     "to": "爱如潮水",
     "label": "作曲",
@@ -6233,10 +6369,22 @@
     "type": "抄袭"
   },
   {
+    "from": "杨振龙",
+    "to": "独自去偷欢",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
     "from": "刘德华",
     "to": "独自去偷欢",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "独自去偷欢",
+    "to": "Sexy Music",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "独角戏",
@@ -6397,6 +6545,24 @@
   {
     "from": "碎铃",
     "to": "夜的第七章",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "张志远",
+    "to": "祖国的花朵",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "优秀少年团",
+    "to": "祖国的花朵",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "祖国的花朵",
+    "to": "Firefly",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -6875,6 +7041,12 @@
     "type": "抄袭"
   },
   {
+    "from": "降央卓玛",
+    "to": "走天涯",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "超级喜欢你",
     "to": "有点甜",
     "label": "抄袭",
@@ -6995,6 +7167,24 @@
     "type": "抄袭"
   },
   {
+    "from": "小曾",
+    "to": "那盏茶",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "金志文",
+    "to": "那盏茶",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "那盏茶",
+    "to": "爱在西元前",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "王绎龙",
     "to": "邻家美眉",
     "label": "作词",
@@ -7015,6 +7205,18 @@
   {
     "from": "邻家美眉",
     "to": "机车女孩",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "子尧",
+    "to": "醒来折花",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "醒来折花",
+    "to": "走天涯",
     "label": "抄袭",
     "type": "抄袭"
   },
