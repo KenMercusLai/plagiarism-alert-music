@@ -53,9 +53,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e7353ff5df3bb77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "独自去偷欢.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,10 +148,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a80449b03e56aad2",
+  "active": "7e7353ff5df3bb77",
   "lastOpenFiles": [
-    "美少女战士.md",
     "加入我变成空气.md",
+    "独自去偷欢.md",
+    "美少女战士.md",
     "Mojito.md",
     "你好吗天气好吗.md",
     "500 Miles.md",
@@ -162,7 +176,6 @@
     "印第安老斑鸠.md",
     "热血.md",
     "但愿花常在.md",
-    "爱如潮水.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
