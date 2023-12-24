@@ -495,6 +495,16 @@
     "description": ""
   },
   {
+    "label": "一路生花",
+    "type": "Song",
+    "description": "Published: 2021-01-19"
+  },
+  {
+    "label": "温奕心",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "一首简单的歌",
     "type": "Song",
     "description": "Published: 2004-12-31"
@@ -915,6 +925,21 @@
     "description": ""
   },
   {
+    "label": "修今生",
+    "type": "Song",
+    "description": "Published: 2016-01-01"
+  },
+  {
+    "label": "梁佳玉",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "梁佳玉",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "修炼爱情",
     "type": "Song",
     "description": "Published: 2013-03-13"
@@ -1036,6 +1061,21 @@
   },
   {
     "label": "李哈哈",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "再回首",
+    "type": "Song",
+    "description": "Published: 1989-06-01"
+  },
+  {
+    "label": "卢冠廷",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "姜育恒",
     "type": "Person",
     "description": ""
   },
@@ -2035,6 +2075,16 @@
     "description": ""
   },
   {
+    "label": "我",
+    "type": "Song",
+    "description": "Published: 2000-07-01"
+  },
+  {
+    "label": "张国荣",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "我也不知道",
     "type": "Song",
     "description": "Published: 2011-01-01"
@@ -2506,6 +2556,21 @@
   },
   {
     "label": "张星特",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "海底",
+    "type": "Song",
+    "description": "Published: 2020-03-14"
+  },
+  {
+    "label": "一只榴莲",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "凤凰传奇",
     "type": "Person",
     "description": ""
   },
@@ -3765,6 +3830,21 @@
     "description": ""
   },
   {
+    "label": "魂",
+    "type": "Song",
+    "description": "Published: 2008-10-17"
+  },
+  {
+    "label": "李荣浩",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "苏见信",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "麦芽糖",
     "type": "Song",
     "description": "Published: 2005-11-01"
@@ -4165,6 +4245,18 @@
     "to": "一起走过的日子",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "温奕心",
+    "to": "一路生花",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "一路生花",
+    "to": "ヤキモチ",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "王力宏",
@@ -4605,6 +4697,24 @@
     "type": "抄袭"
   },
   {
+    "from": "梁佳玉",
+    "to": "修今生",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "梁佳玉",
+    "to": "修今生",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "修今生",
+    "to": "再回首",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "林俊杰",
     "to": "修炼爱情",
     "label": "演唱",
@@ -4717,6 +4827,18 @@
     "to": "全球变冷",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "卢冠廷",
+    "to": "再回首",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "姜育恒",
+    "to": "再回首",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "伍佰",
@@ -5679,6 +5801,12 @@
     "type": "抄袭"
   },
   {
+    "from": "张国荣",
+    "to": "我",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "黄大炜",
     "to": "我们这里还有鱼",
     "label": "演唱",
@@ -6119,6 +6247,24 @@
   {
     "from": "波罗的海",
     "to": "Melody",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "一只榴莲",
+    "to": "海底",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "凤凰传奇",
+    "to": "海底",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "海底",
+    "to": "魂",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -7343,6 +7489,18 @@
   {
     "from": "容中尔甲",
     "to": "高原红",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "李荣浩",
+    "to": "魂",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "苏见信",
+    "to": "魂",
     "label": "演唱",
     "type": "演唱"
   },
