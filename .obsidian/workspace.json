@@ -144,9 +144,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90a3897bd1385b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "爱在西元前.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -227,10 +240,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f81672250d081208",
+  "active": "90a3897bd1385b24",
   "lastOpenFiles": [
-    "Firefly.md",
     "那盏茶.md",
+    "爱在西元前.md",
+    "Firefly.md",
     "祖国的花朵.md",
     "走天涯.md",
     "醒来折花.md",
@@ -254,7 +268,6 @@
     "真英雄.md",
     "好大一棵树.md",
     "大空と大地の中で.md",
-    "诛神诀.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
