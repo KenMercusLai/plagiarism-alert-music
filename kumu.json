@@ -720,6 +720,16 @@
     "description": ""
   },
   {
+    "label": "何も言えなくて...夏",
+    "type": "Song",
+    "description": "Published: 1991-07-21"
+  },
+  {
+    "label": "Jaywalk",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "你好吗天气好吗",
     "type": "Song",
     "description": "Published: 2011-05-27"
@@ -1140,7 +1150,7 @@
     "description": "Published: 2021-01-01"
   },
   {
-    "label": "威仔】】",
+    "label": "威仔",
     "type": "Person",
     "description": ""
   },
@@ -1376,6 +1386,16 @@
   },
   {
     "label": "王赫野",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "天空之城",
+    "type": "Song",
+    "description": "Published: "
+  },
+  {
+    "label": "久石让",
     "type": "Person",
     "description": ""
   },
@@ -1866,6 +1886,21 @@
   },
   {
     "label": "程jiajia",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "我相信",
+    "type": "Song",
+    "description": "Published: 2006-05-26"
+  },
+  {
+    "label": "陈国华",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "杨培安",
     "type": "Person",
     "description": ""
   },
@@ -2380,6 +2415,21 @@
     "description": ""
   },
   {
+    "label": "爱的供养",
+    "type": "Song",
+    "description": "Published: 2012-01-04"
+  },
+  {
+    "label": "谭璇",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "杨幂",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "爱过的故事",
     "type": "Song",
     "description": "Published: 2018-11-28"
@@ -2885,6 +2935,16 @@
     "description": ""
   },
   {
+    "label": "舞翼烟飞",
+    "type": "Song",
+    "description": "Published: 2002-06-10"
+  },
+  {
+    "label": "萧十一郎",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "英雄",
     "type": "Song",
     "description": "Published: 2001-01-01"
@@ -3061,6 +3121,21 @@
   },
   {
     "label": "王杰",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "说谎",
+    "type": "Song",
+    "description": "Published: 2006-01-01"
+  },
+  {
+    "label": "徐伟铭",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "张信哲",
     "type": "Person",
     "description": ""
   },
@@ -3969,6 +4044,12 @@
     "type": "演唱"
   },
   {
+    "from": "Jaywalk",
+    "to": "何も言えなくて...夏",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "杨子檏",
     "to": "你好吗天气好吗",
     "label": "作曲",
@@ -4401,7 +4482,7 @@
     "type": "演唱"
   },
   {
-    "from": "威仔】】",
+    "from": "威仔",
     "to": "原来我是第三者",
     "label": "演唱",
     "type": "演唱"
@@ -4411,6 +4492,12 @@
     "to": "原来我是第三者",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "原来我是第三者",
+    "to": "秋天不回来",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "纪家盈",
@@ -4601,6 +4688,12 @@
   {
     "from": "王赫野",
     "to": "大风吹",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "久石让",
+    "to": "天空之城",
     "label": "演唱",
     "type": "演唱"
   },
@@ -5069,6 +5162,24 @@
   {
     "from": "我爱你",
     "to": "梁山伯和茱丽叶",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "陈国华",
+    "to": "我相信",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "杨培安",
+    "to": "我相信",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "我相信",
+    "to": "何も言えなくて...夏",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -5545,6 +5656,24 @@
     "to": "爱江山更爱美人",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "谭璇",
+    "to": "爱的供养",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "杨幂",
+    "to": "爱的供养",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "爱的供养",
+    "to": "舞翼烟飞",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "黑雄",
@@ -6039,6 +6168,12 @@
     "type": "作曲"
   },
   {
+    "from": "萧十一郎",
+    "to": "舞翼烟飞",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "汪峰",
     "to": "英雄",
     "label": "作词",
@@ -6205,6 +6340,24 @@
     "to": "说声珍重",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "徐伟铭",
+    "to": "说谎",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "张信哲",
+    "to": "说谎",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "说谎",
+    "to": "天空之城",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "超级喜欢你",
