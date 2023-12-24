@@ -14,217 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0c49bfb8e842d45e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "红烧狮子头.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94665bd940a9ca87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "印第安老斑鸠.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6926bb32cba4b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "热血.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6a603ec6dd189bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "但愿花常在.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39146c1c635a0b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "爱如潮水.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44dac1f875abe847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ウエディング・ベル.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dcf358c5aebdce7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "冷风吹.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c8f6aa9ee7cbab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "蝴蝶泉边.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08a818367d6099ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "春风里.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7e7366a4e34b23b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sweet Memories.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24ac9b55ca0a8375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "秋天不回来.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cde0a251856e025d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "听.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a77ededfe3a39956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "只要平凡.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "822d752c567d4af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阿廖莎.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fe2408ff1511975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一首简单的哥.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bafd00f721fa95b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heal the World.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -304,24 +95,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bafd00f721fa95b",
+  "active": "69216aee26da5807",
   "lastOpenFiles": [
+    "红烧狮子头.md",
+    "印第安老斑鸠.md",
+    "热血.md",
+    "但愿花常在.md",
+    "爱如潮水.md",
+    "ウエディング・ベル.md",
+    "冷风吹.md",
+    "蝴蝶泉边.md",
+    "春风里.md",
+    "Sweet Memories.md",
+    "秋天不回来.md",
+    "听.md",
+    "只要平凡.md",
+    "阿廖莎.md",
     "一首简单的哥.md",
     "Heal the World.md",
-    "阿廖莎.md",
-    "只要平凡.md",
-    "听.md",
-    "秋天不回来.md",
-    "Sweet Memories.md",
-    "春风里.md",
-    "蝴蝶泉边.md",
-    "冷风吹.md",
-    "ウエディング・ベル.md",
-    "爱如潮水.md",
-    "但愿花常在.md",
-    "热血.md",
-    "印第安老斑鸠.md",
-    "红烧狮子头.md",
     "碎铃.md",
     "夜的第七章.md",
     "心里有个谜.md",
