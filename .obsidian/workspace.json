@@ -157,9 +157,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3067407158b7fc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K歌之王.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -239,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "462bd79b30b47c39",
+  "active": "3067407158b7fc7b",
   "lastOpenFiles": [
-    "Melody.md",
     "做你的男人.md",
+    "K歌之王.md",
+    "Melody.md",
     "Open All Night.md",
     "狱中十二月.md",
     "十三不亲.md",
@@ -266,7 +280,6 @@
     "Sweet Memories.md",
     "听.md",
     "只要平凡.md",
-    "阿廖莎.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
