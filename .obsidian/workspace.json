@@ -40,9 +40,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7bce8c5882ee0761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "勇敢的心.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,10 +135,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e8dd85d2529fe9c",
+  "active": "c40870ba2a33b81b",
   "lastOpenFiles": [
-    "你好吗天气好吗.md",
+    "勇敢的心.md",
     "500 Miles.md",
+    "你好吗天气好吗.md",
     "红烧狮子头.md",
     "印第安老斑鸠.md",
     "热血.md",
@@ -149,7 +163,6 @@
     "Dancing lalala.md",
     "Bar Bar Bar.md",
     "风见鸡.md",
-    "心中的太阳.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
