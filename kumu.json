@@ -175,6 +175,16 @@
     "description": ""
   },
   {
+    "label": "K歌之王",
+    "type": "Song",
+    "description": "Published: 2000-09-29"
+  },
+  {
+    "label": "陈奕迅",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "Lollipop",
     "type": "Song",
     "description": "Published: 2006-01-01"
@@ -191,6 +201,16 @@
   },
   {
     "label": "陶喆",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "Mojito",
+    "type": "Song",
+    "description": "Published: 2020-06-12"
+  },
+  {
+    "label": "周杰伦",
     "type": "Person",
     "description": ""
   },
@@ -985,6 +1005,16 @@
     "description": ""
   },
   {
+    "label": "加入我变成空气",
+    "type": "Song",
+    "description": "Published: 2021-09-26"
+  },
+  {
+    "label": "马健涛",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "勇敢的心",
     "type": "Song",
     "description": "Published: 2007-01-01"
@@ -1105,6 +1135,21 @@
     "description": ""
   },
   {
+    "label": "原来我是第三者",
+    "type": "Song",
+    "description": "Published: 2021-01-01"
+  },
+  {
+    "label": "威仔】】",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "格子兮",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "去年夏天",
     "type": "Song",
     "description": "Published: 2018-05-10"
@@ -1186,6 +1231,21 @@
   },
   {
     "label": "刘大壮",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "名侦探戈",
+    "type": "Song",
+    "description": "Published: 2013-11-29"
+  },
+  {
+    "label": "曾祥程",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "黄建帆",
     "type": "Person",
     "description": ""
   },
@@ -1723,6 +1783,11 @@
     "label": "情难断",
     "type": "Song",
     "description": "Published: 2020-01-01"
+  },
+  {
+    "label": "意大利儿歌黑猫",
+    "type": "Song",
+    "description": "Published: 1960-01-01"
   },
   {
     "label": "愿山海皆平",
@@ -2285,6 +2350,16 @@
     "description": ""
   },
   {
+    "label": "爱情酿的酒",
+    "type": "Song",
+    "description": "Published: 1985-02-01"
+  },
+  {
+    "label": "红蚂蚁",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "爱死了昨天",
     "type": "Song",
     "description": "Published: 2007-09-14"
@@ -2371,6 +2446,16 @@
   },
   {
     "label": "宋孟君",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "独自去偷欢",
+    "type": "Song",
+    "description": "Published: 1992-12-01"
+  },
+  {
+    "label": "刘德华",
     "type": "Person",
     "description": ""
   },
@@ -2560,6 +2645,16 @@
     "description": ""
   },
   {
+    "label": "稻香",
+    "type": "Song",
+    "description": "Published: 2008-10-15"
+  },
+  {
+    "label": "周杰伦",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "突然的自我",
     "type": "Song",
     "description": "Published: 2004-02-12"
@@ -2743,6 +2838,11 @@
     "label": "吉田有希",
     "type": "Person",
     "description": ""
+  },
+  {
+    "label": "美少女战士",
+    "type": "Song",
+    "description": "Published: 1992-03-07"
   },
   {
     "label": "羞答答的玫瑰静悄悄的开",
@@ -3371,6 +3471,12 @@
     "type": "演唱"
   },
   {
+    "from": "陈奕迅",
+    "to": "K歌之王",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "mika",
     "to": "Lollipop",
     "label": "演唱",
@@ -3381,6 +3487,18 @@
     "to": "Melody",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "周杰伦",
+    "to": "Mojito",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "Mojito",
+    "to": "美少女战士",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "滨崎步",
@@ -4145,6 +4263,18 @@
     "type": "抄袭"
   },
   {
+    "from": "马健涛",
+    "to": "加入我变成空气",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "加入我变成空气",
+    "to": "独自去偷换",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "汪峰",
     "to": "勇敢的心",
     "label": "演唱",
@@ -4271,6 +4401,18 @@
     "type": "演唱"
   },
   {
+    "from": "威仔】】",
+    "to": "原来我是第三者",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "格子兮",
+    "to": "原来我是第三者",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "纪家盈",
     "to": "去年夏天",
     "label": "作词",
@@ -4345,6 +4487,24 @@
   {
     "from": "吉他初恋",
     "to": "大风吹",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "曾祥程",
+    "to": "名侦探戈",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "黄建帆",
+    "to": "名侦探戈",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "名侦探戈",
+    "to": "意大利儿歌黑猫",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -5369,6 +5529,12 @@
     "type": "抄袭"
   },
   {
+    "from": "红蚂蚁",
+    "to": "爱情酿的酒",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "李慧珍",
     "to": "爱死了昨天",
     "label": "演唱",
@@ -5457,6 +5623,12 @@
     "to": "多余的解释",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "刘德华",
+    "to": "独自去偷欢",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "独角戏",
@@ -5635,6 +5807,18 @@
   {
     "from": "秋天不回来",
     "to": "to be continued",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "周杰伦",
+    "to": "稻香",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "稻香",
+    "to": "爱情酿的酒",
     "label": "抄袭",
     "type": "抄袭"
   },
