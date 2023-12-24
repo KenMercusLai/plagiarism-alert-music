@@ -105,9 +105,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b620df25eb368d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "寓言.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -188,10 +201,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2879d6920f6b5cbf",
+  "active": "1b620df25eb368d1",
   "lastOpenFiles": [
-    "灰色头像.md",
     "みんなひとり.md",
+    "寓言.md",
+    "灰色头像.md",
     "滴答.md",
     "灰色头像1.md",
     "然我们做个了断吧.md",
@@ -215,7 +229,6 @@
     "海底.md",
     "魂.md",
     "一路生花.md",
-    "ヤキモチ.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
