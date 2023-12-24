@@ -164,7 +164,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我.md",
+                "file": "修今生.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -172,11 +172,16 @@
             }
           },
           {
-            "id": "9ac10ed11091f7fb",
+            "id": "d8260c4697880c3e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "再回首.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -261,9 +266,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ac10ed11091f7fb",
+  "active": "d8260c4697880c3e",
   "lastOpenFiles": [
     "修今生.md",
+    "再回首.md",
     "我.md",
     "如果是你.md",
     "爱在西元前.md",
@@ -288,7 +294,6 @@
     "古老的大钟.md",
     "动了情伤了心.md",
     "伤心太平洋.md",
-    "爱不留.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
