@@ -118,9 +118,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08a818367d6099ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "春风里.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -200,10 +213,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c8f6aa9ee7cbab4",
+  "active": "08a818367d6099ee",
   "lastOpenFiles": [
-    "冷风吹.md",
     "蝴蝶泉边.md",
+    "春风里.md",
+    "冷风吹.md",
     "ウエディング・ベル.md",
     "爱如潮水.md",
     "但愿花常在.md",
@@ -227,7 +241,6 @@
     "行かないで.md",
     "机车女孩.md",
     "思念的牢.md",
-    "小鸡小鸡.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
