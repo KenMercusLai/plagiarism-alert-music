@@ -105,9 +105,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ad4fab809a288c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我相信.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -187,10 +200,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e0cd4fd5296cb62",
+  "active": "3ad4fab809a288c3",
   "lastOpenFiles": [
-    "爱的供养.md",
     "舞翼烟飞.md",
+    "我相信.md",
+    "爱的供养.md",
     "原来我是第三者.md",
     "秋天不回来.md",
     "独自去偷欢.md",
@@ -214,7 +228,6 @@
     "爱情酿的酒.md",
     "Open All Night.md",
     "crazy.md",
-    "红烧狮子头.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
