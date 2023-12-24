@@ -66,9 +66,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b0f58c7632954f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原来我是第三者.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,10 +161,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e7353ff5df3bb77",
+  "active": "6b0f58c7632954f5",
   "lastOpenFiles": [
-    "加入我变成空气.md",
     "独自去偷欢.md",
+    "原来我是第三者.md",
+    "加入我变成空气.md",
     "美少女战士.md",
     "Mojito.md",
     "你好吗天气好吗.md",
@@ -175,7 +189,6 @@
     "红烧狮子头.md",
     "印第安老斑鸠.md",
     "热血.md",
-    "但愿花常在.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
