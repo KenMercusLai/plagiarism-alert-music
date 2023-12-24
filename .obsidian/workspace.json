@@ -183,9 +183,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "822d752c567d4af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阿廖莎.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -265,10 +278,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a77ededfe3a39956",
+  "active": "822d752c567d4af4",
   "lastOpenFiles": [
-    "听.md",
     "只要平凡.md",
+    "阿廖莎.md",
+    "听.md",
     "秋天不回来.md",
     "Sweet Memories.md",
     "春风里.md",
@@ -292,7 +306,6 @@
     "你怎么舍得我难过.md",
     "亲爱的小孩.md",
     "骁.md",
-    "缘分一道桥.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
