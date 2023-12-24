@@ -79,9 +79,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb94ceb0f9f7a040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英雄.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -161,10 +174,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64d244b84e8ead32",
+  "active": "eb94ceb0f9f7a040",
   "lastOpenFiles": [
-    "秋天不回来.md",
     "to be continued.md",
+    "英雄.md",
+    "秋天不回来.md",
     "crazy.md",
     "勇敢的心.md",
     "你好吗天气好吗.md",
@@ -188,7 +202,6 @@
     "夜的第七章.md",
     "心里有个谜.md",
     "致爱丽丝.md",
-    "Dancing lalala.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
