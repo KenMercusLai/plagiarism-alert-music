@@ -235,9 +235,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd5f027e18fea543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "再见.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -318,10 +331,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fcbac1ac82ef3c32",
+  "active": "fd5f027e18fea543",
   "lastOpenFiles": [
-    "一路生花.md",
     "ヤキモチ.md",
+    "再见.md",
+    "一路生花.md",
     "魂.md",
     "海底.md",
     "再回首.md",
@@ -345,7 +359,6 @@
     "竹苑情歌.md",
     "两个人的回忆一个人过.md",
     "你到底爱谁.md",
-    "家乡.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
