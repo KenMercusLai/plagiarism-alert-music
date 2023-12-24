@@ -66,9 +66,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39146c1c635a0b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "爱如潮水.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,8 +119,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,9 +161,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d6926bb32cba4b39",
+  "active": "39146c1c635a0b4c",
   "lastOpenFiles": [
     "但愿花常在.md",
+    "爱如潮水.md",
     "热血.md",
     "印第安老斑鸠.md",
     "红烧狮子头.md",
@@ -176,7 +189,6 @@
     "药神之歌.md",
     "讲真的.md",
     "心痛2009.md",
-    "虎虎虎.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
