@@ -280,6 +280,16 @@
     "description": ""
   },
   {
+    "label": "When You're Gone",
+    "type": "Song",
+    "description": "Published: 2007-04-17"
+  },
+  {
+    "label": "艾薇儿",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "Why Me",
     "type": "Song",
     "description": "Published: 2009-02-26"
@@ -1405,6 +1415,21 @@
     "description": ""
   },
   {
+    "label": "堂吉诃德",
+    "type": "Song",
+    "description": "Published: 2011-04-15"
+  },
+  {
+    "label": "阿沁",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "飞儿乐队",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "处处吻",
     "type": "Song",
     "description": "Published: 0200-04-25"
@@ -1446,6 +1471,16 @@
   },
   {
     "label": "张雨生",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "大空と大地の中で",
+    "type": "Song",
+    "description": "Published: 1977-01-01"
+  },
+  {
+    "label": "石川さゆり",
     "type": "Person",
     "description": ""
   },
@@ -1871,6 +1906,16 @@
   },
   {
     "label": "罗文",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "忆少年",
+    "type": "Song",
+    "description": "Published: 2018-08-18"
+  },
+  {
+    "label": "王大毛",
     "type": "Person",
     "description": ""
   },
@@ -2426,6 +2471,16 @@
   },
   {
     "label": "张星特",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "清明雨上",
+    "type": "Song",
+    "description": "Published: 2009-01-10"
+  },
+  {
+    "label": "许嵩",
     "type": "Person",
     "description": ""
   },
@@ -3850,6 +3905,12 @@
     "type": "演唱"
   },
   {
+    "from": "艾薇儿",
+    "to": "When You're Gone",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "李宇春",
     "to": "Why Me",
     "label": "演唱",
@@ -4948,6 +5009,24 @@
     "type": "演唱"
   },
   {
+    "from": "阿沁",
+    "to": "堂吉诃德",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "飞儿乐队",
+    "to": "堂吉诃德",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "堂吉诃德",
+    "to": "When You're Gone",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "杨千嬅",
     "to": "处处吻",
     "label": "演唱",
@@ -4968,6 +5047,12 @@
   {
     "from": "张雨生",
     "to": "大海",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "石川さゆり",
+    "to": "大空と大地の中で",
     "label": "演唱",
     "type": "演唱"
   },
@@ -5024,6 +5109,12 @@
     "to": "好大一棵树",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "好大一棵树",
+    "to": "大空と大地の中で",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "吴青峰",
@@ -5370,6 +5461,18 @@
   {
     "from": "心里有个谜",
     "to": "致爱丽丝",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "王大毛",
+    "to": "忆少年",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "忆少年",
+    "to": "清明雨上",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -5888,6 +5991,12 @@
     "to": "Melody",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "许嵩",
+    "to": "清明雨上",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "李宣美",
