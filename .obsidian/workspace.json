@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7125af4614b95551",
+        "id": "a966cae32cbdf198",
         "type": "tabs",
         "children": [
           {
-            "id": "69216aee26da5807",
+            "id": "d378282513b9d989",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,181 +16,12 @@
             }
           },
           {
-            "id": "1da2a1590195614f",
+            "id": "1113f81d4a3745c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "痴情冢.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8b91564ffef1719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "竹苑情歌.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76d55d12890daa7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "两个人的回忆一个人过.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48a4938d8f916d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "你到底爱谁.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "506b59cbe27c7d9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "家乡.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "735b2d7e69c5a700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一首简单的歌.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7dfc9e84c0da7fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "古老的大钟.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea07ad709e3e6756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动了情伤了心.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bf003e15999f0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "伤心太平洋.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ef86e2308e258ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "爱不留.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aa30ce632ec3c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "真英雄.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "822251edfa700d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "好大一棵树.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24007834178a7a9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大空と大地の中で.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7238aa66cee4faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "心中的恋人.md",
+                "file": "忆少年.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -198,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,26 +110,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24007834178a7a9b",
+  "active": "1113f81d4a3745c1",
   "lastOpenFiles": [
+    "忆少年.md",
+    "痴情冢.md",
+    "竹苑情歌.md",
+    "两个人的回忆一个人过.md",
+    "你到底爱谁.md",
+    "家乡.md",
+    "一首简单的歌.md",
+    "古老的大钟.md",
+    "动了情伤了心.md",
+    "伤心太平洋.md",
+    "爱不留.md",
+    "真英雄.md",
     "好大一棵树.md",
     "大空と大地の中で.md",
-    "真英雄.md",
     "诛神诀.md",
-    "爱不留.md",
     "有一种爱叫做放手.md",
-    "伤心太平洋.md",
-    "动了情伤了心.md",
-    "古老的大钟.md",
-    "一首简单的歌.md",
     "一首简单的哥.md",
     "Heal the World.md",
-    "家乡.md",
     "心中的恋人.md",
-    "你到底爱谁.md",
-    "两个人的回忆一个人过.md",
-    "竹苑情歌.md",
-    "痴情冢.md",
     "Mojito.md",
     "美少女战士.md",
     "加入我变成空气.md",
@@ -306,7 +138,6 @@
     "原来我是第三者.md",
     "爱的供养.md",
     "舞翼烟飞.md",
-    "我相信.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
