@@ -345,6 +345,11 @@
     "description": ""
   },
   {
+    "label": "only my railgun",
+    "type": "Song",
+    "description": "Published: "
+  },
+  {
     "label": "signal",
     "type": "Song",
     "description": "Published: 2011-11-10"
@@ -940,6 +945,16 @@
     "description": ""
   },
   {
+    "label": "内秘心书",
+    "type": "Song",
+    "description": "Published: 2007-04-25"
+  },
+  {
+    "label": "One Ok Rock",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "再也不会遇见第二个她",
     "type": "Song",
     "description": "Published: 2018-07-03"
@@ -1392,7 +1407,7 @@
   {
     "label": "天空之城",
     "type": "Song",
-    "description": "Published: "
+    "description": "Published: 1986-08-02"
   },
   {
     "label": "久石让",
@@ -2430,6 +2445,21 @@
     "description": ""
   },
   {
+    "label": "爱的大未来",
+    "type": "Song",
+    "description": "Published: 2017-10-12"
+  },
+  {
+    "label": "邹强",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "萧敬腾",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "爱过的故事",
     "type": "Song",
     "description": "Published: 2018-11-28"
@@ -3280,6 +3310,16 @@
     "description": "Published: "
   },
   {
+    "label": "雪の村レーヌ",
+    "type": "Song",
+    "description": "Published: 1997-01-01"
+  },
+  {
+    "label": "格兰蒂亚OST",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "霍元甲",
     "type": "Song",
     "description": "Published: 2006-01-20"
@@ -3396,6 +3436,16 @@
   },
   {
     "label": "容中尔甲",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "麦芽糖",
+    "type": "Song",
+    "description": "Published: 2005-11-01"
+  },
+  {
+    "label": "周杰伦",
     "type": "Person",
     "description": ""
   }
@@ -4256,6 +4306,12 @@
   {
     "from": "许嵩",
     "to": "全球变冷",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "One Ok Rock",
+    "to": "内秘心书",
     "label": "演唱",
     "type": "演唱"
   },
@@ -5676,6 +5732,24 @@
     "type": "抄袭"
   },
   {
+    "from": "邹强",
+    "to": "爱的大未来",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "萧敬腾",
+    "to": "爱的大未来",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "爱的大未来",
+    "to": "内秘心书",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "黑雄",
     "to": "爱过的故事",
     "label": "作词",
@@ -6504,6 +6578,12 @@
     "type": "抄袭"
   },
   {
+    "from": "格兰蒂亚OST",
+    "to": "雪の村レーヌ",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "周杰伦",
     "to": "霍元甲",
     "label": "演唱",
@@ -6622,6 +6702,18 @@
     "to": "高原红",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "周杰伦",
+    "to": "麦芽糖",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "麦芽糖",
+    "to": "雪の村レーヌ",
+    "label": "抄袭",
+    "type": "抄袭"
   }
 ]
 }
