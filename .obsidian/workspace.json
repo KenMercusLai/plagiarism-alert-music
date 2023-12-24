@@ -120,6 +120,19 @@
             }
           },
           {
+            "id": "ac5d4c24c817c9ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "说谎.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4b52493e1cbfa628",
             "type": "leaf",
             "state": {
@@ -213,9 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b52493e1cbfa628",
+  "active": "ac5d4c24c817c9ce",
   "lastOpenFiles": [
     "我相信.md",
+    "说谎.md",
     "何も言えなくて...夏.md",
     "舞翼烟飞.md",
     "爱的供养.md",
@@ -240,7 +254,6 @@
     "意大利儿歌黑猫.md",
     "稻香.md",
     "爱情酿的酒.md",
-    "Open All Night.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
