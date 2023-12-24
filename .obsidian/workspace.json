@@ -79,9 +79,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad10ea164ddbd793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "滴答.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,10 +175,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ebb4b588c8220a63",
+  "active": "ad10ea164ddbd793",
   "lastOpenFiles": [
-    "Candy.md",
     "然我们做个了断吧.md",
+    "滴答.md",
+    "Candy.md",
     "芹菜.md",
     "因为是女子.md",
     "外滩18号.md",
@@ -189,7 +203,6 @@
     "再见.md",
     "追虹人.md",
     "我.md",
-    "如果是你.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
