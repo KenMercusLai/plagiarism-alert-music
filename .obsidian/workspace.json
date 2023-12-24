@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e6bc6820c81cdaa",
@@ -148,8 +149,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17051909f47caf3f",
+  "active": "52e71c7ec20253d7",
   "lastOpenFiles": [
+    "加入我变成空气.md",
+    "独自去偷欢.md",
     "When You're Gone.md",
     "堂吉诃德.md",
     "清明雨上.md",
@@ -174,8 +177,6 @@
     "心中的恋人.md",
     "Mojito.md",
     "美少女战士.md",
-    "加入我变成空气.md",
-    "独自去偷欢.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
