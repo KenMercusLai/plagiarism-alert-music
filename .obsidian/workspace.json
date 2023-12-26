@@ -27,9 +27,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d91e2ea65854205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "烟花易冷.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6a6770037c75a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小尖尖.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,8 +136,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a516c9bb9fd27b4a",
+  "active": "f6a6770037c75a60",
   "lastOpenFiles": [
+    "烟花易冷.md",
+    "小尖尖.md",
     "茧.md",
     "坐着火车去拉萨.md",
     "低空飞行.md",
@@ -136,8 +164,6 @@
     "滴答.md",
     "灰色头像1.md",
     "然我们做个了断吧.md",
-    "Candy.md",
-    "芹菜.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
