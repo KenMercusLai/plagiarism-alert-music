@@ -35,6 +35,31 @@
     "description": ""
   },
   {
+    "label": "2035去台湾",
+    "type": "Song",
+    "description": "Published: 2021-09-18"
+  },
+  {
+    "label": "孟熙东",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "孟熙东",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "孟熙东",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "庞惠晨",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "500 Miles",
     "type": "Song",
     "description": "Published: 1961-01-01"
@@ -115,6 +140,16 @@
     "description": ""
   },
   {
+    "label": "Chamdaa",
+    "type": "Song",
+    "description": "Published: 2006-01-01"
+  },
+  {
+    "label": "Digital",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "Champagne Ocean",
     "type": "Song",
     "description": "Published: 2016-10-15"
@@ -131,6 +166,16 @@
   },
   {
     "label": "舞法天女",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "Design in Malice",
+    "type": "Song",
+    "description": "Published: 2011-10-25"
+  },
+  {
+    "label": "Jedi Mind Tricks",
     "type": "Person",
     "description": ""
   },
@@ -206,6 +251,16 @@
   },
   {
     "label": "陈奕迅",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "Legends Never Die",
+    "type": "Song",
+    "description": "Published: 2017-09-15"
+  },
+  {
+    "label": "Against the Current",
     "type": "Person",
     "description": ""
   },
@@ -575,6 +630,16 @@
     "description": ""
   },
   {
+    "label": "下个路口见",
+    "type": "Song",
+    "description": "Published: 2009-08-18"
+  },
+  {
+    "label": "李宇春",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "下辈子不一定还能遇见你",
     "type": "Song",
     "description": "Published: 2020-01-14"
@@ -650,6 +715,21 @@
     "description": "Published: 2011-04-17"
   },
   {
+    "label": "世界第一等",
+    "type": "Song",
+    "description": "Published: 1997-12-24"
+  },
+  {
+    "label": "伍佰",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "刘德华",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "东京不太热",
     "type": "Song",
     "description": "Published: 2015-04-24"
@@ -666,6 +746,16 @@
   },
   {
     "label": "洛天依",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "东南西北风",
+    "type": "Song",
+    "description": "Published: 1994-01-01"
+  },
+  {
+    "label": "黄安",
     "type": "Person",
     "description": ""
   },
@@ -830,6 +920,21 @@
     "description": ""
   },
   {
+    "label": "低空飞行",
+    "type": "Song",
+    "description": "Published: 2019-01-01"
+  },
+  {
+    "label": "沈以诚",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "沈以诚",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "何も言えなくて...夏",
     "type": "Song",
     "description": "Published: 1991-07-21"
@@ -935,6 +1040,16 @@
     "description": ""
   },
   {
+    "label": "许嵩",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "许嵩",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "你还要我怎样",
     "type": "Song",
     "description": "Published: 2013-11-11"
@@ -956,6 +1071,16 @@
   },
   {
     "label": "tfboy",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "信条",
+    "type": "Song",
+    "description": "Published: 2011-04-19"
+  },
+  {
+    "label": "后弦",
     "type": "Person",
     "description": ""
   },
@@ -1065,12 +1190,42 @@
     "description": ""
   },
   {
+    "label": "入骨相思谁人懂",
+    "type": "Song",
+    "description": "Published: 2019-05-14"
+  },
+  {
+    "label": "凡间精灵",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "凡间精灵工作室",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "龙飞",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "全球变冷",
     "type": "Song",
     "description": "Published: 2012-07-11"
   },
   {
     "label": "许嵩",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "其实你不懂我的心",
+    "type": "Song",
+    "description": "Published: 1989-03-01"
+  },
+  {
+    "label": "童安格",
     "type": "Person",
     "description": ""
   },
@@ -1185,6 +1340,16 @@
     "description": ""
   },
   {
+    "label": "剑侠魂",
+    "type": "Song",
+    "description": "Published: 2015-07-17"
+  },
+  {
+    "label": "陆昱霖",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "加入我变成空气",
     "type": "Song",
     "description": "Published: 2021-09-26"
@@ -1241,6 +1406,16 @@
   },
   {
     "label": "深海鱼子酱",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "千本樱",
+    "type": "Song",
+    "description": "Published: 2011-09-17"
+  },
+  {
+    "label": "初音ミク",
     "type": "Person",
     "description": ""
   },
@@ -1530,6 +1705,21 @@
     "description": ""
   },
   {
+    "label": "坐着火车去拉萨",
+    "type": "Song",
+    "description": "Published: 2007-07-13"
+  },
+  {
+    "label": "何沐阳",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "徐千雅",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "堂吉诃德",
     "type": "Song",
     "description": "Published: 2011-04-15"
@@ -1590,12 +1780,52 @@
     "description": ""
   },
   {
+    "label": "夜三里",
+    "type": "Song",
+    "description": "Published: 2014-02-01"
+  },
+  {
+    "label": "龙井说唱",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "夜之光",
+    "type": "Song",
+    "description": "Published: 2018-10-27"
+  },
+  {
+    "label": "任帅兵",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "任帅兵",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "花姐",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "夜的第七章",
     "type": "Song",
     "description": "Published: 2006-09-05"
   },
   {
     "label": "周杰伦",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "大家一起喜羊羊",
+    "type": "Song",
+    "description": "Published: 2009-12-31"
+  },
+  {
+    "label": "周笔畅",
     "type": "Person",
     "description": ""
   },
@@ -1663,6 +1893,21 @@
     "label": "奉献",
     "type": "Song",
     "description": "Published: 1988-01-01"
+  },
+  {
+    "label": "她来听我的演唱会",
+    "type": "Song",
+    "description": "Published: 1999-01-01"
+  },
+  {
+    "label": "黄明洲",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "张学友",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "好几年",
@@ -1850,6 +2095,21 @@
     "description": ""
   },
   {
+    "label": "小尖尖",
+    "type": "Song",
+    "description": "Published: 2020-12-31"
+  },
+  {
+    "label": "韩红",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "薛之谦",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "小幸福",
     "type": "Song",
     "description": "Published: 2018-04-26"
@@ -1921,6 +2181,16 @@
   },
   {
     "label": "金玟岐",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "巡恋歌",
+    "type": "Song",
+    "description": "Published: 1983-05-27"
+  },
+  {
+    "label": "長渕剛",
     "type": "Person",
     "description": ""
   },
@@ -2005,6 +2275,21 @@
     "description": ""
   },
   {
+    "label": "很多的伤心",
+    "type": "Song",
+    "description": "Published: 2006-11-29"
+  },
+  {
+    "label": "殷谦",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "殷谦",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "微笑吧",
     "type": "Song",
     "description": "Published: 2020-04-08"
@@ -2036,6 +2321,16 @@
   },
   {
     "label": "容中尔甲",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "心中的遗憾",
+    "type": "Song",
+    "description": "Published: 2007-05-11"
+  },
+  {
+    "label": "徐怀钰",
     "type": "Person",
     "description": ""
   },
@@ -2111,6 +2406,26 @@
   },
   {
     "label": "海阔",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "恕难从命",
+    "type": "Song",
+    "description": "Published: 1986-01-05"
+  },
+  {
+    "label": "张学友",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "悲怆奏鸣曲第三乐章",
+    "type": "Song",
+    "description": "Published: 1978-01-01"
+  },
+  {
+    "label": "贝多芬",
     "type": "Person",
     "description": ""
   },
@@ -2235,6 +2550,26 @@
     "description": ""
   },
   {
+    "label": "我的孤独认出你的孤独",
+    "type": "Song",
+    "description": "Published: 2020-12-22"
+  },
+  {
+    "label": "陈婧霏",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "赵广为",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "陈婧霏",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "我相信",
     "type": "Song",
     "description": "Published: 2006-05-26"
@@ -2320,6 +2655,31 @@
     "description": ""
   },
   {
+    "label": "斯琴高丽的伤心",
+    "type": "Song",
+    "description": "Published: 2007-08-15"
+  },
+  {
+    "label": "秦天",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "秦天",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "秦天",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "斯琴高丽",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "方圆几里",
     "type": "Song",
     "description": "Published: 2012-12-27"
@@ -2356,6 +2716,21 @@
   },
   {
     "label": "杨博然",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "昙花一现",
+    "type": "Song",
+    "description": "Published: "
+  },
+  {
+    "label": "谭旋",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "何晟铭",
     "type": "Person",
     "description": ""
   },
@@ -2423,6 +2798,16 @@
     "label": "最后一次的温柔",
     "type": "Song",
     "description": "Published: 2008-01-01"
+  },
+  {
+    "label": "最美的期待",
+    "type": "Song",
+    "description": "Published: 2018-01-18"
+  },
+  {
+    "label": "周笔畅",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "最近比较烦",
@@ -2498,6 +2883,16 @@
     "label": "有点甜",
     "type": "Song",
     "description": "Published: 2012-01-01"
+  },
+  {
+    "label": "未填词",
+    "type": "Song",
+    "description": "Published: 2011-05-27"
+  },
+  {
+    "label": "邓福如",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "未来的进击",
@@ -2665,6 +3060,16 @@
     "description": ""
   },
   {
+    "label": "清心音.乱魄抄",
+    "type": "Song",
+    "description": "Published: 2019-06-27"
+  },
+  {
+    "label": "陈情令",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "清明雨上",
     "type": "Song",
     "description": "Published: 2009-01-10"
@@ -2716,6 +3121,16 @@
   },
   {
     "label": "Beyong",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "烟花易冷",
+    "type": "Song",
+    "description": "Published: 2010-05-18"
+  },
+  {
+    "label": "周杰伦",
     "type": "Person",
     "description": ""
   },
@@ -2818,6 +3233,11 @@
     "label": "爱死了昨天",
     "type": "Song",
     "description": "Published: 2007-09-14"
+  },
+  {
+    "label": "杨威",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "李慧珍",
@@ -2961,6 +3381,26 @@
   },
   {
     "label": "迟志强",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "珊瑚海",
+    "type": "Song",
+    "description": "Published: 2005-11-01"
+  },
+  {
+    "label": "周杰伦",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "琴箫合奏",
+    "type": "Song",
+    "description": "Published: 1996-01-01"
+  },
+  {
+    "label": "胡伟立",
     "type": "Person",
     "description": ""
   },
@@ -3120,6 +3560,21 @@
     "description": ""
   },
   {
+    "label": "祖国不会忘记",
+    "type": "Song",
+    "description": "Published: 1999-01-01"
+  },
+  {
+    "label": "曹进",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "黄鹭",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "祖国的花朵",
     "type": "Song",
     "description": "Published: 2019-06-01"
@@ -3131,6 +3586,16 @@
   },
   {
     "label": "优秀少年团",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "祝你顺风顺水顺财神",
+    "type": "Song",
+    "description": "Published: 2020-11-10"
+  },
+  {
+    "label": "晴诚",
     "type": "Person",
     "description": ""
   },
@@ -3176,6 +3641,16 @@
   },
   {
     "label": "周杰伦",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "突然想起你",
+    "type": "Song",
+    "description": "Published: 1999-11-17"
+  },
+  {
+    "label": "萧亚轩",
     "type": "Person",
     "description": ""
   },
@@ -3430,6 +3905,36 @@
     "description": ""
   },
   {
+    "label": "花木兰",
+    "type": "Song",
+    "description": "Published: 2018-12-30"
+  },
+  {
+    "label": "潘成",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "刘安琪",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "花谢惹离愁",
+    "type": "Song",
+    "description": "Published: 2021-12-23"
+  },
+  {
+    "label": "黄文文",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "花僮",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "芹菜",
     "type": "Song",
     "description": "Published: 1998-09-01"
@@ -3458,6 +3963,21 @@
     "label": "汪峰",
     "type": "Person",
     "description": ""
+  },
+  {
+    "label": "茧",
+    "type": "Song",
+    "description": "Published: 2018-03-17"
+  },
+  {
+    "label": "十指流玉",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "草原啊草原",
+    "type": "Song",
+    "description": "Published: 1934-01-01"
   },
   {
     "label": "荣耀之路",
@@ -3645,9 +4165,24 @@
     "description": ""
   },
   {
+    "label": "说谎的眼睛",
+    "type": "Song",
+    "description": "Published: 1975-01-01"
+  },
+  {
+    "label": "Eagles",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "走天涯",
     "type": "Song",
     "description": "Published: 2009-09-24"
+  },
+  {
+    "label": "老猫",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "降央卓玛",
@@ -3695,6 +4230,21 @@
     "description": ""
   },
   {
+    "label": "还是说出了再见",
+    "type": "Song",
+    "description": "Published: 2021-09-06"
+  },
+  {
+    "label": "孙毅然",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "孙茹雪",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "这条街最靓的仔",
     "type": "Song",
     "description": "Published: 2019-11-18"
@@ -3731,6 +4281,16 @@
   },
   {
     "label": "王雨桐",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "逃亡",
+    "type": "Song",
+    "description": "Published: 2001-07-09"
+  },
+  {
+    "label": "孙燕姿",
     "type": "Person",
     "description": ""
   },
@@ -3821,6 +4381,26 @@
   },
   {
     "label": "子尧",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "金鱼花火",
+    "type": "Song",
+    "description": "Published: 2004-08-18"
+  },
+  {
+    "label": "大塚愛",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "闺蜜之歌",
+    "type": "Song",
+    "description": "Published: 2021-01-01"
+  },
+  {
+    "label": "饭思思",
     "type": "Person",
     "description": ""
   },
@@ -4023,6 +4603,36 @@
     "type": "抄袭"
   },
   {
+    "from": "孟熙东",
+    "to": "2035去台湾",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "孟熙东",
+    "to": "2035去台湾",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "孟熙东",
+    "to": "2035去台湾",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "庞惠晨",
+    "to": "2035去台湾",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "2035去台湾",
+    "to": "坐着火车去拉萨",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "深七",
     "to": "9277",
     "label": "作曲",
@@ -4089,6 +4699,12 @@
     "type": "演唱"
   },
   {
+    "from": "Digital",
+    "to": "Chamdaa",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "Ehrling",
     "to": "Champagne Ocean",
     "label": "作曲",
@@ -4103,6 +4719,18 @@
   {
     "from": "Dancing lalala",
     "to": "Bar Bar Bar",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "Jedi Mind Tricks",
+    "to": "Design in Malice",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "Design in Malice",
+    "to": "草原啊草原",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -4145,6 +4773,12 @@
   {
     "from": "陈奕迅",
     "to": "K歌之王",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "Against the Current",
+    "to": "Legends Never Die",
     "label": "演唱",
     "type": "演唱"
   },
@@ -4455,6 +5089,18 @@
     "type": "抄袭"
   },
   {
+    "from": "李宇春",
+    "to": "下个路口见",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "下个路口见",
+    "to": "Chamdaa",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "陈雅森",
     "to": "下辈子不一定还能遇见你",
     "label": "演唱",
@@ -4539,6 +5185,18 @@
     "type": "抄袭"
   },
   {
+    "from": "伍佰",
+    "to": "世界第一等",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "刘德华",
+    "to": "世界第一等",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "zxhmaster",
     "to": "东京不太热",
     "label": "作词",
@@ -4555,6 +5213,18 @@
     "to": "东京不太热",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "黄安",
+    "to": "东南西北风",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "东南西北风",
+    "to": "巡恋歌",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "庄心妍",
@@ -4713,6 +5383,24 @@
     "type": "演唱"
   },
   {
+    "from": "沈以诚",
+    "to": "低空飞行",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "沈以诚",
+    "to": "低空飞行",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "低空飞行",
+    "to": "Legends Never Die",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "Jaywalk",
     "to": "何も言えなくて...夏",
     "label": "演唱",
@@ -4817,6 +5505,18 @@
   {
     "from": "许嵩",
     "to": "你若成风",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "许嵩",
+    "to": "你若成风",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "许嵩",
+    "to": "你若成风",
     "label": "演唱",
     "type": "演唱"
   },
@@ -4841,6 +5541,18 @@
   {
     "from": "信仰之名",
     "to": "only my railgun",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "后弦",
+    "to": "信条",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "信条",
+    "to": "悲怆奏鸣曲第三乐章",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -4947,8 +5659,38 @@
     "type": "演唱"
   },
   {
+    "from": "凡间精灵",
+    "to": "入骨相思谁人懂",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "凡间精灵工作室",
+    "to": "入骨相思谁人懂",
+    "label": "编曲",
+    "type": "编曲"
+  },
+  {
+    "from": "龙飞",
+    "to": "入骨相思谁人懂",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "入骨相思谁人懂",
+    "to": "世界第一等",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "许嵩",
     "to": "全球变冷",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "童安格",
+    "to": "其实你不懂我的心",
     "label": "演唱",
     "type": "演唱"
   },
@@ -5067,6 +5809,18 @@
     "type": "抄袭"
   },
   {
+    "from": "陆昱霖",
+    "to": "剑侠魂",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "剑侠魂",
+    "to": "琴箫合奏",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "马健涛",
     "to": "加入我变成空气",
     "label": "演唱",
@@ -5137,6 +5891,12 @@
     "to": "最后一次的温柔",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "初音ミク",
+    "to": "千本樱",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "许嵩",
@@ -5409,6 +6169,18 @@
     "type": "演唱"
   },
   {
+    "from": "何沐阳",
+    "to": "坐着火车去拉萨",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "徐千雅",
+    "to": "坐着火车去拉萨",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "阿沁",
     "to": "堂吉诃德",
     "label": "作曲",
@@ -5463,8 +6235,50 @@
     "type": "演唱"
   },
   {
+    "from": "龙井说唱",
+    "to": "夜三里",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "夜三里",
+    "to": "突然想起你",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "任帅兵",
+    "to": "夜之光",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "任帅兵",
+    "to": "夜之光",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "花姐",
+    "to": "夜之光",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "夜之光",
+    "to": "恕难从命",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "周杰伦",
     "to": "夜的第七章",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "周笔畅",
+    "to": "大家一起喜羊羊",
     "label": "演唱",
     "type": "演唱"
   },
@@ -5507,6 +6321,24 @@
   {
     "from": "失控",
     "to": "Prisoner of Love",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "黄明洲",
+    "to": "她来听我的演唱会",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "张学友",
+    "to": "她来听我的演唱会",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "她来听我的演唱会",
+    "to": "说谎的眼睛",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -5703,6 +6535,24 @@
     "type": "演唱"
   },
   {
+    "from": "韩红",
+    "to": "小尖尖",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "薛之谦",
+    "to": "小尖尖",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "小尖尖",
+    "to": "逃亡",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "罗聪",
     "to": "小幸福",
     "label": "演唱",
@@ -5787,6 +6637,12 @@
     "type": "演唱"
   },
   {
+    "from": "長渕剛",
+    "to": "巡恋歌",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "朴树",
     "to": "平凡之路",
     "label": "演唱",
@@ -5859,6 +6715,18 @@
     "type": "演唱"
   },
   {
+    "from": "殷谦",
+    "to": "很多的伤心",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "殷谦",
+    "to": "很多的伤心",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "杨小壮",
     "to": "微笑吧",
     "label": "演唱",
@@ -5887,6 +6755,18 @@
     "to": "心中的恋人",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "徐怀钰",
+    "to": "心中的遗憾",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "心中的遗憾",
+    "to": "珊瑚海",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "曾咏欣",
@@ -5965,6 +6845,18 @@
     "to": "有个爱你的人不容易",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "张学友",
+    "to": "恕难从命",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "贝多芬",
+    "to": "悲怆奏鸣曲第三乐章",
+    "label": "作曲",
+    "type": "作曲"
   },
   {
     "from": "本兮",
@@ -6069,6 +6961,30 @@
     "type": "抄袭"
   },
   {
+    "from": "陈婧霏",
+    "to": "我的孤独认出你的孤独",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "赵广为",
+    "to": "我的孤独认出你的孤独",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "陈婧霏",
+    "to": "我的孤独认出你的孤独",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "我的孤独认出你的孤独",
+    "to": "祖国不会忘记",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "陈国华",
     "to": "我相信",
     "label": "作曲",
@@ -6165,6 +7081,36 @@
     "type": "抄袭"
   },
   {
+    "from": "秦天",
+    "to": "斯琴高丽的伤心",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "秦天",
+    "to": "斯琴高丽的伤心",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "秦天",
+    "to": "斯琴高丽的伤心",
+    "label": "编曲",
+    "type": "编曲"
+  },
+  {
+    "from": "斯琴高丽",
+    "to": "斯琴高丽的伤心",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "斯琴高丽的伤心",
+    "to": "很多的伤心",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "薛之谦",
     "to": "方圆几里",
     "label": "演唱",
@@ -6197,6 +7143,24 @@
   {
     "from": "时间镜头",
     "to": "修炼爱情",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "谭旋",
+    "to": "昙花一现",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "何晟铭",
+    "to": "昙花一现",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "昙花一现",
+    "to": "金鱼花火",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -6255,6 +7219,18 @@
     "type": "演唱"
   },
   {
+    "from": "周笔畅",
+    "to": "最美的期待",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "最美的期待",
+    "to": "未填词",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "李宗盛",
     "to": "最近比较烦",
     "label": "演唱",
@@ -6305,6 +7281,12 @@
   {
     "from": "黄仲昆",
     "to": "有多少爱可以重来",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "邓福如",
+    "to": "未填词",
     "label": "演唱",
     "type": "演唱"
   },
@@ -6477,6 +7459,18 @@
     "type": "抄袭"
   },
   {
+    "from": "陈情令",
+    "to": "清心音.乱魄抄",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "清心音.乱魄抄",
+    "to": "其实你不懂我的心",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "许嵩",
     "to": "清明雨上",
     "label": "演唱",
@@ -6521,6 +7515,12 @@
   {
     "from": "Beyong",
     "to": "灰色轨迹",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "周杰伦",
+    "to": "烟花易冷",
     "label": "演唱",
     "type": "演唱"
   },
@@ -6619,6 +7619,12 @@
     "to": "爱情酿的酒",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "杨威",
+    "to": "爱死了昨天",
+    "label": "作曲",
+    "type": "作曲"
   },
   {
     "from": "李慧珍",
@@ -6777,6 +7783,18 @@
     "type": "演唱"
   },
   {
+    "from": "周杰伦",
+    "to": "珊瑚海",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "胡伟立",
+    "to": "琴箫合奏",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
     "from": "生死竞赛 Race",
     "to": "竹林深处",
     "label": "抄袭",
@@ -6927,6 +7945,18 @@
     "type": "抄袭"
   },
   {
+    "from": "曹进",
+    "to": "祖国不会忘记",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "黄鹭",
+    "to": "祖国不会忘记",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "张志远",
     "to": "祖国的花朵",
     "label": "作曲",
@@ -6941,6 +7971,18 @@
   {
     "from": "祖国的花朵",
     "to": "Firefly",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "晴诚",
+    "to": "祝你顺风顺水顺财神",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "祝你顺风顺水顺财神",
+    "to": "你若成风",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -6991,6 +8033,12 @@
     "to": "爱情酿的酒",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "萧亚轩",
+    "to": "突然想起你",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "伍佰",
@@ -7221,6 +8269,42 @@
     "type": "演唱"
   },
   {
+    "from": "潘成",
+    "to": "花木兰",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "刘安琪",
+    "to": "花木兰",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "花木兰",
+    "to": "千本樱",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "黄文文",
+    "to": "花谢惹离愁",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "花僮",
+    "to": "花谢惹离愁",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "花谢惹离愁",
+    "to": "走天涯",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "林志颖",
     "to": "芹菜",
     "label": "演唱",
@@ -7253,6 +8337,18 @@
   {
     "from": "英雄",
     "to": "You Belong to Me",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "十指流玉",
+    "to": "茧",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "茧",
+    "to": "烟花易冷",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -7431,6 +8527,18 @@
     "type": "抄袭"
   },
   {
+    "from": "Eagles",
+    "to": "说谎的眼睛",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "老猫",
+    "to": "走天涯",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
     "from": "降央卓玛",
     "to": "走天涯",
     "label": "演唱",
@@ -7479,6 +8587,24 @@
     "type": "抄袭"
   },
   {
+    "from": "孙毅然",
+    "to": "还是说出了再见",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "孙茹雪",
+    "to": "还是说出了再见",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "还是说出了再见",
+    "to": "爱死了昨天",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "优秀少年团",
     "to": "这条街最靓的仔",
     "label": "演唱",
@@ -7519,6 +8645,12 @@
     "to": "如果声音不记得",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "孙燕姿",
+    "to": "逃亡",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "张杰",
@@ -7613,6 +8745,24 @@
   {
     "from": "醒来折花",
     "to": "走天涯",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "大塚愛",
+    "to": "金鱼花火",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "饭思思",
+    "to": "闺蜜之歌",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "闺蜜之歌",
+    "to": "大家一起喜羊羊",
     "label": "抄袭",
     "type": "抄袭"
   },
