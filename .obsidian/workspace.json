@@ -248,9 +248,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76d953f3b5cf3a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "夜之光.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -331,10 +344,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63cffc6274863d22",
+  "active": "76d953f3b5cf3a16",
   "lastOpenFiles": [
-    "剑侠魂.md",
     "琴箫合奏.md",
+    "夜之光.md",
+    "剑侠魂.md",
     "珊瑚海.md",
     "心中的遗憾.md",
     "未填词.md",
@@ -358,7 +372,6 @@
     "15楼窗外.md",
     "Legends Never Die.md",
     "沈以城.md",
-    "2035去台湾.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
