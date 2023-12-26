@@ -140,6 +140,16 @@
     "description": ""
   },
   {
+    "label": "Chamdaa",
+    "type": "Song",
+    "description": "Published: 2006-01-01"
+  },
+  {
+    "label": "Digital",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "Champagne Ocean",
     "type": "Song",
     "description": "Published: 2016-10-15"
@@ -620,6 +630,16 @@
     "description": ""
   },
   {
+    "label": "下个路口见",
+    "type": "Song",
+    "description": "Published: 2009-08-18"
+  },
+  {
+    "label": "李宇春",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "下辈子不一定还能遇见你",
     "type": "Song",
     "description": "Published: 2020-01-14"
@@ -1055,6 +1075,16 @@
     "description": ""
   },
   {
+    "label": "信条",
+    "type": "Song",
+    "description": "Published: 2011-04-19"
+  },
+  {
+    "label": "后弦",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "修今生",
     "type": "Song",
     "description": "Published: 2016-01-01"
@@ -1186,6 +1216,16 @@
   },
   {
     "label": "许嵩",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "其实你不懂我的心",
+    "type": "Song",
+    "description": "Published: 1989-03-01"
+  },
+  {
+    "label": "童安格",
     "type": "Person",
     "description": ""
   },
@@ -1738,6 +1778,11 @@
     "label": "许嵩",
     "type": "Person",
     "description": ""
+  },
+  {
+    "label": "夜三里",
+    "type": "Song",
+    "description": "Published: "
   },
   {
     "label": "夜之光",
@@ -2370,6 +2415,16 @@
     "description": ""
   },
   {
+    "label": "悲怆奏鸣曲第三乐章",
+    "type": "Song",
+    "description": "Published: 1978-01-01"
+  },
+  {
+    "label": "贝多芬",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "悼念爱",
     "type": "Song",
     "description": "Published: 2012-07-02"
@@ -2656,6 +2711,21 @@
   },
   {
     "label": "杨博然",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "昙花一现",
+    "type": "Song",
+    "description": "Published: "
+  },
+  {
+    "label": "谭旋",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "何晟铭",
     "type": "Person",
     "description": ""
   },
@@ -2981,6 +3051,16 @@
   },
   {
     "label": "凤凰传奇",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "清心音.乱魄抄",
+    "type": "Song",
+    "description": "Published: 2019-06-27"
+  },
+  {
+    "label": "陈情令",
     "type": "Person",
     "description": ""
   },
@@ -3880,6 +3960,11 @@
     "description": ""
   },
   {
+    "label": "草原啊草原",
+    "type": "Song",
+    "description": "Published: 1934-01-01"
+  },
+  {
     "label": "荣耀之路",
     "type": "Song",
     "description": "Published: 2018-10-25"
@@ -4285,6 +4370,16 @@
     "description": ""
   },
   {
+    "label": "金鱼花火",
+    "type": "Song",
+    "description": "Published: 2004-08-18"
+  },
+  {
+    "label": "大塚愛",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "闺蜜之歌",
     "type": "Song",
     "description": "Published: 2021-01-01"
@@ -4585,6 +4680,12 @@
   {
     "from": "H.O.T",
     "to": "Candy",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "Digital",
+    "to": "Chamdaa",
     "label": "演唱",
     "type": "演唱"
   },
@@ -4969,6 +5070,18 @@
   {
     "from": "三生三世",
     "to": "我想我是海",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "李宇春",
+    "to": "下个路口见",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "下个路口见",
+    "to": "Chamdaa",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -5417,6 +5530,18 @@
     "type": "抄袭"
   },
   {
+    "from": "后弦",
+    "to": "信条",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "信条",
+    "to": "悲怆奏鸣曲第三乐章",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "梁佳玉",
     "to": "修今生",
     "label": "作曲",
@@ -5545,6 +5670,12 @@
   {
     "from": "许嵩",
     "to": "全球变冷",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "童安格",
+    "to": "其实你不懂我的心",
     "label": "演唱",
     "type": "演唱"
   },
@@ -6695,6 +6826,12 @@
     "type": "演唱"
   },
   {
+    "from": "贝多芬",
+    "to": "悲怆奏鸣曲第三乐章",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
     "from": "本兮",
     "to": "悼念爱",
     "label": "演唱",
@@ -6979,6 +7116,24 @@
   {
     "from": "时间镜头",
     "to": "修炼爱情",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "谭旋",
+    "to": "昙花一现",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "何晟铭",
+    "to": "昙花一现",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "昙花一现",
+    "to": "金鱼花火",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -7273,6 +7428,18 @@
   {
     "from": "海底",
     "to": "魂",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "陈情令",
+    "to": "清心音.乱魄抄",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "清心音.乱魄抄",
+    "to": "其实你不懂我的心",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -8547,6 +8714,12 @@
     "to": "走天涯",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "大塚愛",
+    "to": "金鱼花火",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "饭思思",
