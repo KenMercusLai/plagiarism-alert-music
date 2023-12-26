@@ -287,9 +287,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "809b76186afa7724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "下个路口见.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -370,10 +383,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8941a63d748f711",
+  "active": "809b76186afa7724",
   "lastOpenFiles": [
-    "Design in Malice.md",
     "草原啊草原.md",
+    "下个路口见.md",
+    "Design in Malice.md",
     "恕难从命.md",
     "夜之光.md",
     "琴箫合奏.md",
@@ -397,7 +411,6 @@
     "烟花易冷.md",
     "茧.md",
     "坐着火车去拉萨.md",
-    "低空飞行.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
