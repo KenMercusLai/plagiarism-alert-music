@@ -209,9 +209,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78c28afdf5b1e86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "祖国不会忘记.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -291,10 +304,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1188d0a3ab19f22d",
+  "active": "78c28afdf5b1e86e",
   "lastOpenFiles": [
-    "爱死了昨天.md",
     "我的孤独认出你的孤独.md",
+    "祖国不会忘记.md",
+    "爱死了昨天.md",
     "还是说出了再见.md",
     "走天涯.md",
     "花谢惹离愁.md",
@@ -318,7 +332,6 @@
     "堂吉诃德.md",
     "独自去偷欢.md",
     "Sexy Music.md",
-    "醒来折花.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
