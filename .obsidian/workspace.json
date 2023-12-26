@@ -263,12 +263,12 @@
             }
           },
           {
-            "id": "faece38e29b5326e",
+            "id": "f09611038e0edf73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "恕难从命.md",
+                "file": "Design in Malice.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -357,10 +357,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "faece38e29b5326e",
+  "active": "f09611038e0edf73",
   "lastOpenFiles": [
-    "夜之光.md",
     "恕难从命.md",
+    "Design in Malice.md",
+    "夜之光.md",
     "琴箫合奏.md",
     "剑侠魂.md",
     "珊瑚海.md",
@@ -384,7 +385,6 @@
     "坐着火车去拉萨.md",
     "低空飞行.md",
     "15楼窗外.md",
-    "Legends Never Die.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
