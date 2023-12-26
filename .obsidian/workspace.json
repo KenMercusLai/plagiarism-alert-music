@@ -274,9 +274,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8941a63d748f711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草原啊草原.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -357,10 +370,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f09611038e0edf73",
+  "active": "a8941a63d748f711",
   "lastOpenFiles": [
-    "恕难从命.md",
     "Design in Malice.md",
+    "草原啊草原.md",
+    "恕难从命.md",
     "夜之光.md",
     "琴箫合奏.md",
     "剑侠魂.md",
@@ -384,7 +398,6 @@
     "茧.md",
     "坐着火车去拉萨.md",
     "低空飞行.md",
-    "15楼窗外.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
