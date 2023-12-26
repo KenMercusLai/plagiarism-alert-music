@@ -144,9 +144,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7cc7008839d182e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "她来听我的演唱会.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,10 +239,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "979a287d101326be",
+  "active": "7cc7008839d182e3",
   "lastOpenFiles": [
-    "入骨相思谁人懂.md",
     "世界第一等.md",
+    "她来听我的演唱会.md",
+    "入骨相思谁人懂.md",
     "God rest ye merry gentlemen.md",
     "寓言.md",
     "みんなひとり.md",
@@ -253,7 +267,6 @@
     "那盏茶.md",
     "爱在西元前.md",
     "修今生.md",
-    "再回首.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
