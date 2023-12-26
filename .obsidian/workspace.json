@@ -79,9 +79,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc47b904a40a5b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "巡恋歌.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,10 +175,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a7c9d8a1bcd92e8",
+  "active": "dc47b904a40a5b74",
   "lastOpenFiles": [
-    "逃亡.md",
     "东南西北风.md",
+    "巡恋歌.md",
+    "逃亡.md",
     "小尖尖.md",
     "烟花易冷.md",
     "茧.md",
@@ -189,7 +203,6 @@
     "寓言.md",
     "みんなひとり.md",
     "灰色头像.md",
-    "滴答.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
