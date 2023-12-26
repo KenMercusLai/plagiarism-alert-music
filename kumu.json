@@ -50,6 +50,11 @@
     "description": ""
   },
   {
+    "label": "孟熙东",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "庞惠晨",
     "type": "Person",
     "description": ""
@@ -226,6 +231,16 @@
   },
   {
     "label": "陈奕迅",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "Legends Never Die",
+    "type": "Song",
+    "description": "Published: 2017-09-15"
+  },
+  {
+    "label": "Against the Current",
     "type": "Person",
     "description": ""
   },
@@ -861,6 +876,21 @@
   },
   {
     "label": "成龙",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "低空飞行",
+    "type": "Song",
+    "description": "Published: 2019-01-01"
+  },
+  {
+    "label": "沈以诚",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "沈以诚",
     "type": "Person",
     "description": ""
   },
@@ -1585,6 +1615,21 @@
     "description": ""
   },
   {
+    "label": "坐着火车去拉萨",
+    "type": "Song",
+    "description": "Published: 2007-07-13"
+  },
+  {
+    "label": "何沐阳",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "徐千雅",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "堂吉诃德",
     "type": "Song",
     "description": "Published: 2011-04-15"
@@ -1918,6 +1963,11 @@
     "label": "林志颖",
     "type": "Person",
     "description": ""
+  },
+  {
+    "label": "小尖尖",
+    "type": "Song",
+    "description": "Published: 2020-12-31"
   },
   {
     "label": "小幸福",
@@ -2810,6 +2860,16 @@
     "description": ""
   },
   {
+    "label": "烟花易冷",
+    "type": "Song",
+    "description": "Published: 2010-05-18"
+  },
+  {
+    "label": "周杰伦",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "热血",
     "type": "Song",
     "description": "Published: 2016-06-15"
@@ -3585,6 +3645,16 @@
     "description": ""
   },
   {
+    "label": "茧",
+    "type": "Song",
+    "description": "Published: 2018-03-17"
+  },
+  {
+    "label": "十指流玉",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "荣耀之路",
     "type": "Song",
     "description": "Published: 2018-10-25"
@@ -4180,6 +4250,12 @@
   {
     "from": "孟熙东",
     "to": "2035去台湾",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "孟熙东",
+    "to": "2035去台湾",
     "label": "作曲",
     "type": "作曲"
   },
@@ -4194,6 +4270,12 @@
     "to": "2035去台湾",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "2035去台湾",
+    "to": "坐着火车去拉萨",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "深七",
@@ -4318,6 +4400,12 @@
   {
     "from": "陈奕迅",
     "to": "K歌之王",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "Against the Current",
+    "to": "Legends Never Die",
     "label": "演唱",
     "type": "演唱"
   },
@@ -4896,6 +4984,24 @@
     "to": "但愿花常在",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "沈以诚",
+    "to": "低空飞行",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "沈以诚",
+    "to": "低空飞行",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "低空飞行",
+    "to": "Legends Never Die",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "Jaywalk",
@@ -5614,6 +5720,18 @@
   {
     "from": "奉献",
     "to": "地铁等待",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "何沐阳",
+    "to": "坐着火车去拉萨",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "徐千雅",
+    "to": "坐着火车去拉萨",
     "label": "演唱",
     "type": "演唱"
   },
@@ -6776,6 +6894,12 @@
     "type": "演唱"
   },
   {
+    "from": "周杰伦",
+    "to": "烟花易冷",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "燕青",
     "to": "热血",
     "label": "演唱",
@@ -7540,6 +7664,18 @@
   {
     "from": "英雄",
     "to": "You Belong to Me",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "十指流玉",
+    "to": "茧",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "茧",
+    "to": "烟花易冷",
     "label": "抄袭",
     "type": "抄袭"
   },
