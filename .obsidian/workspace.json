@@ -11,8 +11,13 @@
             "id": "35155dfe9b26d258",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -95,8 +100,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35155dfe9b26d258",
+  "active": "17051909f47caf3f",
   "lastOpenFiles": [
+    "index.md",
     "修炼爱情.md",
     "音乐人的事怎么能叫抄呢 2023-12-22 18.43.54.excalidraw.md",
     "t-音乐人的事怎么能叫抄呢.md",
@@ -122,7 +128,6 @@
     "美少女战士.md",
     "缘分一道桥.md",
     "红烧狮子头.md",
-    "红尘梦.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
