@@ -35,6 +35,26 @@
     "description": ""
   },
   {
+    "label": "2035去台湾",
+    "type": "Song",
+    "description": "Published: 2021-09-18"
+  },
+  {
+    "label": "孟熙东",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "孟熙东",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "庞惠晨",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "500 Miles",
     "type": "Song",
     "description": "Published: 1961-01-01"
@@ -2285,6 +2305,26 @@
     "description": ""
   },
   {
+    "label": "我的孤独认出你的孤独",
+    "type": "Song",
+    "description": "Published: 2020-12-22"
+  },
+  {
+    "label": "陈婧霏",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "赵广为",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "陈婧霏",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "我相信",
     "type": "Song",
     "description": "Published: 2006-05-26"
@@ -2870,6 +2910,11 @@
     "description": "Published: 2007-09-14"
   },
   {
+    "label": "杨威",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "李慧珍",
     "type": "Person",
     "description": ""
@@ -3166,6 +3211,21 @@
   },
   {
     "label": "MAD",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "祖国不会忘记",
+    "type": "Song",
+    "description": "Published: 1999-01-01"
+  },
+  {
+    "label": "曹进",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "黄鹭",
     "type": "Person",
     "description": ""
   },
@@ -3482,7 +3542,17 @@
   {
     "label": "花谢惹离愁",
     "type": "Song",
-    "description": "Published: "
+    "description": "Published: 2021-12-23"
+  },
+  {
+    "label": "黄文文",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "花僮",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "芹菜",
@@ -3715,6 +3785,11 @@
     "description": "Published: 2009-09-24"
   },
   {
+    "label": "老猫",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "降央卓玛",
     "type": "Person",
     "description": ""
@@ -3756,6 +3831,21 @@
   },
   {
     "label": "ansrj",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "还是说出了再见",
+    "type": "Song",
+    "description": "Published: 2021-09-06"
+  },
+  {
+    "label": "孙毅然",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "孙茹雪",
     "type": "Person",
     "description": ""
   },
@@ -4086,6 +4176,24 @@
     "to": "中国话",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "孟熙东",
+    "to": "2035去台湾",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "孟熙东",
+    "to": "2035去台湾",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "庞惠晨",
+    "to": "2035去台湾",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "深七",
@@ -6188,6 +6296,30 @@
     "type": "抄袭"
   },
   {
+    "from": "陈婧霏",
+    "to": "我的孤独认出你的孤独",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "赵广为",
+    "to": "我的孤独认出你的孤独",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "陈婧霏",
+    "to": "我的孤独认出你的孤独",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "我的孤独认出你的孤独",
+    "to": "祖国不会忘记",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "陈国华",
     "to": "我相信",
     "label": "作曲",
@@ -6740,6 +6872,12 @@
     "type": "演唱"
   },
   {
+    "from": "杨威",
+    "to": "爱死了昨天",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
     "from": "李慧珍",
     "to": "爱死了昨天",
     "label": "演唱",
@@ -7046,6 +7184,18 @@
     "type": "抄袭"
   },
   {
+    "from": "曹进",
+    "to": "祖国不会忘记",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "黄鹭",
+    "to": "祖国不会忘记",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "张志远",
     "to": "祖国的花朵",
     "label": "作曲",
@@ -7340,6 +7490,24 @@
     "type": "演唱"
   },
   {
+    "from": "黄文文",
+    "to": "花谢惹离愁",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "花僮",
+    "to": "花谢惹离愁",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "花谢惹离愁",
+    "to": "走天涯",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "林志颖",
     "to": "芹菜",
     "label": "演唱",
@@ -7556,6 +7724,12 @@
     "type": "演唱"
   },
   {
+    "from": "老猫",
+    "to": "走天涯",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
     "from": "降央卓玛",
     "to": "走天涯",
     "label": "演唱",
@@ -7600,6 +7774,24 @@
   {
     "from": "辣成都",
     "to": "血战唐人街 - GTA",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "孙毅然",
+    "to": "还是说出了再见",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "孙茹雪",
+    "to": "还是说出了再见",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "还是说出了再见",
+    "to": "爱死了昨天",
     "label": "抄袭",
     "type": "抄袭"
   },
