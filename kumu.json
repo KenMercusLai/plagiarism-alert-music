@@ -720,6 +720,16 @@
     "description": ""
   },
   {
+    "label": "东南西北风",
+    "type": "Song",
+    "description": "Published: 1994-01-01"
+  },
+  {
+    "label": "黄安",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "两个人的回忆一个人过",
     "type": "Song",
     "description": "Published: 2014-12-16"
@@ -993,6 +1003,16 @@
     "label": "你若成风",
     "type": "Song",
     "description": "Published: 2007-06-02"
+  },
+  {
+    "label": "许嵩",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "许嵩",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "许嵩",
@@ -1700,6 +1720,16 @@
     "description": ""
   },
   {
+    "label": "大家一起喜羊羊",
+    "type": "Song",
+    "description": "Published: 2009-12-31"
+  },
+  {
+    "label": "周笔畅",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "大海",
     "type": "Song",
     "description": "Published: 1992-11-30"
@@ -1970,6 +2000,16 @@
     "description": "Published: 2020-12-31"
   },
   {
+    "label": "韩红",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "薛之谦",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "小幸福",
     "type": "Song",
     "description": "Published: 2018-04-26"
@@ -2041,6 +2081,16 @@
   },
   {
     "label": "金玟岐",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "巡恋歌",
+    "type": "Song",
+    "description": "Published: 1983-05-27"
+  },
+  {
+    "label": "長渕剛",
     "type": "Person",
     "description": ""
   },
@@ -2121,6 +2171,21 @@
   },
   {
     "label": "动力火车",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "很多的伤心",
+    "type": "Song",
+    "description": "Published: 2006-11-29"
+  },
+  {
+    "label": "孙子涵",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "殷谦",
     "type": "Person",
     "description": ""
   },
@@ -2456,6 +2521,31 @@
   },
   {
     "label": "李袁截",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "斯琴高丽的伤心",
+    "type": "Song",
+    "description": "Published: 2007-08-15"
+  },
+  {
+    "label": "秦天",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "秦天",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "秦天",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "斯琴高丽",
     "type": "Person",
     "description": ""
   },
@@ -3305,6 +3395,16 @@
     "description": ""
   },
   {
+    "label": "祝你顺风顺水顺财神",
+    "type": "Song",
+    "description": "Published: 2020-11-10"
+  },
+  {
+    "label": "晴诚",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "离不开你",
     "type": "Song",
     "description": "Published: 2004-06-25"
@@ -3960,6 +4060,16 @@
     "description": ""
   },
   {
+    "label": "逃亡",
+    "type": "Song",
+    "description": "Published: 2001-07-09"
+  },
+  {
+    "label": "孙燕姿",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "逆战",
     "type": "Song",
     "description": "Published: 2012-03-21"
@@ -4046,6 +4156,16 @@
   },
   {
     "label": "子尧",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "闺蜜之歌",
+    "type": "Song",
+    "description": "Published: 2021-01-01"
+  },
+  {
+    "label": "饭思思",
     "type": "Person",
     "description": ""
   },
@@ -4830,6 +4950,18 @@
     "type": "演唱"
   },
   {
+    "from": "黄安",
+    "to": "东南西北风",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "东南西北风",
+    "to": "巡恋歌",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "庄心妍",
     "to": "两个人的回忆一个人过",
     "label": "演唱",
@@ -5104,6 +5236,18 @@
     "to": "做我老婆好不好",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "许嵩",
+    "to": "你若成风",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "许嵩",
+    "to": "你若成风",
+    "label": "作曲",
+    "type": "作曲"
   },
   {
     "from": "许嵩",
@@ -5796,6 +5940,12 @@
     "type": "演唱"
   },
   {
+    "from": "周笔畅",
+    "to": "大家一起喜羊羊",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "张雨生",
     "to": "大海",
     "label": "演唱",
@@ -6048,6 +6198,24 @@
     "type": "演唱"
   },
   {
+    "from": "韩红",
+    "to": "小尖尖",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "薛之谦",
+    "to": "小尖尖",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "小尖尖",
+    "to": "逃亡",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "罗聪",
     "to": "小幸福",
     "label": "演唱",
@@ -6132,6 +6300,12 @@
     "type": "演唱"
   },
   {
+    "from": "長渕剛",
+    "to": "巡恋歌",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "朴树",
     "to": "平凡之路",
     "label": "演唱",
@@ -6200,6 +6374,18 @@
   {
     "from": "动力火车",
     "to": "彩虹",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "孙子涵",
+    "to": "很多的伤心",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "殷谦",
+    "to": "很多的伤心",
     "label": "演唱",
     "type": "演唱"
   },
@@ -6530,6 +6716,36 @@
   {
     "from": "攻城",
     "to": "灰色头像",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "秦天",
+    "to": "斯琴高丽的伤心",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "秦天",
+    "to": "斯琴高丽的伤心",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "秦天",
+    "to": "斯琴高丽的伤心",
+    "label": "编曲",
+    "type": "编曲"
+  },
+  {
+    "from": "斯琴高丽",
+    "to": "斯琴高丽的伤心",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "斯琴高丽的伤心",
+    "to": "很多的伤心",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -7338,6 +7554,18 @@
     "type": "抄袭"
   },
   {
+    "from": "晴诚",
+    "to": "祝你顺风顺水顺财神",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "祝你顺风顺水顺财神",
+    "to": "你若成风",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "陈小春",
     "to": "离不开你",
     "label": "演唱",
@@ -7974,6 +8202,12 @@
     "type": "抄袭"
   },
   {
+    "from": "孙燕姿",
+    "to": "逃亡",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "张杰",
     "to": "逆战",
     "label": "演唱",
@@ -8066,6 +8300,18 @@
   {
     "from": "醒来折花",
     "to": "走天涯",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "饭思思",
+    "to": "闺蜜之歌",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "闺蜜之歌",
+    "to": "大家一起喜羊羊",
     "label": "抄袭",
     "type": "抄袭"
   },
