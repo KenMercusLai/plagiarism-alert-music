@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "062e9205d4c0b17a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "突然想起你.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,10 +141,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a43394f98f531754",
+  "active": "062e9205d4c0b17a",
   "lastOpenFiles": [
-    "其实你不懂我的心.md",
     "夜三里.md",
+    "突然想起你.md",
+    "其实你不懂我的心.md",
     "清心音.乱魄抄.md",
     "金鱼花火.md",
     "昙花一现.md",
@@ -155,7 +169,6 @@
     "下个路口见.md",
     "Chamdaa.md",
     "草原啊草原.md",
-    "Design in Malice.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
