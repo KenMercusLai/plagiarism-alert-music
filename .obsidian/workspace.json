@@ -235,9 +235,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63cffc6274863d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "琴箫合奏.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -318,10 +331,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ede3534e719fff4",
+  "active": "63cffc6274863d22",
   "lastOpenFiles": [
-    "珊瑚海.md",
     "剑侠魂.md",
+    "琴箫合奏.md",
+    "珊瑚海.md",
     "心中的遗憾.md",
     "未填词.md",
     "最美的期待.md",
@@ -345,7 +359,6 @@
     "Legends Never Die.md",
     "沈以城.md",
     "2035去台湾.md",
-    "祖国不会忘记.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
