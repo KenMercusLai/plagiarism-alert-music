@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d7f417326c1fc8",
+        "id": "50d470a2f10f8267",
         "type": "tabs",
         "children": [
           {
-            "id": "35155dfe9b26d258",
+            "id": "5ba5ecc8e3e7b6ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -58,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +94,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17051909f47caf3f",
+  "active": "5ba5ecc8e3e7b6ae",
   "lastOpenFiles": [
     "index.md",
     "修炼爱情.md",
