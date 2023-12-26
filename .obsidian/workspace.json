@@ -261,9 +261,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "faece38e29b5326e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "恕难从命.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -344,10 +357,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76d953f3b5cf3a16",
+  "active": "faece38e29b5326e",
   "lastOpenFiles": [
-    "琴箫合奏.md",
     "夜之光.md",
+    "恕难从命.md",
+    "琴箫合奏.md",
     "剑侠魂.md",
     "珊瑚海.md",
     "心中的遗憾.md",
@@ -371,7 +385,6 @@
     "低空飞行.md",
     "15楼窗外.md",
     "Legends Never Die.md",
-    "沈以城.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
