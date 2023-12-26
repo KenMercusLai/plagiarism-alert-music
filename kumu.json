@@ -650,6 +650,21 @@
     "description": "Published: 2011-04-17"
   },
   {
+    "label": "世界第一等",
+    "type": "Song",
+    "description": "Published: 1997-12-24"
+  },
+  {
+    "label": "伍佰",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "刘德华",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "东京不太热",
     "type": "Song",
     "description": "Published: 2015-04-24"
@@ -1061,6 +1076,26 @@
   },
   {
     "label": "Timez",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "入骨相思谁人懂",
+    "type": "Song",
+    "description": "Published: 2019-05-14"
+  },
+  {
+    "label": "凡间精灵",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "凡间精灵工作室",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "龙飞",
     "type": "Person",
     "description": ""
   },
@@ -1663,6 +1698,21 @@
     "label": "奉献",
     "type": "Song",
     "description": "Published: 1988-01-01"
+  },
+  {
+    "label": "她来听我的演唱会",
+    "type": "Song",
+    "description": "Published: 1999-01-01"
+  },
+  {
+    "label": "黄明洲",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "张学友",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "好几年",
@@ -3430,6 +3480,11 @@
     "description": ""
   },
   {
+    "label": "花谢惹离愁",
+    "type": "Song",
+    "description": "Published: "
+  },
+  {
     "label": "芹菜",
     "type": "Song",
     "description": "Published: 1998-09-01"
@@ -3641,6 +3696,16 @@
   },
   {
     "label": "张信哲",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "说谎的眼睛",
+    "type": "Song",
+    "description": "Published: 1975-01-01"
+  },
+  {
+    "label": "Eagles",
     "type": "Person",
     "description": ""
   },
@@ -4539,6 +4604,18 @@
     "type": "抄袭"
   },
   {
+    "from": "伍佰",
+    "to": "世界第一等",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "刘德华",
+    "to": "世界第一等",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "zxhmaster",
     "to": "东京不太热",
     "label": "作词",
@@ -4945,6 +5022,30 @@
     "to": "偶像万万岁",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "凡间精灵",
+    "to": "入骨相思谁人懂",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "凡间精灵工作室",
+    "to": "入骨相思谁人懂",
+    "label": "编曲",
+    "type": "编曲"
+  },
+  {
+    "from": "龙飞",
+    "to": "入骨相思谁人懂",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "入骨相思谁人懂",
+    "to": "世界第一等",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "许嵩",
@@ -5507,6 +5608,24 @@
   {
     "from": "失控",
     "to": "Prisoner of Love",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
+    "from": "黄明洲",
+    "to": "她来听我的演唱会",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "张学友",
+    "to": "她来听我的演唱会",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "她来听我的演唱会",
+    "to": "说谎的眼睛",
     "label": "抄袭",
     "type": "抄袭"
   },
@@ -7429,6 +7548,12 @@
     "to": "天空之城",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "Eagles",
+    "to": "说谎的眼睛",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "降央卓玛",
