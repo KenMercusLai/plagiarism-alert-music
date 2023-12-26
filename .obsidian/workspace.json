@@ -131,9 +131,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "979a287d101326be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "世界第一等.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -213,10 +226,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8d282bd2082d99c",
+  "active": "979a287d101326be",
   "lastOpenFiles": [
-    "God rest ye merry gentlemen.md",
     "入骨相思谁人懂.md",
+    "世界第一等.md",
+    "God rest ye merry gentlemen.md",
     "寓言.md",
     "みんなひとり.md",
     "灰色头像.md",
@@ -240,7 +254,6 @@
     "爱在西元前.md",
     "修今生.md",
     "再回首.md",
-    "海底.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
