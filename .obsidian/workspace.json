@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "bb74e16f8dabed74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "信条.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +110,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8b84db655d256d6",
+  "active": "bb74e16f8dabed74",
   "lastOpenFiles": [
+    "信条.md",
     "茧.md",
     "烟花易冷.md",
     "小尖尖.md",
@@ -123,7 +138,6 @@
     "剑侠魂.md",
     "珊瑚海.md",
     "心中的遗憾.md",
-    "祝你顺风顺水顺财神.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
