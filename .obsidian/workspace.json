@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a966cae32cbdf198",
+        "id": "ab61b241875f2b94",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf31f0dbc87b1ec",
+            "id": "f8b84db655d256d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "坐着火车去拉萨.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2c99013bec91506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "低空飞行.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad595726b19b20f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Legends Never Die.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "独自去",
+                "query": "沈",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,12 +96,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad595726b19b20f2",
+  "active": "f8b84db655d256d6",
   "lastOpenFiles": [
-    "沈以城.md",
-    "Legends Never Die.md",
-    "低空飞行.md",
     "坐着火车去拉萨.md",
+    "低空飞行.md",
+    "15楼窗外.md",
+    "Legends Never Die.md",
+    "沈以城.md",
     "2035去台湾.md",
     "祖国不会忘记.md",
     "我的孤独认出你的孤独.md",
@@ -154,7 +124,6 @@
     "Candy.md",
     "芹菜.md",
     "因为是女子.md",
-    "外滩18号.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
