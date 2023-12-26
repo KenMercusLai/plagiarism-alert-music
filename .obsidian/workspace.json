@@ -157,9 +157,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8c684132a3c405f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "说谎的眼睛.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -239,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cc7008839d182e3",
+  "active": "b8c684132a3c405f",
   "lastOpenFiles": [
-    "世界第一等.md",
     "她来听我的演唱会.md",
+    "说谎的眼睛.md",
+    "世界第一等.md",
     "入骨相思谁人懂.md",
     "God rest ye merry gentlemen.md",
     "寓言.md",
@@ -266,7 +280,6 @@
     "Firefly.md",
     "那盏茶.md",
     "爱在西元前.md",
-    "修今生.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
