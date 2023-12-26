@@ -1350,6 +1350,16 @@
     "description": ""
   },
   {
+    "label": "千本樱",
+    "type": "Song",
+    "description": "Published: 2011-09-17"
+  },
+  {
+    "label": "初音ミク",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "千百度",
     "type": "Song",
     "description": "Published: 2011-04-01"
@@ -2180,7 +2190,7 @@
     "description": "Published: 2006-11-29"
   },
   {
-    "label": "孙子涵",
+    "label": "殷谦",
     "type": "Person",
     "description": ""
   },
@@ -2221,6 +2231,16 @@
   },
   {
     "label": "容中尔甲",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "心中的遗憾",
+    "type": "Song",
+    "description": "Published: 2007-05-11"
+  },
+  {
+    "label": "徐怀钰",
     "type": "Person",
     "description": ""
   },
@@ -2655,6 +2675,16 @@
     "description": "Published: 2008-01-01"
   },
   {
+    "label": "最美的期待",
+    "type": "Song",
+    "description": "Published: 2018-01-18"
+  },
+  {
+    "label": "周笔畅",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "最近比较烦",
     "type": "Song",
     "description": "Published: 1998-11-17"
@@ -2728,6 +2758,16 @@
     "label": "有点甜",
     "type": "Song",
     "description": "Published: 2012-01-01"
+  },
+  {
+    "label": "未填词",
+    "type": "Song",
+    "description": "Published: 2011-05-27"
+  },
+  {
+    "label": "邓福如",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "未来的进击",
@@ -3206,6 +3246,16 @@
   },
   {
     "label": "迟志强",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "珊瑚海",
+    "type": "Song",
+    "description": "Published: 2005-11-01"
+  },
+  {
+    "label": "周杰伦",
     "type": "Person",
     "description": ""
   },
@@ -3696,6 +3746,21 @@
   },
   {
     "label": "萧十一郎",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "花木兰",
+    "type": "Song",
+    "description": "Published: 2018-12-30"
+  },
+  {
+    "label": "潘成",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "刘安琪",
     "type": "Person",
     "description": ""
   },
@@ -5598,6 +5663,12 @@
     "type": "抄袭"
   },
   {
+    "from": "初音ミク",
+    "to": "千本樱",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "许嵩",
     "to": "千百度",
     "label": "作词",
@@ -6378,7 +6449,7 @@
     "type": "演唱"
   },
   {
-    "from": "孙子涵",
+    "from": "殷谦",
     "to": "很多的伤心",
     "label": "作词",
     "type": "作词"
@@ -6418,6 +6489,18 @@
     "to": "心中的恋人",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "徐怀钰",
+    "to": "心中的遗憾",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "心中的遗憾",
+    "to": "珊瑚海",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "曾咏欣",
@@ -6840,6 +6923,18 @@
     "type": "演唱"
   },
   {
+    "from": "周笔畅",
+    "to": "最美的期待",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "最美的期待",
+    "to": "未填词",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "李宗盛",
     "to": "最近比较烦",
     "label": "演唱",
@@ -6890,6 +6985,12 @@
   {
     "from": "黄仲昆",
     "to": "有多少爱可以重来",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "邓福如",
+    "to": "未填词",
     "label": "演唱",
     "type": "演唱"
   },
@@ -7374,6 +7475,12 @@
     "type": "演唱"
   },
   {
+    "from": "周杰伦",
+    "to": "珊瑚海",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
     "from": "生死竞赛 Race",
     "to": "竹林深处",
     "label": "抄袭",
@@ -7840,6 +7947,24 @@
     "to": "舞翼烟飞",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "潘成",
+    "to": "花木兰",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "刘安琪",
+    "to": "花木兰",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "花木兰",
+    "to": "千本樱",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "黄文文",
