@@ -118,9 +118,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c03a75a3d2baf99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "祝你顺风顺水顺财神.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -201,10 +214,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "61a4341624fb9ee3",
+  "active": "8c03a75a3d2baf99",
   "lastOpenFiles": [
-    "闺蜜之歌.md",
     "大家一起喜羊羊.md",
+    "祝你顺风顺水顺财神.md",
+    "闺蜜之歌.md",
     "巡恋歌.md",
     "东南西北风.md",
     "逃亡.md",
@@ -228,7 +242,6 @@
     "世界第一等.md",
     "入骨相思谁人懂.md",
     "God rest ye merry gentlemen.md",
-    "寓言.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
