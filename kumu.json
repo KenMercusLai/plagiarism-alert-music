@@ -160,6 +160,16 @@
     "description": ""
   },
   {
+    "label": "Design in Malice",
+    "type": "Song",
+    "description": "Published: 2011-10-25"
+  },
+  {
+    "label": "Jedi Mind Tricks",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "Firefly",
     "type": "Song",
     "description": "Published: 2001-02-26"
@@ -1290,6 +1300,16 @@
     "description": ""
   },
   {
+    "label": "剑侠魂",
+    "type": "Song",
+    "description": "Published: 2015-07-17"
+  },
+  {
+    "label": "陆昱霖",
+    "type": "Person",
+    "description": ""
+  },
+  {
     "label": "加入我变成空气",
     "type": "Song",
     "description": "Published: 2021-09-26"
@@ -1716,6 +1736,26 @@
   },
   {
     "label": "许嵩",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "夜之光",
+    "type": "Song",
+    "description": "Published: 2018-10-27"
+  },
+  {
+    "label": "任帅兵",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "任帅兵",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "花姐",
     "type": "Person",
     "description": ""
   },
@@ -2316,6 +2356,16 @@
   },
   {
     "label": "海阔",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "恕难从命",
+    "type": "Song",
+    "description": "Published: 1986-01-05"
+  },
+  {
+    "label": "张学友",
     "type": "Person",
     "description": ""
   },
@@ -3256,6 +3306,16 @@
   },
   {
     "label": "周杰伦",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "琴箫合奏",
+    "type": "Song",
+    "description": "Published: 1996-01-01"
+  },
+  {
+    "label": "胡伟立",
     "type": "Person",
     "description": ""
   },
@@ -4547,6 +4607,18 @@
     "type": "抄袭"
   },
   {
+    "from": "Jedi Mind Tricks",
+    "to": "Design in Malice",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "Design in Malice",
+    "to": "草原啊草原",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "A Teens",
     "to": "Firefly",
     "label": "演唱",
@@ -5591,6 +5663,18 @@
     "type": "抄袭"
   },
   {
+    "from": "陆昱霖",
+    "to": "剑侠魂",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "剑侠魂",
+    "to": "琴箫合奏",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "马健涛",
     "to": "加入我变成空气",
     "label": "演唱",
@@ -6003,6 +6087,30 @@
     "to": "多余的解释",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "任帅兵",
+    "to": "夜之光",
+    "label": "作词",
+    "type": "作词"
+  },
+  {
+    "from": "任帅兵",
+    "to": "夜之光",
+    "label": "作曲",
+    "type": "作曲"
+  },
+  {
+    "from": "花姐",
+    "to": "夜之光",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "夜之光",
+    "to": "恕难从命",
+    "label": "抄袭",
+    "type": "抄袭"
   },
   {
     "from": "周杰伦",
@@ -6579,6 +6687,12 @@
     "to": "有个爱你的人不容易",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "张学友",
+    "to": "恕难从命",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "本兮",
@@ -7479,6 +7593,12 @@
     "to": "珊瑚海",
     "label": "演唱",
     "type": "演唱"
+  },
+  {
+    "from": "胡伟立",
+    "to": "琴箫合奏",
+    "label": "作曲",
+    "type": "作曲"
   },
   {
     "from": "生死竞赛 Race",
