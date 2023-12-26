@@ -183,9 +183,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba3238a4da5c93da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "最美的期待.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -266,10 +279,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "677904a20918fbe7",
+  "active": "ba3238a4da5c93da",
   "lastOpenFiles": [
-    "花木兰.md",
     "千本樱.md",
+    "最美的期待.md",
+    "花木兰.md",
     "很多的伤心.md",
     "斯琴高丽的伤心.md",
     "你若成风.md",
@@ -293,7 +307,6 @@
     "爱死了昨天.md",
     "还是说出了再见.md",
     "走天涯.md",
-    "花谢惹离愁.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
