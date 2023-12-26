@@ -235,9 +235,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcf31f0dbc87b1ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "坐着火车去拉萨.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -317,10 +330,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34f3832bbc0644e6",
+  "active": "bcf31f0dbc87b1ec",
   "lastOpenFiles": [
-    "祖国不会忘记.md",
     "2035去台湾.md",
+    "坐着火车去拉萨.md",
+    "祖国不会忘记.md",
     "我的孤独认出你的孤独.md",
     "爱死了昨天.md",
     "还是说出了再见.md",
@@ -344,7 +358,6 @@
     "忆少年.md",
     "清明雨上.md",
     "堂吉诃德.md",
-    "独自去偷欢.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
