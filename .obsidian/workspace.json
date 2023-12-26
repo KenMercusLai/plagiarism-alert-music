@@ -196,9 +196,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "961a91ae5920a46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未填词.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19f4c2a38fdf9cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心中的遗憾.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -279,10 +305,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba3238a4da5c93da",
+  "active": "19f4c2a38fdf9cd4",
   "lastOpenFiles": [
-    "千本樱.md",
+    "未填词.md",
+    "心中的遗憾.md",
     "最美的期待.md",
+    "千本樱.md",
     "花木兰.md",
     "很多的伤心.md",
     "斯琴高丽的伤心.md",
@@ -305,8 +333,6 @@
     "祖国不会忘记.md",
     "我的孤独认出你的孤独.md",
     "爱死了昨天.md",
-    "还是说出了再见.md",
-    "走天涯.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
