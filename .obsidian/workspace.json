@@ -157,9 +157,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c49c46907a65dac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "花木兰.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -240,10 +253,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f435a9ac37524ae",
+  "active": "c49c46907a65dac4",
   "lastOpenFiles": [
-    "斯琴高丽的伤心.md",
     "很多的伤心.md",
+    "花木兰.md",
+    "斯琴高丽的伤心.md",
     "你若成风.md",
     "祝你顺风顺水顺财神.md",
     "大家一起喜羊羊.md",
@@ -267,7 +281,6 @@
     "走天涯.md",
     "花谢惹离愁.md",
     "说谎的眼睛.md",
-    "她来听我的演唱会.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
