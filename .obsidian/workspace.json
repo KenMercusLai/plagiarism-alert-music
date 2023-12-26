@@ -211,12 +211,12 @@
             }
           },
           {
-            "id": "19f4c2a38fdf9cd4",
+            "id": "eb8d34c70b45bdee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心中的遗憾.md",
+                "file": "珊瑚海.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -305,10 +305,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19f4c2a38fdf9cd4",
+  "active": "eb8d34c70b45bdee",
   "lastOpenFiles": [
-    "未填词.md",
     "心中的遗憾.md",
+    "珊瑚海.md",
+    "未填词.md",
     "最美的期待.md",
     "千本樱.md",
     "花木兰.md",
@@ -332,7 +333,6 @@
     "2035去台湾.md",
     "祖国不会忘记.md",
     "我的孤独认出你的孤独.md",
-    "爱死了昨天.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
