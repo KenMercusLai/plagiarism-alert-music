@@ -11,13 +11,8 @@
             "id": "f6b28f19f8337128",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "God rest ye merry gentlemen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,11 +94,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f6b28f19f8337128",
+  "active": "7b5bee881a3e8c3f",
   "lastOpenFiles": [
+    "God rest ye merry gentlemen.md",
     "Firefly.md",
     "Design in Malice.md",
-    "God rest ye merry gentlemen.md",
     "goodbye 青春.md",
     "I live my life for you.md",
     "I Don't Want to Miss a Thing.md",
