@@ -15,6 +15,34 @@ jobs:
         uses: GuillaumeFalourd/clone-github-repo-action@v2.3
         with:
           depth: 1
-          branch: 'main'
+          branch: 'v4'
           owner: 'jackyzha0'
           repository: 'quartz'
+      - name: Clone data files
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Fetch all history for git info
+          path: 'quartz/content'
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.14
+      - name: install quartz
+        run: |
+          ls
+          cd quartz
+          npm i
+          npx quartz build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: quartz/public
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2

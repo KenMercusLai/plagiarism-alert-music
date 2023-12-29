@@ -1,10 +1,5 @@
 { "elements": [
   {
-    "label": "<% tp.file.title %>",
-    "type": "Song",
-    "description": "Published: "
-  },
-  {
     "label": "123我爱你",
     "type": "Song",
     "description": "Published: 2017-12-25"
@@ -1782,7 +1777,12 @@
   {
     "label": "夜三里",
     "type": "Song",
-    "description": "Published: "
+    "description": "Published: 2014-02-01"
+  },
+  {
+    "label": "龙井说唱",
+    "type": "Person",
+    "description": ""
   },
   {
     "label": "夜之光",
@@ -3636,6 +3636,16 @@
   },
   {
     "label": "周杰伦",
+    "type": "Person",
+    "description": ""
+  },
+  {
+    "label": "突然想起你",
+    "type": "Song",
+    "description": "Published: 1999-11-17"
+  },
+  {
+    "label": "萧亚轩",
     "type": "Person",
     "description": ""
   },
@@ -6220,6 +6230,18 @@
     "type": "演唱"
   },
   {
+    "from": "龙井说唱",
+    "to": "夜三里",
+    "label": "演唱",
+    "type": "演唱"
+  },
+  {
+    "from": "夜三里",
+    "to": "突然想起你",
+    "label": "抄袭",
+    "type": "抄袭"
+  },
+  {
     "from": "任帅兵",
     "to": "夜之光",
     "label": "作词",
@@ -8006,6 +8028,12 @@
     "to": "爱情酿的酒",
     "label": "抄袭",
     "type": "抄袭"
+  },
+  {
+    "from": "萧亚轩",
+    "to": "突然想起你",
+    "label": "演唱",
+    "type": "演唱"
   },
   {
     "from": "伍佰",
