@@ -58,19 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dc0bed198a324f58",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc0bed198a324f58",
+  "active": "062e9205d4c0b17a",
   "lastOpenFiles": [
     "夜三里.md",
     "突然想起你.md",
