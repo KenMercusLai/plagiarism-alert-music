@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "71f95b73eb948125",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab61b241875f2b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2512d465fd5f536c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "清心音.乱魄抄.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "638860e48d5e073e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "其实你不懂我的心.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a43394f98f531754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "夜三里.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "062e9205d4c0b17a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "突然想起你.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8487b365f16b4c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cac5f9ff980cc67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b5bee881a3e8c3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17051909f47caf3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5e6bc6820c81cdaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c230b09ab0d8d398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070bb1b02d9659eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "062e9205d4c0b17a",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "突然想起你.md",
+    "index.md",
+    "夜三里.md",
+    "其实你不懂我的心.md",
+    "清心音.乱魄抄.md",
+    "金鱼花火.md",
+    "昙花一现.md",
+    "悲怆奏鸣曲第三乐章.md",
+    "信条.md",
+    "茧.md",
+    "烟花易冷.md",
+    "小尖尖.md",
+    "逃亡.md",
+    "东南西北风.md",
+    "巡恋歌.md",
+    "闺蜜之歌.md",
+    "大家一起喜羊羊.md",
+    "你若成风.md",
+    "斯琴高丽的伤心.md",
+    "很多的伤心.md",
+    "花木兰.md",
+    "千本樱.md",
+    "最美的期待.md",
+    "未填词.md",
+    "下个路口见.md",
+    "kumu.json",
+    "高原红.md.tmp",
+    "青鸟-许巍.md.tmp",
+    "青鸟.md.tmp",
+    "通天大道宽又阔.md.tmp",
+    "退守.md.tmp",
+    "远走高飞.md.tmp",
+    "这条街最靓的仔.md.tmp",
+    "足够.md.tmp",
+    "超级喜欢你.md.tmp"
+  ]
+}
