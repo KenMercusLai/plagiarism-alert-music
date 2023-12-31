@@ -1,6 +1,12 @@
 name: Deploy Quartz site to GitHub Pages
  
-on: push
+on:
+  workflow_dispatch:
+
+  # Allows external webhook trigger
+  repository_dispatch:
+    types:
+      - webhook
  
 permissions:
   contents: read
