@@ -12,7 +12,7 @@ Lyricist:
 
 Release Date: 2005-11-01
 
-Performers: [[周杰伦]]
+Performers: [[person-周杰伦|周杰伦]]
 
 Plagiarism allegation:
 [[song-雪の村レーヌ|雪の村レーヌ]]
