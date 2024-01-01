@@ -2,8 +2,6 @@
 ---
 title: 缘分一道桥
 ---
-Title: 缘分一道桥
-
 Composer: 
 
 Arranger: 
