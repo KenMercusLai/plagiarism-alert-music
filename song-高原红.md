@@ -12,7 +12,7 @@ Lyricist:
 
 Release Date: 2001-01-01
 
-Performers: [[容中尔甲]]
+Performers: [[person-容中尔甲|容中尔甲]]
 
 Plagiarism allegation:
 
