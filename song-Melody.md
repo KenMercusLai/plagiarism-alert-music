@@ -2,8 +2,6 @@
 ---
 title: Melody
 ---
-Title: Melody
-
 Composer: 
 
 Arranger: 
