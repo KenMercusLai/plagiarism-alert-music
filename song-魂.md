@@ -2,8 +2,6 @@
 ---
 title: 魂
 ---
-Title: 魂
-
 Composer: [[person-李荣浩|李荣浩]]
 
 Arranger: 
