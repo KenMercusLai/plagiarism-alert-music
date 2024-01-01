@@ -12,7 +12,7 @@ Release Date: 2006-01-01
 
 Performers: [[person-王冰洋|王冰洋]]
 
-Plagiarism allegation:
+Plagiarism allegations:
 
 
 Comments:
