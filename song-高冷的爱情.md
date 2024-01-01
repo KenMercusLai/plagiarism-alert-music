@@ -12,7 +12,7 @@ Release Date: 2016-10-18
 
 Performers: [[person-宋孟君|宋孟君]]
 
-Plagiarism allegation:
+Plagiarism allegations:
 [[song-东京不太热|东京不太热]]
 
 Comments:
