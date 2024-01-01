@@ -12,7 +12,7 @@ Lyricist:
 
 Release Date: 1981-01-01
 
-Performers: [[The Nolans]]
+Performers: [[person-The Nolans|The Nolans]]
 
 Plagiarism allegation:
 
