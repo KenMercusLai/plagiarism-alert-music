@@ -12,7 +12,7 @@ Release Date: null
 
 Performers: 
 
-Plagiarism allegation:
+Plagiarism allegations:
 
 
 Comments:
