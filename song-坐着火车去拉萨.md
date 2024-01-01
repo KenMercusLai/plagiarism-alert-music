@@ -2,8 +2,6 @@
 ---
 title: 坐着火车去拉萨
 ---
-Title: 坐着火车去拉萨
-
 Composer: 
 
 Arranger: 
