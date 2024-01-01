@@ -2,8 +2,6 @@
 ---
 title: 东京不太热
 ---
-Title: 东京不太热
-
 Composer: 
 
 Arranger: 
