@@ -12,7 +12,7 @@ Lyricist:
 
 Release Date: 2008-05-21
 
-Performers: [[宇多田光]]
+Performers: [[person-宇多田光|宇多田光]]
 
 Plagiarism allegation:
 
