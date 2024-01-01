@@ -12,7 +12,7 @@ Lyricist:
 
 Release Date: 2001-01-01
 
-Performers: [[click-b]]
+Performers: [[person-click-b|click-b]]
 
 Plagiarism allegation:
 
