@@ -2,8 +2,6 @@
 ---
 title: Sexy Music
 ---
-Title: Sexy Music
-
 Composer: 
 
 Arranger: 
