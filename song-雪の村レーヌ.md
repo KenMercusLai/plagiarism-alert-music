@@ -1,1 +1,15 @@
-placeholder
+Title: 雪の村レーヌ
+  
+Composer: 
+  
+Arranger: 
+
+Lyricist: 
+
+Release Date: 1997-01-01
+
+Performers: 
+
+Comments:
+
+格兰蒂亚OST
