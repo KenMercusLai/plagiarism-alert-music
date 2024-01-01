@@ -2,8 +2,6 @@
 ---
 title: Prisoner of Love
 ---
-Title: Prisoner of Love
-
 Composer: 
 
 Arranger: 
