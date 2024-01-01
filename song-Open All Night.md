@@ -12,7 +12,7 @@ Release Date: 2002-10-01
 
 Performers: [[person-Bon Jovi|Bon Jovi]]
 
-Plagiarism allegation:
+Plagiarism allegations:
 [[song-Melody|Melody]]
 
 Comments:
