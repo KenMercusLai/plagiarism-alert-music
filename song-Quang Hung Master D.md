@@ -12,7 +12,7 @@ Lyricist:
 
 Release Date: 2021-01-01
 
-Performers: [[4D]]
+Performers: [[person-4D|4D]]
 
 Plagiarism allegation:
 [[song-处处吻|处处吻]]
