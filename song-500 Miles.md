@@ -12,7 +12,7 @@ Release Date: 1961-01-01
 
 Performers: 
 
-Plagiarism allegation:
+Plagiarism allegations:
 
 
 Comments:
