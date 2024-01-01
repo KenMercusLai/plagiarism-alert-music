@@ -8,6 +8,8 @@ Arranger:
 Lyricist: 
 Release Date: 2008-10-17
 Performers: [[苏见信]]
+Plagiarism allegation:
+
 
 Comments:
 null
