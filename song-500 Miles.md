@@ -2,8 +2,6 @@
 ---
 title: 500 Miles
 ---
-Title: 500 Miles
-
 Composer: 
 
 Arranger: 
