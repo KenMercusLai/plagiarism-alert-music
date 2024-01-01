@@ -2,8 +2,6 @@
 ---
 title: 高原红
 ---
-Title: 高原红
-
 Composer: 
 
 Arranger: 
