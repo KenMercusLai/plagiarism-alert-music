@@ -2,8 +2,6 @@
 ---
 title: 麦芽糖
 ---
-Title: 麦芽糖
-
 Composer: 
 
 Arranger: 
