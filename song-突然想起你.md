@@ -2,8 +2,6 @@
 ---
 title: 突然想起你
 ---
-Title: 突然想起你
-
 Composer: 
 
 Arranger: 
