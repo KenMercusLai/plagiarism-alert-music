@@ -2,8 +2,6 @@
 ---
 title: only my railgun
 ---
-Title: only my railgun
-
 Composer: 
 
 Arranger: 
