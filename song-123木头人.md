@@ -12,7 +12,7 @@ Lyricist:
 
 Release Date: 2017-01-01
 
-Performers: [[Sing女团]]
+Performers: [[person-Sing女团|Sing女团]]
 
 Plagiarism allegation:
 [[song-客官不可以|客官不可以]]
