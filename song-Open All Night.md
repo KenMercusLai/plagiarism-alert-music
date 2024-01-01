@@ -2,8 +2,6 @@
 ---
 title: Open All Night
 ---
-Title: Open All Night
-
 Composer: 
 
 Arranger: 
