@@ -2,8 +2,6 @@
 ---
 title: signal
 ---
-Title: signal
-
 Composer: 
 
 Arranger: 
