@@ -12,7 +12,7 @@ Release Date: 2007-10-25
 
 Performers: [[person-周传雄|周传雄]]
 
-Plagiarism allegation:
+Plagiarism allegations:
 
 
 Comments:
