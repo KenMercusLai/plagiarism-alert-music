@@ -12,7 +12,7 @@ Release Date: 2001-01-01
 
 Performers: [[person-click-b|click-b]]
 
-Plagiarism allegation:
+Plagiarism allegations:
 
 
 Comments:
