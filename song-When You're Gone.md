@@ -2,8 +2,6 @@
 ---
 title: When You're Gone
 ---
-Title: When You're Gone
-
 Composer: 
 
 Arranger: 
