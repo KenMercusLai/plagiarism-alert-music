@@ -12,7 +12,7 @@ Lyricist:
 
 Release Date: 2007-04-17
 
-Performers: [[艾薇儿]]
+Performers: [[person-艾薇儿|艾薇儿]]
 
 Plagiarism allegation:
 
