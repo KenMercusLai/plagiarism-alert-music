@@ -2,8 +2,6 @@
 ---
 title: to be continued
 ---
-Title: to be continued
-
 Composer: 
 
 Arranger: 
