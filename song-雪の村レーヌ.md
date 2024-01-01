@@ -2,8 +2,6 @@
 ---
 title: 雪の村レーヌ
 ---
-Title: 雪の村レーヌ
-
 Composer: 
 
 Arranger: 
