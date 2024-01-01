@@ -12,7 +12,7 @@ Release Date: 2007-04-17
 
 Performers: [[person-艾薇儿|艾薇儿]]
 
-Plagiarism allegation:
+Plagiarism allegations:
 
 
 Comments:
