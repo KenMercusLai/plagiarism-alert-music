@@ -12,7 +12,7 @@ Release Date: 2002-01-01
 
 Performers: [[person-陶喆|陶喆]]
 
-Plagiarism allegation:
+Plagiarism allegations:
 
 
 Comments:
