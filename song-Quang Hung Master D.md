@@ -2,8 +2,6 @@
 ---
 title: Quang Hung Master D
 ---
-Title: Quang Hung Master D
-
 Composer: 
 
 Arranger: 
