@@ -12,7 +12,7 @@ Lyricist:
 
 Release Date: 2011-11-10
 
-Performers: [[平井坚]]
+Performers: [[person-平井坚|平井坚]]
 
 Plagiarism allegation:
 
