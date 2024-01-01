@@ -2,8 +2,6 @@
 ---
 title: 高冷的爱情
 ---
-Title: 高冷的爱情
-
 Composer: [[person-宋孟君|宋孟君]]
 
 Arranger: 
