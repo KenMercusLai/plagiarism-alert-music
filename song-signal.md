@@ -12,7 +12,7 @@ Release Date: 2011-11-10
 
 Performers: [[person-平井坚|平井坚]]
 
-Plagiarism allegation:
+Plagiarism allegations:
 
 
 Comments:
