@@ -2,8 +2,6 @@
 ---
 title: 123木头人
 ---
-Title: 123木头人
-
 Composer: 
 
 Arranger: 
