@@ -8,59 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2512d465fd5f536c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "清心音.乱魄抄.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "638860e48d5e073e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其实你不懂我的心.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a43394f98f531754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "夜三里.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "062e9205d4c0b17a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "突然想起你.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,32 +96,32 @@
   },
   "active": "062e9205d4c0b17a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "突然想起你.md",
-    "index.md",
-    "夜三里.md",
-    "其实你不懂我的心.md",
-    "清心音.乱魄抄.md",
-    "金鱼花火.md",
-    "昙花一现.md",
-    "悲怆奏鸣曲第三乐章.md",
-    "信条.md",
-    "茧.md",
-    "烟花易冷.md",
-    "小尖尖.md",
-    "逃亡.md",
-    "东南西北风.md",
-    "巡恋歌.md",
-    "闺蜜之歌.md",
-    "大家一起喜羊羊.md",
-    "你若成风.md",
-    "斯琴高丽的伤心.md",
-    "很多的伤心.md",
-    "花木兰.md",
-    "千本樱.md",
-    "最美的期待.md",
-    "未填词.md",
-    "下个路口见.md",
+    "song-청혼.md",
+    "song-麦芽糖.md",
+    "song-魂.md",
+    "song-高原红.md",
+    "song-高冷的爱情.md",
+    "song-骁.md",
+    "song-飞舞.md",
+    "song-风见鸡.md",
+    "song-青花.md",
+    "song-雪人兄弟 Opening.md",
+    "song-雪の村レーヌ.md",
+    "song-阴晴圆缺.md",
+    "song-阳光男孩阳光女孩.md",
+    "song-问心.md",
+    "song-问.md",
+    "song-铁血忠诚.md",
+    "song-辐射3 Opening.md",
+    "song-赴狂澜.md",
+    "song-请先说你好.md",
+    "song-落笛.md",
+    "song-缘分一道桥.md",
+    "song-绝情人.md",
+    "song-红颜易老.md",
+    "song-等你归来.md",
+    "song-竹林风.md",
     "kumu.json",
     "高原红.md.tmp",
     "青鸟-许巍.md.tmp",
